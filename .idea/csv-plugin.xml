@@ -17,35 +17,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\src\database\awesome-hugo-themes.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\src\database\cache\SHOW-2021-10-03.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\src\services\workflows\awesome-hugo-themes.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\src\services\workflows\new-table.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\src\tests\111.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
