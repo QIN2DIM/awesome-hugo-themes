@@ -37,7 +37,8 @@ jobs:
       
     - name: Push done work
       run: |
+        git add --all
         git commit -m "Automated deployment"
-        git push --force
+        git push --force origin main
 
       
