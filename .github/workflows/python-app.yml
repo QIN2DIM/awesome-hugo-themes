@@ -28,7 +28,7 @@ jobs:
     - name: ping to scaffold
       run: |
         cd src
-        python main.py
+        python main.py build --env=production
 
 
       
