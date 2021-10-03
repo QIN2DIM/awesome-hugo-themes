@@ -26,7 +26,7 @@ jobs:
     - name: ping to scaffold
       run: |
         ls
-        cd 
+        cd src 
         ls
 
 
