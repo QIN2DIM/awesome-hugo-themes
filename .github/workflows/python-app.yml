@@ -34,9 +34,10 @@ jobs:
       # You may pin to the exact commit or the version.
       # uses: fregante/setup-git-user@6cef8bf084d00360a293e0cc3c56e1b45d6502b8
       uses: fregante/setup-git-user@v1
+      
     - name: Push done work
-        run:|
-          git commit -m "Automated deployment"
-          git push --force
+      run: |
+        git commit -m "Automated deployment"
+        git push --force
 
       
