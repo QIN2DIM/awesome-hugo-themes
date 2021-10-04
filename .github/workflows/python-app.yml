@@ -11,9 +11,10 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
+    env:
+      TZ: "Asia/Shanghai"
+      SORTED: "stars"
     steps:
       - uses: actions/checkout@v2
 
@@ -27,20 +28,16 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: ping to scaffold
+      - name: Run Scaffold
         run: |
           cd src
-          python main.py build --env=production
+          python main.py build --env=production --key=${{ env.SORTED }}
 
       - name: Setup GIT user
-        # You may pin to the exact commit or the version.
-        # uses: fregante/setup-git-user@6cef8bf084d00360a293e0cc3c56e1b45d6502b8
         uses: fregante/setup-git-user@v1
 
       - name: Push done work
         run: |
           git add --all
-          git commit -m "Automated deployment"
+          git commit -m "Automated deployment @ $(date '+%Y-%m-%d %H:%M:%S') ${{ env.TZ }} &sorted=${{ env.SORTED }}"
           git push --force origin main
-
-      
