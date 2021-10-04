@@ -129,5 +129,4 @@ dmypy.json
 .pyre/
 src/tests/
 src/README.md
-src/database
-.idea
+src/database/logs
