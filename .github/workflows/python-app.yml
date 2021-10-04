@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TZ: "Asia/Shanghai"
-      SORTED: "stars"
+      SORTED: "updated" # within ['stars', 'updated']
       
     steps:
       - uses: actions/checkout@v2
