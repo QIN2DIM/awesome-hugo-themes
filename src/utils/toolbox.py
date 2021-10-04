@@ -61,10 +61,10 @@ def csv_to_markdown_table(input_path_csv: str, output_path="./README-spider.md",
             f.write("|{}|\n".format("|".join(tag)))
 
 
-def generate_root_readme(path_markdown_context: str, path_project_readme: str):
+def generate_root_readme(path_markdown_context: str, path_project_readme: str, build_mode="none"):
     h1_title = "# awesome-hugo-themes\n"
 
-    description = f"> Automated deployment @ {format_time('time')} {TIME_ZONE_CODE}\n"
+    description = f"> Automated deployment @ {format_time('time')} {TIME_ZONE_CODE} &sorted={build_mode} \n"
 
     with open(path_markdown_context, 'r', encoding="utf8") as f:
         data = [i for i in f.read().split('\n') if i]
@@ -74,3 +74,31 @@ def generate_root_readme(path_markdown_context: str, path_project_readme: str):
         f.write(f"{description}\n")
         for i in data:
             f.write(f"{i}\n")
+
+
+def table_sorted(input_path_csv: str, by: str = "stars"):
+    """
+    调整排序
+    :param input_path_csv:
+    :param by: stars ,updated
+    :return:
+    """
+    new_data = []
+    with open(input_path_csv, "r", encoding="utf8") as f:
+        reader = list(csv.reader(f))
+
+    if by == "stars":
+        # str --> int
+        for i in reader[1:]:
+            i[-2] = int(i[-2])
+        # Descending order according to GitHub Stars.
+        new_data = sorted(reader[1:], key=lambda x: x[-2], reverse=True)
+    elif by == "updated":
+        new_data = sorted(reader[1:], key=lambda x: x[-1], reverse=True)
+
+    # new_data --> input.csv
+    with open(input_path_csv, "w", encoding="utf-8", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerow(reader[0])
+        for data in new_data:
+            writer.writerow(data)

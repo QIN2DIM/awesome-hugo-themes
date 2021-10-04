@@ -6,41 +6,41 @@ name: Python application
 on:
   push:
     branches: [ main ]
-#   schedule:
-#     - cron: '5 */2 * * *'
-    
+    #   schedule:
+    #     - cron: '5 */2 * * *'
+
 jobs:
   build:
 
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    
-    - name: Set up Python 3.8
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.8
-        
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-        
-    - name: ping to scaffold
-      run: |
-        cd src
-        python main.py build --env=production
+      - uses: actions/checkout@v2
 
-    - name: Setup GIT user
-      # You may pin to the exact commit or the version.
-      # uses: fregante/setup-git-user@6cef8bf084d00360a293e0cc3c56e1b45d6502b8
-      uses: fregante/setup-git-user@v1
-      
-    - name: Push done work
-      run: |
-        git add --all
-        git commit -m "Automated deployment"
-        git push --force origin main
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: ping to scaffold
+        run: |
+          cd src
+          python main.py build --env=production
+
+      - name: Setup GIT user
+        # You may pin to the exact commit or the version.
+        # uses: fregante/setup-git-user@6cef8bf084d00360a293e0cc3c56e1b45d6502b8
+        uses: fregante/setup-git-user@v1
+
+      - name: Push done work
+        run: |
+          git add --all
+          git commit -m "Automated deployment"
+          git push --force origin main
 
       

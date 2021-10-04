@@ -6,7 +6,6 @@
 
 import csv
 
-from setting import logger
 from utils.toolbox import to_markdown
 
 
@@ -39,4 +38,3 @@ def format_conversion(input_csv_path: str, output_csv_path: str = None):
             new_github_stars = i[4]
             new_updated = i[5]
             writer.writerow([new_theme, new_author, new_license, new_github_stars, new_updated])
-
