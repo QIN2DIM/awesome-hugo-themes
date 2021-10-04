@@ -15,6 +15,7 @@ jobs:
     env:
       TZ: "Asia/Shanghai"
       SORTED: "stars"
+      
     steps:
       - uses: actions/checkout@v2
 
@@ -31,7 +32,7 @@ jobs:
       - name: Run Scaffold
         run: |
           cd src
-          python main.py build --env=production --key=${{ env.SORTED }}
+          python main.py build --env=production --key=${{ env.SORTED }} --force
 
       - name: Setup GIT user
         uses: fregante/setup-git-user@v1
