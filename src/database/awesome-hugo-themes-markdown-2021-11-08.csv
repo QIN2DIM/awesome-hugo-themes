@@ -5,8 +5,8 @@ Theme,Author,License,GitHub Stars,Updated
 [Hugo Profile](https://themes.gohugo.io/themes/hugo-profile/),[Gurusabarish](https://github.com/gurusabarish/hugo-profile/issues),MIT,43,2021-11-05
 [Blonde](https://themes.gohugo.io/themes/blonde/),[wamo](https://github.com/opera7133/Blonde/blob/master/LICENSE),MIT,39,2021-11-05
 [Tella](https://themes.gohugo.io/themes/tella/),[wamo](https://github.com/opera7133/tella/blob/master/LICENSE),MIT,2,2021-11-05
-[terminal](https://themes.gohugo.io/themes/hugo-theme-terminal/),[panr](https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md),MIT,987,2021-11-04
 [Docsy](https://themes.gohugo.io/themes/docsy/),[The Docsy Authors](https://github.com/google/docsy/blob/master/LICENSE),Apache 2.0,1314,2021-11-04
+[terminal](https://themes.gohugo.io/themes/hugo-theme-terminal/),[panr](https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md),MIT,987,2021-11-04
 [congo](https://themes.gohugo.io/themes/congo/),[James Panther](https://github.com/jpanther/congo/blob/dev/CONTRIBUTING.md),MIT,7,2021-11-04
 [Relearn](https://themes.gohugo.io/themes/hugo-theme-relearn/),[Sören Weber](https://github.com/matcornic/hugo-theme-learn),MIT,9,2021-11-04
 [Anatole](https://themes.gohugo.io/themes/anatole/),[Alexander Bilz](https://github.com/lxndrblz/anatole/blob/master/exampleSite/content/english/post/redirect.md),MIT,342,2021-11-03
@@ -201,8 +201,8 @@ Theme,Author,License,GitHub Stars,Updated
 [Paperback](https://themes.gohugo.io/themes/paperback/),[dashdashzako](https://github.com/dashdashzako/paperback),MIT,39,2021-04-02
 [Inkblotty](https://themes.gohugo.io/themes/inkblotty/),[tosi](https://github.com/tosi29/inkblotty/blob/master/exampleSite/config.toml),GPLv3,29,2021-03-29
 [harbor](https://themes.gohugo.io/themes/harbor/),[matsuyoshi30](https://github.com/matsuyoshi30/harbor),MIT,153,2021-03-28
-[Bootstrap-BP](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/),[Sebastian Pech](https://github.com/spech66/bootstrap-bp-hugo-theme),MIT,37,2021-03-27
 [Bootstrap-BP-Startpage](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/),[Sebastian Pech](https://github.com/ViktorKare/startpage),MIT,41,2021-03-27
+[Bootstrap-BP](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/),[Sebastian Pech](https://github.com/spech66/bootstrap-bp-hugo-theme),MIT,37,2021-03-27
 [Materialize-BP](https://themes.gohugo.io/themes/materialize-bp-hugo-theme/),[Sebastian Pech](https://github.com/spech66/materialize-bp-hugo-theme),MIT,15,2021-03-27
 [Hugo Story](https://themes.gohugo.io/themes/hugo-story/),[caressofsteel](https://github.com/caressofsteel/hugo-story),Creative Commons,65,2021-03-23
 [hugo-theme-cole](https://themes.gohugo.io/themes/hugo-theme-cole/),[sunfy](https://github.com/sfengyuan/hugo-theme-cole),MIT,1,2021-03-17
@@ -293,8 +293,8 @@ Theme,Author,License,GitHub Stars,Updated
 [Persian Hugo](https://themes.gohugo.io/themes/persian-hugo/),[Themefisher](https://github.com/themefisher/persian-hugo/blob/master/LICENSE),MIT,19,2020-06-25
 [MemE](https://themes.gohugo.io/themes/hugo-theme-meme/),[reuixiy](https://github.com/reuixiy/hugo-theme-meme/issues/2),MIT,568,2020-06-24
 [liquorice](https://themes.gohugo.io/themes/liquorice/),[nil](https://github.com/GoalSmashers/clean-css),MIT,47,2020-06-22
-[simple-blog](https://themes.gohugo.io/themes/hugo-theme-simple-blog/),[10mohi6](https://github.com/10mohi6/hugo-theme-simple-blog),MIT,9,2020-06-16
 [Notrack](https://themes.gohugo.io/themes/hugo-theme-notrack/),[Simon Bengtsson](https://github.com/dillonzq/LoveIt/blob/master/assets/data/social.yml),GPLv3,9,2020-06-16
+[simple-blog](https://themes.gohugo.io/themes/hugo-theme-simple-blog/),[10mohi6](https://github.com/10mohi6/hugo-theme-simple-blog),MIT,9,2020-06-16
 [Black & Light](https://themes.gohugo.io/themes/hugo-black-and-light-theme/),[David Hamp-Gonsalves](https://github.com/davidhampgonsalves/hugo-black-and-light-theme),GNU3.0,172,2020-06-13
 [Origin](https://themes.gohugo.io/themes/origin-hugo-theme/),[nil](https://github.com/moody-person/origin-hugo-theme),MIT,33,2020-06-11
 [kitab](https://themes.gohugo.io/themes/kitab/),[Darshan Baral](https://github.com/darshanbaral/kitab/tree/master/exampleSite/content/emma),MIT,12,2020-06-06
@@ -303,8 +303,8 @@ Theme,Author,License,GitHub Stars,Updated
 [Bodhi Theme](https://themes.gohugo.io/themes/bodhi/),[Rohan Verma](https://github.com/rhnvrm/bodhi),MIT,10,2020-06-04
 [LoveIt](https://themes.gohugo.io/themes/loveit/),[Dillon](https://github.com/dillonzq/LoveIt/raw/master/images/Wechat.jpg),MIT,1364,2020-05-29
 [Hugo HTML5 UP Alpha](https://themes.gohugo.io/themes/hugo-html5up-alpha/),[Nelson/Roberto](https://github.com/dewittn/hugo-html5up-alpha/blob/master/exampleSite/config.toml),Creative Commons,8,2020-05-29
-[Jeffprod](https://themes.gohugo.io/themes/hugo-blog-jeffprod/),[@JeffProd](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet),MIT,49,2020-05-28
 [Erblog](https://themes.gohugo.io/themes/erblog/),[Ertuil](https://github.com/ertuil/erblog/tree/styled-scrollbar),MIT,50,2020-05-28
+[Jeffprod](https://themes.gohugo.io/themes/hugo-blog-jeffprod/),[@JeffProd](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet),MIT,49,2020-05-28
 [Resto Hugo](https://themes.gohugo.io/themes/resto-hugo/),[Karthik](#),CC-BY-3.0,0,2020-05-26
 [monopriv](https://themes.gohugo.io/themes/monopriv/),[Karthik](#),MIT,0,2020-05-26
 [Basic](https://themes.gohugo.io/themes/hugo-theme-basic/),[Stephen Siegert](https://github.com/siegerts/hugo-theme-basic/blob/master/LICENSE),MIT,96,2020-05-21
