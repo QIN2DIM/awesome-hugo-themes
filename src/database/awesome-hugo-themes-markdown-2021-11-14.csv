@@ -4,8 +4,8 @@ Theme,Author,License,GitHub Stars,Updated
 [Anubis](https://themes.gohugo.io/themes/hugo-theme-anubis/),[Dmitry Kolosov](https://github.com/mitrichius/hugo-theme-anubis/issues),MIT,187,2021-11-12
 [AutoPhugo](https://themes.gohugo.io/themes/autophugo/),[Karl Sickendick](https://github.com/aerohub/phugo),CCA 3.0 Unported,37,2021-11-12
 [Accessible Minimalism](https://themes.gohugo.io/themes/accessible-minimalism-hugo-theme/),[Leon Stafford](https://github.com/leonstafford/accessible-minimalism-hugo-theme/blob/master/images/screenshot.png),Unlicense,19,2021-11-12
-[Minima](https://themes.gohugo.io/themes/hugo-theme-minima/),[XJJ](https://github.com/Mivinci/hugo-theme-minima/issues),MIT,5,2021-11-12
 [Shadocs](https://themes.gohugo.io/themes/shadocs/),[Jordan GAZEAU](https://github.com/jgazeau/shadocs/actions/workflows/branches.yml),MIT,5,2021-11-12
+[Minima](https://themes.gohugo.io/themes/hugo-theme-minima/),[XJJ](https://github.com/Mivinci/hugo-theme-minima/issues),MIT,5,2021-11-12
 [Ticky Tacky Dark](https://themes.gohugo.io/themes/ticky_tacky_dark/),[kc0bfv](https://github.com/kc0bfv/ticky_tacky_dark),MIT,3,2021-11-12
 [Docsy](https://themes.gohugo.io/themes/docsy/),[The Docsy Authors](https://github.com/google/docsy/blob/master/LICENSE),Apache 2.0,1314,2021-11-11
 [terminal](https://themes.gohugo.io/themes/hugo-theme-terminal/),[panr](https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md),MIT,987,2021-11-10
@@ -306,8 +306,8 @@ Theme,Author,License,GitHub Stars,Updated
 [Hugo HTML5 UP Alpha](https://themes.gohugo.io/themes/hugo-html5up-alpha/),[Nelson/Roberto](https://github.com/dewittn/hugo-html5up-alpha/blob/master/exampleSite/config.toml),Creative Commons,8,2020-05-29
 [Erblog](https://themes.gohugo.io/themes/erblog/),[Ertuil](https://github.com/ertuil/erblog/tree/styled-scrollbar),MIT,50,2020-05-28
 [Jeffprod](https://themes.gohugo.io/themes/hugo-blog-jeffprod/),[@JeffProd](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet),MIT,49,2020-05-28
-[Resto Hugo](https://themes.gohugo.io/themes/resto-hugo/),[Karthik](#),CC-BY-3.0,0,2020-05-26
 [monopriv](https://themes.gohugo.io/themes/monopriv/),[Karthik](#),MIT,0,2020-05-26
+[Resto Hugo](https://themes.gohugo.io/themes/resto-hugo/),[Karthik](#),CC-BY-3.0,0,2020-05-26
 [Basic](https://themes.gohugo.io/themes/hugo-theme-basic/),[Stephen Siegert](https://github.com/siegerts/hugo-theme-basic/blob/master/LICENSE),MIT,96,2020-05-21
 [npq hugo](https://themes.gohugo.io/themes/npq-hugo/),[saadnpq](https://github.com/ahmedsaadxyz/npqhugo),GPLv3,22,2020-05-16
 [Winning](https://themes.gohugo.io/themes/hugo-theme-winning/),[Tim Clulow](https://github.com/cssandstuff/hugo-theme-winning/blob/master/LICENSE.md),MIT,49,2020-05-07
