@@ -383,17 +383,6 @@ MIT
 2021-11-18
 "
 "[
-XMag
-](https://themes.gohugo.io/themes/hugo-xmag/)","[
-Yihui Xie
-](https://github.com/yihui/hugo-xmag)","
-MIT
-","
-56
-","
-2021-11-18
-"
-"[
 Hugo Profile
 ](https://themes.gohugo.io/themes/hugo-profile/)","[
 Gurusabarish
@@ -401,6 +390,17 @@ Gurusabarish
 MIT
 ","
 64
+","
+2021-11-18
+"
+"[
+XMag
+](https://themes.gohugo.io/themes/hugo-xmag/)","[
+Yihui Xie
+](https://github.com/yihui/hugo-xmag)","
+MIT
+","
+56
 ","
 2021-11-18
 "
@@ -691,22 +691,22 @@ MIT
 2021-10-26
 "
 "[
-Alpha Church
-](https://themes.gohugo.io/themes/alpha-church/)","[
-Daniel Saunders
-](https://github.com/funkydan2/alpha-church)","
-Creative Commons Attribution 3.0
+Tokiwa
+](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)","[
+He Yeshuang
+](https://github.com/Remix-Design/remixicon)","
+MIT
 ","
 46
 ","
 2021-10-26
 "
 "[
-Tokiwa
-](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)","[
-He Yeshuang
-](https://github.com/Remix-Design/remixicon)","
-MIT
+Alpha Church
+](https://themes.gohugo.io/themes/alpha-church/)","[
+Daniel Saunders
+](https://github.com/funkydan2/alpha-church)","
+Creative Commons Attribution 3.0
 ","
 46
 ","
@@ -1164,17 +1164,6 @@ MIT
 2021-09-08
 "
 "[
-Restaurant Hugo
-](https://themes.gohugo.io/themes/restaurant-hugo/)","[
-Themefisher
-](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)","
-MIT
-","
-35
-","
-2021-09-08
-"
-"[
 Infinity Hugo
 ](https://themes.gohugo.io/themes/infinity-hugo/)","[
 Themefisher
@@ -1182,6 +1171,17 @@ Themefisher
 MIT
 ","
 36
+","
+2021-09-08
+"
+"[
+Restaurant Hugo
+](https://themes.gohugo.io/themes/restaurant-hugo/)","[
+Themefisher
+](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)","
+MIT
+","
+35
 ","
 2021-09-08
 "
