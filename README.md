@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-11 16:28:41 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-11 18:26:54 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -49,8 +49,8 @@
 |[AutoPhugo](https://themes.gohugo.io/themes/autophugo/)|[Karl Sickendick](https://github.com/aerohub/phugo)|CCA 3.0 Unported|42|2021-11-14|
 |[Accessible Minimalism](https://themes.gohugo.io/themes/accessible-minimalism-hugo-theme/)|[Leon Stafford](https://github.com/leonstafford/accessible-minimalism-hugo-theme/blob/master/images/screenshot.png)|Unlicense|29|2021-11-12|
 |[Ticky Tacky Dark](https://themes.gohugo.io/themes/ticky_tacky_dark/)|[kc0bfv](https://github.com/kc0bfv/ticky_tacky_dark)|MIT|4|2021-11-12|
-|[terminal](https://themes.gohugo.io/themes/hugo-theme-terminal/)|[panr](https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md)|MIT|1071|2021-11-10|
 |[Eureka](https://themes.gohugo.io/themes/hugo-eureka/)|[C. Wang](https://github.com/wangchucheng/hugo-eureka/)|Apache 2.0|476|2021-11-10|
+|[terminal](https://themes.gohugo.io/themes/hugo-theme-terminal/)|[panr](https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md)|MIT|1071|2021-11-10|
 |[Universal](https://themes.gohugo.io/themes/hugo-universal-theme/)|[adrianmo](https://github.com/devcows/hugo-universal-theme/pulls)|MIT|526|2021-11-09|
 |[hello-friend](https://themes.gohugo.io/themes/hugo-theme-hello-friend/)|[panr](https://github.com/panr/hugo-theme-hello-friend/blob/master/LICENSE.md)|MIT|712|2021-11-07|
 |[DoIt](https://themes.gohugo.io/themes/doit/)|[PCloud](https://github.com/buunguyen/topbar)|MIT|157|2021-11-06|
@@ -66,8 +66,8 @@
 |[Learn](https://themes.gohugo.io/themes/hugo-theme-learn/)|[Mathieu Cornic](https://github.com/github-tools/github-release-notes)|MIT|1297|2021-10-28|
 |[Yourfolio](https://themes.gohugo.io/themes/yourfolio/)|[Sergey Furtak](https://github.com/serg/yourfolio)|MIT|24|2021-10-28|
 |[Kross Hugo](https://themes.gohugo.io/themes/kross-hugo-portfolio-template/)|[Themefisher](https://github.com/themefisher/kross-hugo/graphs/contributors)|MIT|220|2021-10-26|
-|[Alpha Church](https://themes.gohugo.io/themes/alpha-church/)|[Daniel Saunders](https://github.com/funkydan2/alpha-church)|Creative Commons Attribution 3.0|46|2021-10-26|
 |[Tokiwa](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[He Yeshuang](https://github.com/Remix-Design/remixicon)|MIT|46|2021-10-26|
+|[Alpha Church](https://themes.gohugo.io/themes/alpha-church/)|[Daniel Saunders](https://github.com/funkydan2/alpha-church)|Creative Commons Attribution 3.0|46|2021-10-26|
 |[Simple Resume](https://themes.gohugo.io/themes/simple-resume/)|[Tyler Lawson](https://github.com/tylerjlawson/simple-resume)|MIT|17|2021-10-26|
 |[Cupper](https://themes.gohugo.io/themes/cupper-hugo-theme/)|[Zachary Betz](https://github.com/zwbetz-gh/cupper-hugo-theme/tree/master/exampleSite)|MIT|203|2021-10-25|
 |[Resume A4](https://themes.gohugo.io/themes/resume-a4/)|[MERT BAKIR](#)|MIT|0|2021-10-22|
@@ -110,8 +110,8 @@
 |[Navigator Hugo](https://themes.gohugo.io/themes/navigator-hugo/)|[Themefisher](https://github.com/gethugothemes/navigator-hugo/graphs/contributors)|MIT|113|2021-09-08|
 |[Timer Hugo](https://themes.gohugo.io/themes/timer-hugo/)|[Themefisher](https://github.com/themefisher/timer-hugo/graphs/contributors)|MIT|113|2021-09-08|
 |[Influencer Hugo](https://themes.gohugo.io/themes/influencer-hugo/)|[Themefisher](https://github.com/gethugothemes/influencer-hugo/graphs/contributors)|MIT|59|2021-09-08|
-|[Restaurant Hugo](https://themes.gohugo.io/themes/restaurant-hugo/)|[Themefisher](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|MIT|35|2021-09-08|
 |[Infinity Hugo](https://themes.gohugo.io/themes/infinity-hugo/)|[Themefisher](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|MIT|36|2021-09-08|
+|[Restaurant Hugo](https://themes.gohugo.io/themes/restaurant-hugo/)|[Themefisher](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|MIT|35|2021-09-08|
 |[Health Science Journal](https://themes.gohugo.io/themes/health-science-journal/)|[Shaun Khoo](https://github.com/epistemehealth/JATSetter)|GPL v3+|8|2021-09-08|
 |[Hugo Split Gallery](https://themes.gohugo.io/themes/hugo-split-gallery/)|[Thomas Muguet](https://github.com/christianmendoza/hugo-split-theme)|GPL-3.0-or-later|0|2021-09-07|
 |[W3.CSS Basic](https://themes.gohugo.io/themes/hugo-theme-w3css-basic/)|[it-gro](https://github.com/liwenyip/hugo-easy-gallery/)|MIT|45|2021-09-05|
@@ -155,8 +155,8 @@
 |[Bookworm](https://themes.gohugo.io/themes/bookworm/)|[gethugothemes](https://github.com/krisk/fuse)|MIT|31|2021-07-19|
 |[Showcase](https://themes.gohugo.io/themes/showcase-hugo-theme/)|[Varun A P](https://github.com/apvarun/showcase-hugo-theme/issues)|MIT|38|2021-07-14|
 |[Hugo Serif](https://themes.gohugo.io/themes/hugo-serif-theme/)|[Robert Austin](https://github.com/zerostaticthemes/gatsby-serif-theme)|MIT|219|2021-07-09|
-|[Whisper](https://themes.gohugo.io/themes/hugo-whisper-theme/)|[Robert Austin](https://github.com/zerostaticthemes/hugo-whisper-theme/archive/master.zip)|MIT|175|2021-07-09|
 |[Hero](https://themes.gohugo.io/themes/hugo-hero-theme/)|[Robert Austin](https://github.com/zerostaticthemes/hugo-hero-theme/archive/master.zip)|MIT|160|2021-07-09|
+|[Whisper](https://themes.gohugo.io/themes/hugo-whisper-theme/)|[Robert Austin](https://github.com/zerostaticthemes/hugo-whisper-theme/archive/master.zip)|MIT|175|2021-07-09|
 |[Hugo Winston](https://themes.gohugo.io/themes/hugo-winston-theme/)|[Robert Austin](https://github.com/zerostaticthemes/hugo-winston-theme)|MIT|18|2021-07-09|
 |[Simple Snipcart Shop](https://themes.gohugo.io/themes/simple-snipcart-shop/)|[tylerjlawson](https://github.com/tylerjlawson/simple-snipcart-shop)|MIT|0|2021-07-09|
 |[Noteworthy](https://themes.gohugo.io/themes/hugo-theme-noteworthy/)|[kimcc](https://github.com/kimcc/hugo-theme-noteworthy/blob/master/LICENSE.md)|MIT|163|2021-07-08|
@@ -210,8 +210,8 @@
 |[Paperback](https://themes.gohugo.io/themes/paperback/)|[dashdashzako](https://github.com/dashdashzako/paperback)|MIT|41|2021-04-02|
 |[Inkblotty](https://themes.gohugo.io/themes/inkblotty/)|[tosi](https://github.com/tosi29/inkblotty/blob/master/exampleSite/config.toml)|GPLv3|29|2021-03-29|
 |[harbor](https://themes.gohugo.io/themes/harbor/)|[matsuyoshi30](https://github.com/matsuyoshi30/harbor)|MIT|164|2021-03-28|
-|[Bootstrap-BP-Startpage](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[Sebastian Pech](https://github.com/ViktorKare/startpage)|MIT|42|2021-03-27|
 |[Bootstrap-BP](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[Sebastian Pech](https://github.com/spech66/bootstrap-bp-hugo-theme)|MIT|38|2021-03-27|
+|[Bootstrap-BP-Startpage](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[Sebastian Pech](https://github.com/ViktorKare/startpage)|MIT|42|2021-03-27|
 |[Materialize-BP](https://themes.gohugo.io/themes/materialize-bp-hugo-theme/)|[Sebastian Pech](https://github.com/spech66/materialize-bp-hugo-theme)|MIT|14|2021-03-27|
 |[Hugo Story](https://themes.gohugo.io/themes/hugo-story/)|[caressofsteel](https://github.com/caressofsteel/hugo-story)|Creative Commons|65|2021-03-23|
 |[hugo-theme-cole](https://themes.gohugo.io/themes/hugo-theme-cole/)|[sunfy](https://github.com/sfengyuan/hugo-theme-cole)|MIT|0|2021-03-17|
@@ -344,8 +344,8 @@
 |[Hugo-owaraicub](https://themes.gohugo.io/themes/hugo-owaraiclub/)|[TC](https://github.com/yihui/hugo-xmag)|MIT|0|2019-11-05|
 |[Niello](https://themes.gohugo.io/themes/niello/)|[guangmean](https://github.com/guangmean/Niello)|MIT|10|2019-10-29|
 |[Whiteplain](https://themes.gohugo.io/themes/whiteplain/)|[taikii](https://github.com/taikii/whiteplain-light)|MIT|81|2019-10-27|
-|[Arabica](https://themes.gohugo.io/themes/arabica/)|[Chen Fangzhou](https://github.com/nirocfz/arabica/blob/master/LICENSE)|MIT|17|2019-10-12|
 |[Spectre Pixel Theme](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[Shin Tatt](https://github.com/digitalcraftsman/hugo-cactus-theme)|MIT|16|2019-10-12|
+|[Arabica](https://themes.gohugo.io/themes/arabica/)|[Chen Fangzhou](https://github.com/nirocfz/arabica/blob/master/LICENSE)|MIT|17|2019-10-12|
 |[TwentyNineteen Hugo](https://themes.gohugo.io/themes/twentynineteen-hugo/)|[Jeremy Bise](https://github.com/jeremybise/twentynineteen-hugo/blob/master/LICENSE.md)|GNU General Public License v2 or later|10|2019-10-08|
 |[purehugo](https://themes.gohugo.io/themes/purehugo/)|[nil](https://github.com/dplesca/purehugo)|MIT|85|2019-09-24|
 |[Slim](https://themes.gohugo.io/themes/hugo-theme-slim/)|[Zhe Zhang](https://github.com/zhe/hugo-theme-slim/blob/master/LICENSE.md)|MIT|106|2019-09-20|
