@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-12 12:33:05 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-12 14:29:23 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -696,22 +696,22 @@ MIT
 2021-10-26
 |
 |[
-Tokiwa
-](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
-He Yeshuang
-](https://github.com/Remix-Design/remixicon)|
-MIT
+Alpha Church
+](https://themes.gohugo.io/themes/alpha-church/)|[
+Daniel Saunders
+](https://github.com/funkydan2/alpha-church)|
+Creative Commons Attribution 3.0
 |
 46
 |
 2021-10-26
 |
 |[
-Alpha Church
-](https://themes.gohugo.io/themes/alpha-church/)|[
-Daniel Saunders
-](https://github.com/funkydan2/alpha-church)|
-Creative Commons Attribution 3.0
+Tokiwa
+](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
+He Yeshuang
+](https://github.com/Remix-Design/remixicon)|
+MIT
 |
 46
 |
@@ -1169,17 +1169,6 @@ MIT
 2021-09-08
 |
 |[
-Infinity Hugo
-](https://themes.gohugo.io/themes/infinity-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
-MIT
-|
-36
-|
-2021-09-08
-|
-|[
 Restaurant Hugo
 ](https://themes.gohugo.io/themes/restaurant-hugo/)|[
 Themefisher
@@ -1187,6 +1176,17 @@ Themefisher
 MIT
 |
 35
+|
+2021-09-08
+|
+|[
+Infinity Hugo
+](https://themes.gohugo.io/themes/infinity-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
+MIT
+|
+36
 |
 2021-09-08
 |
@@ -1664,17 +1664,6 @@ MIT
 2021-07-09
 |
 |[
-Whisper
-](https://themes.gohugo.io/themes/hugo-whisper-theme/)|[
-Robert Austin
-](https://github.com/zerostaticthemes/hugo-whisper-theme/archive/master.zip)|
-MIT
-|
-175
-|
-2021-07-09
-|
-|[
 Hero
 ](https://themes.gohugo.io/themes/hugo-hero-theme/)|[
 Robert Austin
@@ -1682,6 +1671,17 @@ Robert Austin
 MIT
 |
 160
+|
+2021-07-09
+|
+|[
+Whisper
+](https://themes.gohugo.io/themes/hugo-whisper-theme/)|[
+Robert Austin
+](https://github.com/zerostaticthemes/hugo-whisper-theme/archive/master.zip)|
+MIT
+|
+175
 |
 2021-07-09
 |
@@ -2824,17 +2824,6 @@ MIT
 2020-11-05
 |
 |[
-pulp
-](https://themes.gohugo.io/themes/pulp/)|[
-koirand
-](https://github.com/koirand/pulp)|
-MIT
-|
-102
-|
-2020-11-01
-|
-|[
 Swift
 ](https://themes.gohugo.io/themes/hugo-swift-theme/)|[
 weru
@@ -2842,6 +2831,17 @@ weru
 MIT
 |
 97
+|
+2020-11-01
+|
+|[
+pulp
+](https://themes.gohugo.io/themes/pulp/)|[
+koirand
+](https://github.com/koirand/pulp)|
+MIT
+|
+102
 |
 2020-11-01
 |
@@ -3240,17 +3240,6 @@ MIT
 2020-06-22
 |
 |[
-simple-blog
-](https://themes.gohugo.io/themes/hugo-theme-simple-blog/)|[
-10mohi6
-](https://github.com/10mohi6/hugo-theme-simple-blog)|
-MIT
-|
-8
-|
-2020-06-16
-|
-|[
 Notrack
 ](https://themes.gohugo.io/themes/hugo-theme-notrack/)|[
 Simon Bengtsson
@@ -3258,6 +3247,17 @@ Simon Bengtsson
 GPLv3
 |
 9
+|
+2020-06-16
+|
+|[
+simple-blog
+](https://themes.gohugo.io/themes/hugo-theme-simple-blog/)|[
+10mohi6
+](https://github.com/10mohi6/hugo-theme-simple-blog)|
+MIT
+|
+8
 |
 2020-06-16
 |
