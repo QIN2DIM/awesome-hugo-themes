@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-13 00:37:55 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-13 02:28:36 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -1169,17 +1169,6 @@ MIT
 2021-09-08
 |
 |[
-Infinity Hugo
-](https://themes.gohugo.io/themes/infinity-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
-MIT
-|
-36
-|
-2021-09-08
-|
-|[
 Restaurant Hugo
 ](https://themes.gohugo.io/themes/restaurant-hugo/)|[
 Themefisher
@@ -1187,6 +1176,17 @@ Themefisher
 MIT
 |
 35
+|
+2021-09-08
+|
+|[
+Infinity Hugo
+](https://themes.gohugo.io/themes/infinity-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
+MIT
+|
+36
 |
 2021-09-08
 |
@@ -1455,17 +1455,6 @@ MIT
 2021-08-08
 |
 |[
-Starter Theme
-](https://themes.gohugo.io/themes/hugo-starter/)|[
-Jim Frenette
-](https://github.com/jimfrenette/hugo-starter)|
-MIT
-|
-13
-|
-2021-08-05
-|
-|[
 Vibrant Shadows
 ](https://themes.gohugo.io/themes/hugotheme-vibrantshadows/)|[
 Softorage
@@ -1473,6 +1462,17 @@ Softorage
 MIT
 |
 9
+|
+2021-08-05
+|
+|[
+Starter Theme
+](https://themes.gohugo.io/themes/hugo-starter/)|[
+Jim Frenette
+](https://github.com/jimfrenette/hugo-starter)|
+MIT
+|
+13
 |
 2021-08-05
 |
@@ -1664,17 +1664,6 @@ MIT
 2021-07-09
 |
 |[
-Hero
-](https://themes.gohugo.io/themes/hugo-hero-theme/)|[
-Robert Austin
-](https://github.com/zerostaticthemes/hugo-hero-theme/archive/master.zip)|
-MIT
-|
-160
-|
-2021-07-09
-|
-|[
 Whisper
 ](https://themes.gohugo.io/themes/hugo-whisper-theme/)|[
 Robert Austin
@@ -1682,6 +1671,17 @@ Robert Austin
 MIT
 |
 175
+|
+2021-07-09
+|
+|[
+Hero
+](https://themes.gohugo.io/themes/hugo-hero-theme/)|[
+Robert Austin
+](https://github.com/zerostaticthemes/hugo-hero-theme/archive/master.zip)|
+MIT
+|
+160
 |
 2021-07-09
 |
@@ -1719,17 +1719,6 @@ MIT
 2021-07-08
 |
 |[
-Venture
-](https://themes.gohugo.io/themes/venture/)|[
-William Toll
-](https://github.com/Wtoll/venture)|
-MIT
-|
-1
-|
-2021-07-08
-|
-|[
 Split Landing
 ](https://themes.gohugo.io/themes/split-landing/)|[
 Katajun
@@ -1737,6 +1726,17 @@ Katajun
 MIT
 |
 0
+|
+2021-07-08
+|
+|[
+Venture
+](https://themes.gohugo.io/themes/venture/)|[
+William Toll
+](https://github.com/Wtoll/venture)|
+MIT
+|
+1
 |
 2021-07-08
 |
@@ -2265,17 +2265,6 @@ MIT
 2021-03-28
 |
 |[
-Bootstrap-BP-Startpage
-](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
-Sebastian Pech
-](https://github.com/ViktorKare/startpage)|
-MIT
-|
-42
-|
-2021-03-27
-|
-|[
 Bootstrap-BP
 ](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
 Sebastian Pech
@@ -2283,6 +2272,17 @@ Sebastian Pech
 MIT
 |
 38
+|
+2021-03-27
+|
+|[
+Bootstrap-BP-Startpage
+](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
+Sebastian Pech
+](https://github.com/ViktorKare/startpage)|
+MIT
+|
+42
 |
 2021-03-27
 |
@@ -2824,17 +2824,6 @@ MIT
 2020-11-05
 |
 |[
-pulp
-](https://themes.gohugo.io/themes/pulp/)|[
-koirand
-](https://github.com/koirand/pulp)|
-MIT
-|
-102
-|
-2020-11-01
-|
-|[
 Swift
 ](https://themes.gohugo.io/themes/hugo-swift-theme/)|[
 weru
@@ -2842,6 +2831,17 @@ weru
 MIT
 |
 97
+|
+2020-11-01
+|
+|[
+pulp
+](https://themes.gohugo.io/themes/pulp/)|[
+koirand
+](https://github.com/koirand/pulp)|
+MIT
+|
+102
 |
 2020-11-01
 |
@@ -3348,17 +3348,6 @@ Creative Commons
 2020-05-29
 |
 |[
-Erblog
-](https://themes.gohugo.io/themes/erblog/)|[
-Ertuil
-](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
-MIT
-|
-52
-|
-2020-05-28
-|
-|[
 Jeffprod
 ](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
 @JeffProd
@@ -3370,15 +3359,15 @@ MIT
 2020-05-28
 |
 |[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)|[
-Karthik
-](#)|
+Erblog
+](https://themes.gohugo.io/themes/erblog/)|[
+Ertuil
+](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
 MIT
 |
-0
+52
 |
-2020-05-26
+2020-05-28
 |
 |[
 Resto Hugo
@@ -3386,6 +3375,17 @@ Resto Hugo
 Karthik
 ](#)|
 CC-BY-3.0
+|
+0
+|
+2020-05-26
+|
+|[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)|[
+Karthik
+](#)|
+MIT
 |
 0
 |
