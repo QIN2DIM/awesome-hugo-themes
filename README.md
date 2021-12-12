@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-12 14:29:23 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-12 16:28:52 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -696,22 +696,22 @@ MIT
 2021-10-26
 |
 |[
-Alpha Church
-](https://themes.gohugo.io/themes/alpha-church/)|[
-Daniel Saunders
-](https://github.com/funkydan2/alpha-church)|
-Creative Commons Attribution 3.0
+Tokiwa
+](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
+He Yeshuang
+](https://github.com/Remix-Design/remixicon)|
+MIT
 |
 46
 |
 2021-10-26
 |
 |[
-Tokiwa
-](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
-He Yeshuang
-](https://github.com/Remix-Design/remixicon)|
-MIT
+Alpha Church
+](https://themes.gohugo.io/themes/alpha-church/)|[
+Daniel Saunders
+](https://github.com/funkydan2/alpha-church)|
+Creative Commons Attribution 3.0
 |
 46
 |
@@ -1169,17 +1169,6 @@ MIT
 2021-09-08
 |
 |[
-Restaurant Hugo
-](https://themes.gohugo.io/themes/restaurant-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
-MIT
-|
-35
-|
-2021-09-08
-|
-|[
 Infinity Hugo
 ](https://themes.gohugo.io/themes/infinity-hugo/)|[
 Themefisher
@@ -1187,6 +1176,17 @@ Themefisher
 MIT
 |
 36
+|
+2021-09-08
+|
+|[
+Restaurant Hugo
+](https://themes.gohugo.io/themes/restaurant-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
+MIT
+|
+35
 |
 2021-09-08
 |
@@ -1664,17 +1664,6 @@ MIT
 2021-07-09
 |
 |[
-Hero
-](https://themes.gohugo.io/themes/hugo-hero-theme/)|[
-Robert Austin
-](https://github.com/zerostaticthemes/hugo-hero-theme/archive/master.zip)|
-MIT
-|
-160
-|
-2021-07-09
-|
-|[
 Whisper
 ](https://themes.gohugo.io/themes/hugo-whisper-theme/)|[
 Robert Austin
@@ -1682,6 +1671,17 @@ Robert Austin
 MIT
 |
 175
+|
+2021-07-09
+|
+|[
+Hero
+](https://themes.gohugo.io/themes/hugo-hero-theme/)|[
+Robert Austin
+](https://github.com/zerostaticthemes/hugo-hero-theme/archive/master.zip)|
+MIT
+|
+160
 |
 2021-07-09
 |
@@ -3348,17 +3348,6 @@ Creative Commons
 2020-05-29
 |
 |[
-Jeffprod
-](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
-@JeffProd
-](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
-MIT
-|
-51
-|
-2020-05-28
-|
-|[
 Erblog
 ](https://themes.gohugo.io/themes/erblog/)|[
 Ertuil
@@ -3370,15 +3359,15 @@ MIT
 2020-05-28
 |
 |[
-Resto Hugo
-](https://themes.gohugo.io/themes/resto-hugo/)|[
-Karthik
-](#)|
-CC-BY-3.0
+Jeffprod
+](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
+@JeffProd
+](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
+MIT
 |
-0
+51
 |
-2020-05-26
+2020-05-28
 |
 |[
 monopriv
@@ -3386,6 +3375,17 @@ monopriv
 Karthik
 ](#)|
 MIT
+|
+0
+|
+2020-05-26
+|
+|[
+Resto Hugo
+](https://themes.gohugo.io/themes/resto-hugo/)|[
+Karthik
+](#)|
+CC-BY-3.0
 |
 0
 |
@@ -3727,17 +3727,6 @@ MIT
 2019-10-27
 |
 |[
-Arabica
-](https://themes.gohugo.io/themes/arabica/)|[
-Chen Fangzhou
-](https://github.com/nirocfz/arabica/blob/master/LICENSE)|
-MIT
-|
-17
-|
-2019-10-12
-|
-|[
 Spectre Pixel Theme
 ](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
 Shin Tatt
@@ -3745,6 +3734,17 @@ Shin Tatt
 MIT
 |
 16
+|
+2019-10-12
+|
+|[
+Arabica
+](https://themes.gohugo.io/themes/arabica/)|[
+Chen Fangzhou
+](https://github.com/nirocfz/arabica/blob/master/LICENSE)|
+MIT
+|
+17
 |
 2019-10-12
 |
