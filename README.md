@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-13 10:40:39 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-13 12:33:40 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -142,17 +142,6 @@ MeiK
 MIT
 |
 237
-|
-2021-12-07
-|
-|[
-Anubis
-](https://themes.gohugo.io/themes/hugo-theme-anubis/)|[
-Dmitry Kolosov
-](https://github.com/mitrichius/hugo-theme-anubis/issues)|
-MIT
-|
-197
 |
 2021-12-07
 |
@@ -727,22 +716,22 @@ MIT
 2021-10-26
 |
 |[
-Tokiwa
-](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
-He Yeshuang
-](https://github.com/Remix-Design/remixicon)|
-MIT
+Alpha Church
+](https://themes.gohugo.io/themes/alpha-church/)|[
+Daniel Saunders
+](https://github.com/funkydan2/alpha-church)|
+Creative Commons Attribution 3.0
 |
 46
 |
 2021-10-26
 |
 |[
-Alpha Church
-](https://themes.gohugo.io/themes/alpha-church/)|[
-Daniel Saunders
-](https://github.com/funkydan2/alpha-church)|
-Creative Commons Attribution 3.0
+Tokiwa
+](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
+He Yeshuang
+](https://github.com/Remix-Design/remixicon)|
+MIT
 |
 46
 |
@@ -1673,17 +1662,6 @@ MIT
 2021-07-14
 |
 |[
-Whisper
-](https://themes.gohugo.io/themes/hugo-whisper-theme/)|[
-Robert Austin
-](https://github.com/zerostaticthemes/hugo-whisper-theme/archive/master.zip)|
-MIT
-|
-175
-|
-2021-07-09
-|
-|[
 Hugo Serif
 ](https://themes.gohugo.io/themes/hugo-serif-theme/)|[
 Robert Austin
@@ -1691,6 +1669,17 @@ Robert Austin
 MIT
 |
 219
+|
+2021-07-09
+|
+|[
+Whisper
+](https://themes.gohugo.io/themes/hugo-whisper-theme/)|[
+Robert Austin
+](https://github.com/zerostaticthemes/hugo-whisper-theme/archive/master.zip)|
+MIT
+|
+175
 |
 2021-07-09
 |
@@ -1869,17 +1858,6 @@ MIT
 16
 |
 2021-06-16
-|
-|[
-Yinyang
-](https://themes.gohugo.io/themes/hugo-theme-yinyang/)|[
-Joway Wang
-](https://github.com/joway/hugo-theme-yinyang/blob/master/layouts/partials/seo.html)|
-MIT
-|
-276
-|
-2021-06-15
 |
 |[
 Lean Launch Page
@@ -3355,17 +3333,6 @@ Creative Commons
 8
 |
 2020-05-29
-|
-|[
-Jeffprod
-](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
-@JeffProd
-](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
-MIT
-|
-51
-|
-2020-05-28
 |
 |[
 Erblog
