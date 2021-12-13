@@ -141,6 +141,17 @@ MIT
 2021-12-07
 "
 "[
+Anubis
+](https://themes.gohugo.io/themes/hugo-theme-anubis/)","[
+Dmitry Kolosov
+](https://github.com/mitrichius/hugo-theme-anubis/issues)","
+MIT
+","
+197
+","
+2021-12-07
+"
+"[
 Bootstrap Blog Theme
 ](https://themes.gohugo.io/themes/hugo-theme-bootstrap/)","[
 Razon Yang
@@ -1173,17 +1184,6 @@ MIT
 2021-09-08
 "
 "[
-Infinity Hugo
-](https://themes.gohugo.io/themes/infinity-hugo/)","[
-Themefisher
-](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)","
-MIT
-","
-36
-","
-2021-09-08
-"
-"[
 Restaurant Hugo
 ](https://themes.gohugo.io/themes/restaurant-hugo/)","[
 Themefisher
@@ -1191,6 +1191,17 @@ Themefisher
 MIT
 ","
 35
+","
+2021-09-08
+"
+"[
+Infinity Hugo
+](https://themes.gohugo.io/themes/infinity-hugo/)","[
+Themefisher
+](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)","
+MIT
+","
+36
 ","
 2021-09-08
 "
@@ -1668,17 +1679,6 @@ MIT
 2021-07-09
 "
 "[
-Whisper
-](https://themes.gohugo.io/themes/hugo-whisper-theme/)","[
-Robert Austin
-](https://github.com/zerostaticthemes/hugo-whisper-theme/archive/master.zip)","
-MIT
-","
-175
-","
-2021-07-09
-"
-"[
 Hero
 ](https://themes.gohugo.io/themes/hugo-hero-theme/)","[
 Robert Austin
@@ -1686,6 +1686,17 @@ Robert Austin
 MIT
 ","
 160
+","
+2021-07-09
+"
+"[
+Whisper
+](https://themes.gohugo.io/themes/hugo-whisper-theme/)","[
+Robert Austin
+](https://github.com/zerostaticthemes/hugo-whisper-theme/archive/master.zip)","
+MIT
+","
+175
 ","
 2021-07-09
 "
@@ -1853,6 +1864,17 @@ MIT
 16
 ","
 2021-06-16
+"
+"[
+Yinyang
+](https://themes.gohugo.io/themes/hugo-theme-yinyang/)","[
+Joway Wang
+](https://github.com/joway/hugo-theme-yinyang/blob/master/layouts/partials/seo.html)","
+MIT
+","
+276
+","
+2021-06-15
 "
 "[
 Lean Launch Page
@@ -2247,17 +2269,6 @@ MIT
 2021-03-28
 "
 "[
-Bootstrap-BP-Startpage
-](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)","[
-Sebastian Pech
-](https://github.com/ViktorKare/startpage)","
-MIT
-","
-42
-","
-2021-03-27
-"
-"[
 Bootstrap-BP
 ](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)","[
 Sebastian Pech
@@ -2265,6 +2276,17 @@ Sebastian Pech
 MIT
 ","
 38
+","
+2021-03-27
+"
+"[
+Bootstrap-BP-Startpage
+](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)","[
+Sebastian Pech
+](https://github.com/ViktorKare/startpage)","
+MIT
+","
+42
 ","
 2021-03-27
 "
@@ -2806,17 +2828,6 @@ MIT
 2020-11-05
 "
 "[
-pulp
-](https://themes.gohugo.io/themes/pulp/)","[
-koirand
-](https://github.com/koirand/pulp)","
-MIT
-","
-102
-","
-2020-11-01
-"
-"[
 Swift
 ](https://themes.gohugo.io/themes/hugo-swift-theme/)","[
 weru
@@ -2824,6 +2835,17 @@ weru
 MIT
 ","
 97
+","
+2020-11-01
+"
+"[
+pulp
+](https://themes.gohugo.io/themes/pulp/)","[
+koirand
+](https://github.com/koirand/pulp)","
+MIT
+","
+102
 ","
 2020-11-01
 "
@@ -3103,17 +3125,6 @@ MIT
 2020-07-12
 "
 "[
-Academia Hugo
-](https://themes.gohugo.io/themes/academia-hugo/)","[
-Themefisher
-](https://github.com/themefisher/academia-hugo/issues)","
-MIT
-","
-121
-","
-2020-07-05
-"
-"[
 Vex
 ](https://themes.gohugo.io/themes/vex-hugo/)","[
 Themefisher
@@ -3121,6 +3132,17 @@ Themefisher
 CC-BY-3.0
 ","
 123
+","
+2020-07-05
+"
+"[
+Academia Hugo
+](https://themes.gohugo.io/themes/academia-hugo/)","[
+Themefisher
+](https://github.com/themefisher/academia-hugo/issues)","
+MIT
+","
+121
 ","
 2020-07-05
 "
@@ -3328,6 +3350,17 @@ Creative Commons
 8
 ","
 2020-05-29
+"
+"[
+Jeffprod
+](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)","[
+@JeffProd
+](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)","
+MIT
+","
+51
+","
+2020-05-28
 "
 "[
 Erblog
@@ -3689,17 +3722,6 @@ MIT
 2019-10-27
 "
 "[
-Spectre Pixel Theme
-](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)","[
-Shin Tatt
-](https://github.com/digitalcraftsman/hugo-cactus-theme)","
-MIT
-","
-16
-","
-2019-10-12
-"
-"[
 Arabica
 ](https://themes.gohugo.io/themes/arabica/)","[
 Chen Fangzhou
@@ -3707,6 +3729,17 @@ Chen Fangzhou
 MIT
 ","
 17
+","
+2019-10-12
+"
+"[
+Spectre Pixel Theme
+](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)","[
+Shin Tatt
+](https://github.com/digitalcraftsman/hugo-cactus-theme)","
+MIT
+","
+16
 ","
 2019-10-12
 "
