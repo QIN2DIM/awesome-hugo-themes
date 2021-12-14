@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-14 06:21:29 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-14 09:21:09 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -168,17 +168,6 @@ MIT
 2021-12-07
 |
 |[
-Hugo Scroll
-](https://themes.gohugo.io/themes/hugo-scroll/)|[
-Jan Raasch
-](https://github.com/janraasch/hugo-scroll/tree/master/exampleSite)|
-MIT
-|
-78
-|
-2021-12-07
-|
-|[
 Vitae
 ](https://themes.gohugo.io/themes/hugo-vitae/)|[
 Benedikt 'dataCobra' Tuchen
@@ -186,6 +175,17 @@ Benedikt 'dataCobra' Tuchen
 GPL-3.0-or-later
 |
 106
+|
+2021-12-07
+|
+|[
+Hugo Scroll
+](https://themes.gohugo.io/themes/hugo-scroll/)|[
+Jan Raasch
+](https://github.com/janraasch/hugo-scroll/tree/master/exampleSite)|
+MIT
+|
+78
 |
 2021-12-07
 |
@@ -1673,6 +1673,17 @@ MIT
 2021-07-14
 |
 |[
+Whisper
+](https://themes.gohugo.io/themes/hugo-whisper-theme/)|[
+Robert Austin
+](https://github.com/zerostaticthemes/hugo-whisper-theme/archive/master.zip)|
+MIT
+|
+175
+|
+2021-07-09
+|
+|[
 Hugo Serif
 ](https://themes.gohugo.io/themes/hugo-serif-theme/)|[
 Robert Austin
@@ -1691,17 +1702,6 @@ Robert Austin
 MIT
 |
 160
-|
-2021-07-09
-|
-|[
-Whisper
-](https://themes.gohugo.io/themes/hugo-whisper-theme/)|[
-Robert Austin
-](https://github.com/zerostaticthemes/hugo-whisper-theme/archive/master.zip)|
-MIT
-|
-175
 |
 2021-07-09
 |
@@ -2274,17 +2274,6 @@ MIT
 2021-03-28
 |
 |[
-Bootstrap-BP
-](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
-Sebastian Pech
-](https://github.com/spech66/bootstrap-bp-hugo-theme)|
-MIT
-|
-38
-|
-2021-03-27
-|
-|[
 Bootstrap-BP-Startpage
 ](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
 Sebastian Pech
@@ -2292,6 +2281,17 @@ Sebastian Pech
 MIT
 |
 42
+|
+2021-03-27
+|
+|[
+Bootstrap-BP
+](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
+Sebastian Pech
+](https://github.com/spech66/bootstrap-bp-hugo-theme)|
+MIT
+|
+38
 |
 2021-03-27
 |
@@ -3130,17 +3130,6 @@ MIT
 2020-07-12
 |
 |[
-Vex
-](https://themes.gohugo.io/themes/vex-hugo/)|[
-Themefisher
-](https://github.com/themefisher/vex-hugo/issues)|
-CC-BY-3.0
-|
-123
-|
-2020-07-05
-|
-|[
 Academia Hugo
 ](https://themes.gohugo.io/themes/academia-hugo/)|[
 Themefisher
@@ -3148,6 +3137,17 @@ Themefisher
 MIT
 |
 121
+|
+2020-07-05
+|
+|[
+Vex
+](https://themes.gohugo.io/themes/vex-hugo/)|[
+Themefisher
+](https://github.com/themefisher/vex-hugo/issues)|
+CC-BY-3.0
+|
+123
 |
 2020-07-05
 |
@@ -3379,22 +3379,22 @@ MIT
 2020-05-28
 |
 |[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)|[
+Resto Hugo
+](https://themes.gohugo.io/themes/resto-hugo/)|[
 Karthik
 ](#)|
-MIT
+CC-BY-3.0
 |
 0
 |
 2020-05-26
 |
 |[
-Resto Hugo
-](https://themes.gohugo.io/themes/resto-hugo/)|[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)|[
 Karthik
 ](#)|
-CC-BY-3.0
+MIT
 |
 0
 |
@@ -3727,17 +3727,6 @@ MIT
 2019-10-27
 |
 |[
-Arabica
-](https://themes.gohugo.io/themes/arabica/)|[
-Chen Fangzhou
-](https://github.com/nirocfz/arabica/blob/master/LICENSE)|
-MIT
-|
-17
-|
-2019-10-12
-|
-|[
 Spectre Pixel Theme
 ](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
 Shin Tatt
@@ -3745,6 +3734,17 @@ Shin Tatt
 MIT
 |
 16
+|
+2019-10-12
+|
+|[
+Arabica
+](https://themes.gohugo.io/themes/arabica/)|[
+Chen Fangzhou
+](https://github.com/nirocfz/arabica/blob/master/LICENSE)|
+MIT
+|
+17
 |
 2019-10-12
 |
