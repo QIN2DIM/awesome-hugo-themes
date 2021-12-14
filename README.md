@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-14 16:32:44 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-14 18:27:58 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -727,22 +727,22 @@ MIT
 2021-10-26
 |
 |[
-Alpha Church
-](https://themes.gohugo.io/themes/alpha-church/)|[
-Daniel Saunders
-](https://github.com/funkydan2/alpha-church)|
-Creative Commons Attribution 3.0
+Tokiwa
+](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
+He Yeshuang
+](https://github.com/Remix-Design/remixicon)|
+MIT
 |
 46
 |
 2021-10-26
 |
 |[
-Tokiwa
-](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
-He Yeshuang
-](https://github.com/Remix-Design/remixicon)|
-MIT
+Alpha Church
+](https://themes.gohugo.io/themes/alpha-church/)|[
+Daniel Saunders
+](https://github.com/funkydan2/alpha-church)|
+Creative Commons Attribution 3.0
 |
 46
 |
@@ -1189,17 +1189,6 @@ MIT
 2021-09-08
 |
 |[
-Restaurant Hugo
-](https://themes.gohugo.io/themes/restaurant-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
-MIT
-|
-35
-|
-2021-09-08
-|
-|[
 Infinity Hugo
 ](https://themes.gohugo.io/themes/infinity-hugo/)|[
 Themefisher
@@ -1207,6 +1196,17 @@ Themefisher
 MIT
 |
 36
+|
+2021-09-08
+|
+|[
+Restaurant Hugo
+](https://themes.gohugo.io/themes/restaurant-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
+MIT
+|
+35
 |
 2021-09-08
 |
@@ -1684,17 +1684,6 @@ MIT
 2021-07-09
 |
 |[
-Hero
-](https://themes.gohugo.io/themes/hugo-hero-theme/)|[
-Robert Austin
-](https://github.com/zerostaticthemes/hugo-hero-theme/archive/master.zip)|
-MIT
-|
-160
-|
-2021-07-09
-|
-|[
 Whisper
 ](https://themes.gohugo.io/themes/hugo-whisper-theme/)|[
 Robert Austin
@@ -1702,6 +1691,17 @@ Robert Austin
 MIT
 |
 175
+|
+2021-07-09
+|
+|[
+Hero
+](https://themes.gohugo.io/themes/hugo-hero-theme/)|[
+Robert Austin
+](https://github.com/zerostaticthemes/hugo-hero-theme/archive/master.zip)|
+MIT
+|
+160
 |
 2021-07-09
 |
@@ -1739,17 +1739,6 @@ MIT
 2021-07-08
 |
 |[
-Split Landing
-](https://themes.gohugo.io/themes/split-landing/)|[
-Katajun
-](https://github.com/KatamariJr/split-landing)|
-MIT
-|
-0
-|
-2021-07-08
-|
-|[
 Venture
 ](https://themes.gohugo.io/themes/venture/)|[
 William Toll
@@ -1757,6 +1746,17 @@ William Toll
 MIT
 |
 1
+|
+2021-07-08
+|
+|[
+Split Landing
+](https://themes.gohugo.io/themes/split-landing/)|[
+Katajun
+](https://github.com/KatamariJr/split-landing)|
+MIT
+|
+0
 |
 2021-07-08
 |
@@ -2767,17 +2767,6 @@ MIT
 2020-11-25
 |
 |[
-Ronu
-](https://themes.gohugo.io/themes/ronu-hugo-theme/)|[
-Deepak Karanth
-](https://github.com/oxalorg/sakura/tree/master/scss)|
-MIT
-|
-2
-|
-2020-11-23
-|
-|[
 Prav
 ](https://themes.gohugo.io/themes/hugo-theme-prav/)|[
 Pravin Paratey
@@ -2785,6 +2774,17 @@ Pravin Paratey
 MIT
 |
 10
+|
+2020-11-23
+|
+|[
+Ronu
+](https://themes.gohugo.io/themes/ronu-hugo-theme/)|[
+Deepak Karanth
+](https://github.com/oxalorg/sakura/tree/master/scss)|
+MIT
+|
+2
 |
 2020-11-23
 |
@@ -2833,17 +2833,6 @@ MIT
 2020-11-05
 |
 |[
-Swift
-](https://themes.gohugo.io/themes/hugo-swift-theme/)|[
-weru
-](https://github.com/onweru/hugo-swift-theme/blob/master/LICENSE.md)|
-MIT
-|
-97
-|
-2020-11-01
-|
-|[
 pulp
 ](https://themes.gohugo.io/themes/pulp/)|[
 koirand
@@ -2851,6 +2840,17 @@ koirand
 MIT
 |
 102
+|
+2020-11-01
+|
+|[
+Swift
+](https://themes.gohugo.io/themes/hugo-swift-theme/)|[
+weru
+](https://github.com/onweru/hugo-swift-theme/blob/master/LICENSE.md)|
+MIT
+|
+97
 |
 2020-11-01
 |
@@ -3564,15 +3564,6 @@ MIT
 2020-02-07
 |
 |[
-OneDly Project
-](https://themes.gohugo.io/themes/onedly-theme/)|[nil](https://github.com/cdeck3r/OneDly-Theme/blob/master/exampleSite/config.toml)|
-MIT
-|
-11
-|
-2020-01-27
-|
-|[
 Papaya
 ](https://themes.gohugo.io/themes/papaya/)|[
 Pedro Lopez
@@ -3580,6 +3571,15 @@ Pedro Lopez
 MIT
 |
 15
+|
+2020-01-27
+|
+|[
+OneDly Project
+](https://themes.gohugo.io/themes/onedly-theme/)|[nil](https://github.com/cdeck3r/OneDly-Theme/blob/master/exampleSite/config.toml)|
+MIT
+|
+11
 |
 2020-01-27
 |
