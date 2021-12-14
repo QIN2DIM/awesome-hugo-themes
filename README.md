@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-14 20:39:13 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-14 22:24:44 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -419,17 +419,6 @@ MIT
 2021-11-18
 |
 |[
-Hugo Profile
-](https://themes.gohugo.io/themes/hugo-profile/)|[
-Gurusabarish
-](https://github.com/gurusabarish/hugo-profile/issues)|
-MIT
-|
-64
-|
-2021-11-18
-|
-|[
 XMag
 ](https://themes.gohugo.io/themes/hugo-xmag/)|[
 Yihui Xie
@@ -437,6 +426,17 @@ Yihui Xie
 MIT
 |
 56
+|
+2021-11-18
+|
+|[
+Hugo Profile
+](https://themes.gohugo.io/themes/hugo-profile/)|[
+Gurusabarish
+](https://github.com/gurusabarish/hugo-profile/issues)|
+MIT
+|
+64
 |
 2021-11-18
 |
@@ -848,17 +848,6 @@ GNU GPLv3
 2021-10-13
 |
 |[
-TechFeed
-](https://themes.gohugo.io/themes/techfeed-hugo/)|[
-gethugothemes
-](https://github.com/gethugothemes/techfeed-hugo/graphs/contributors)|
-MIT
-|
-7
-|
-2021-10-13
-|
-|[
 Blank
 ](https://themes.gohugo.io/themes/blank/)|[
 Vimux
@@ -1156,10 +1145,10 @@ MIT
 2021-09-08
 |
 |[
-Timer Hugo
-](https://themes.gohugo.io/themes/timer-hugo/)|[
+Navigator Hugo
+](https://themes.gohugo.io/themes/navigator-hugo/)|[
 Themefisher
-](https://github.com/themefisher/timer-hugo/graphs/contributors)|
+](https://github.com/gethugothemes/navigator-hugo/graphs/contributors)|
 MIT
 |
 113
@@ -1167,10 +1156,10 @@ MIT
 2021-09-08
 |
 |[
-Navigator Hugo
-](https://themes.gohugo.io/themes/navigator-hugo/)|[
+Timer Hugo
+](https://themes.gohugo.io/themes/timer-hugo/)|[
 Themefisher
-](https://github.com/gethugothemes/navigator-hugo/graphs/contributors)|
+](https://github.com/themefisher/timer-hugo/graphs/contributors)|
 MIT
 |
 113
@@ -1189,17 +1178,6 @@ MIT
 2021-09-08
 |
 |[
-Infinity Hugo
-](https://themes.gohugo.io/themes/infinity-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
-MIT
-|
-36
-|
-2021-09-08
-|
-|[
 Restaurant Hugo
 ](https://themes.gohugo.io/themes/restaurant-hugo/)|[
 Themefisher
@@ -1207,6 +1185,17 @@ Themefisher
 MIT
 |
 35
+|
+2021-09-08
+|
+|[
+Infinity Hugo
+](https://themes.gohugo.io/themes/infinity-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
+MIT
+|
+36
 |
 2021-09-08
 |
@@ -1343,17 +1332,6 @@ MIT
 2021-08-20
 |
 |[
-HugoTeX
-](https://themes.gohugo.io/themes/hugotex/)|[
-HelloRusk
-](https://github.com/queensferryme/hugo-theme-texify/)|
-MIT
-|
-37
-|
-2021-08-20
-|
-|[
 Photophobia
 ](https://themes.gohugo.io/themes/photophobia/)|[
 setsevireon
@@ -1456,7 +1434,7 @@ GPL-3.0
 hamburg
 ](https://themes.gohugo.io/themes/hugo-theme-hamburg/)|[
 Hauke Stieler
-](https://github.com/keichi/vienna)|
+](#)|
 MIT
 |
 11
@@ -1495,17 +1473,6 @@ MIT
 9
 |
 2021-08-05
-|
-|[
-Avicenna
-](https://themes.gohugo.io/themes/avicenna/)|[
-Hadi Sinaee
-](https://github.com/hadisinaee/avicenna)|
-MIT
-|
-98
-|
-2021-08-02
 |
 |[
 Kraiklyn
@@ -2420,7 +2387,7 @@ MIT
 Strange Case
 ](https://themes.gohugo.io/themes/strange-case/)|[
 ExchangeRate-API
-](https://github.com/ExchangeRate-API/)|
+](#)|
 MIT
 |
 25
@@ -3357,17 +3324,6 @@ Creative Commons
 2020-05-29
 |
 |[
-Jeffprod
-](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
-@JeffProd
-](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
-MIT
-|
-51
-|
-2020-05-28
-|
-|[
 Erblog
 ](https://themes.gohugo.io/themes/erblog/)|[
 Ertuil
@@ -3379,15 +3335,15 @@ MIT
 2020-05-28
 |
 |[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)|[
-Karthik
-](#)|
+Jeffprod
+](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
+@JeffProd
+](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
 MIT
 |
-0
+51
 |
-2020-05-26
+2020-05-28
 |
 |[
 Resto Hugo
@@ -3395,6 +3351,17 @@ Resto Hugo
 Karthik
 ](#)|
 CC-BY-3.0
+|
+0
+|
+2020-05-26
+|
+|[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)|[
+Karthik
+](#)|
+MIT
 |
 0
 |
@@ -3490,7 +3457,7 @@ MIT
 hugo-apps-theme
 ](https://themes.gohugo.io/themes/hugo-apps-theme/)|[
 Byeonggon Lee
-](https://github.com/luizdepra/hugo-coder)|
+](#)|
 MIT
 |
 11
@@ -3727,17 +3694,6 @@ MIT
 2019-10-27
 |
 |[
-Spectre Pixel Theme
-](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
-Shin Tatt
-](https://github.com/digitalcraftsman/hugo-cactus-theme)|
-MIT
-|
-16
-|
-2019-10-12
-|
-|[
 Arabica
 ](https://themes.gohugo.io/themes/arabica/)|[
 Chen Fangzhou
@@ -3745,6 +3701,17 @@ Chen Fangzhou
 MIT
 |
 17
+|
+2019-10-12
+|
+|[
+Spectre Pixel Theme
+](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
+Shin Tatt
+](https://github.com/digitalcraftsman/hugo-cactus-theme)|
+MIT
+|
+16
 |
 2019-10-12
 |
@@ -4031,17 +3998,6 @@ MIT
 88
 |
 2019-03-05
-|
-|[
-Hugo Lodi Theme
-](https://themes.gohugo.io/themes/hugo-lodi-theme/)|[
-Xavi Ablaza
-](https://github.com/xaviablaza/hugo-lodi-theme)|
-MIT
-|
-44
-|
-2019-02-15
 |
 |[
 Hugo minimalist SPA
