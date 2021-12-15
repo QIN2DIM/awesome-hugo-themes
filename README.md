@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-15 09:19:07 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-15 10:40:09 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -419,17 +419,6 @@ MIT
 2021-11-18
 |
 |[
-Hugo Profile
-](https://themes.gohugo.io/themes/hugo-profile/)|[
-Gurusabarish
-](https://github.com/gurusabarish/hugo-profile/issues)|
-MIT
-|
-64
-|
-2021-11-18
-|
-|[
 XMag
 ](https://themes.gohugo.io/themes/hugo-xmag/)|[
 Yihui Xie
@@ -437,6 +426,17 @@ Yihui Xie
 MIT
 |
 56
+|
+2021-11-18
+|
+|[
+Hugo Profile
+](https://themes.gohugo.io/themes/hugo-profile/)|[
+Gurusabarish
+](https://github.com/gurusabarish/hugo-profile/issues)|
+MIT
+|
+64
 |
 2021-11-18
 |
@@ -1189,17 +1189,6 @@ MIT
 2021-09-08
 |
 |[
-Infinity Hugo
-](https://themes.gohugo.io/themes/infinity-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
-MIT
-|
-36
-|
-2021-09-08
-|
-|[
 Restaurant Hugo
 ](https://themes.gohugo.io/themes/restaurant-hugo/)|[
 Themefisher
@@ -1207,6 +1196,17 @@ Themefisher
 MIT
 |
 35
+|
+2021-09-08
+|
+|[
+Infinity Hugo
+](https://themes.gohugo.io/themes/infinity-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
+MIT
+|
+36
 |
 2021-09-08
 |
@@ -1739,17 +1739,6 @@ MIT
 2021-07-08
 |
 |[
-Split Landing
-](https://themes.gohugo.io/themes/split-landing/)|[
-Katajun
-](https://github.com/KatamariJr/split-landing)|
-MIT
-|
-0
-|
-2021-07-08
-|
-|[
 Venture
 ](https://themes.gohugo.io/themes/venture/)|[
 William Toll
@@ -1757,6 +1746,17 @@ William Toll
 MIT
 |
 1
+|
+2021-07-08
+|
+|[
+Split Landing
+](https://themes.gohugo.io/themes/split-landing/)|[
+Katajun
+](https://github.com/KatamariJr/split-landing)|
+MIT
+|
+0
 |
 2021-07-08
 |
@@ -3130,17 +3130,6 @@ MIT
 2020-07-12
 |
 |[
-Vex
-](https://themes.gohugo.io/themes/vex-hugo/)|[
-Themefisher
-](https://github.com/themefisher/vex-hugo/issues)|
-CC-BY-3.0
-|
-123
-|
-2020-07-05
-|
-|[
 Academia Hugo
 ](https://themes.gohugo.io/themes/academia-hugo/)|[
 Themefisher
@@ -3148,6 +3137,17 @@ Themefisher
 MIT
 |
 121
+|
+2020-07-05
+|
+|[
+Vex
+](https://themes.gohugo.io/themes/vex-hugo/)|[
+Themefisher
+](https://github.com/themefisher/vex-hugo/issues)|
+CC-BY-3.0
+|
+123
 |
 2020-07-05
 |
