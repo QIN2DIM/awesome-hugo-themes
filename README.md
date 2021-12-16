@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-16 20:39:58 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-16 22:23:10 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -93,15 +93,6 @@ MIT
 2021-12-14
 |
 |[
-Pickles
-](https://themes.gohugo.io/themes/hugo_theme_pickles/)|[nil](https://github.com/mismith0227/hugo_theme_pickles/tree/develop)|
-MIT
-|
-171
-|
-2021-12-13
-|
-|[
 Cupper
 ](https://themes.gohugo.io/themes/cupper-hugo-theme/)|[
 Zachary Betz
@@ -109,6 +100,15 @@ Zachary Betz
 MIT
 |
 203
+|
+2021-12-13
+|
+|[
+Pickles
+](https://themes.gohugo.io/themes/hugo_theme_pickles/)|[nil](https://github.com/mismith0227/hugo_theme_pickles/tree/develop)|
+MIT
+|
+171
 |
 2021-12-13
 |
@@ -342,17 +342,6 @@ MIT
 2021-12-02
 |
 |[
-Book
-](https://themes.gohugo.io/themes/hugo-book/)|[
-Alex Shpak
-](https://github.com/alex-shpak/hugo-book/graphs/contributors)|
-MIT
-|
-1489
-|
-2021-12-01
-|
-|[
 XMin
 ](https://themes.gohugo.io/themes/hugo-xmin/)|[
 Yihui Xie
@@ -371,6 +360,17 @@ Rajesh Shenoy
 MIT
 |
 218
+|
+2021-12-01
+|
+|[
+Book
+](https://themes.gohugo.io/themes/hugo-book/)|[
+Alex Shpak
+](https://github.com/alex-shpak/hugo-book/graphs/contributors)|
+MIT
+|
+1489
 |
 2021-12-01
 |
@@ -573,17 +573,6 @@ MIT
 2021-11-12
 |
 |[
-terminal
-](https://themes.gohugo.io/themes/hugo-theme-terminal/)|[
-panr
-](https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md)|
-MIT
-|
-1071
-|
-2021-11-10
-|
-|[
 Eureka
 ](https://themes.gohugo.io/themes/hugo-eureka/)|[
 C. Wang
@@ -591,6 +580,17 @@ C. Wang
 Apache 2.0
 |
 476
+|
+2021-11-10
+|
+|[
+terminal
+](https://themes.gohugo.io/themes/hugo-theme-terminal/)|[
+panr
+](https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md)|
+MIT
+|
+1071
 |
 2021-11-10
 |
@@ -760,22 +760,22 @@ MIT
 2021-10-26
 |
 |[
-Tokiwa
-](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
-He Yeshuang
-](https://github.com/Remix-Design/remixicon)|
-MIT
+Alpha Church
+](https://themes.gohugo.io/themes/alpha-church/)|[
+Daniel Saunders
+](https://github.com/funkydan2/alpha-church)|
+Creative Commons Attribution 3.0
 |
 46
 |
 2021-10-26
 |
 |[
-Alpha Church
-](https://themes.gohugo.io/themes/alpha-church/)|[
-Daniel Saunders
-](https://github.com/funkydan2/alpha-church)|
-Creative Commons Attribution 3.0
+Tokiwa
+](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
+He Yeshuang
+](https://github.com/Remix-Design/remixicon)|
+MIT
 |
 46
 |
@@ -1189,10 +1189,10 @@ MIT
 2021-09-08
 |
 |[
-Timer Hugo
-](https://themes.gohugo.io/themes/timer-hugo/)|[
+Navigator Hugo
+](https://themes.gohugo.io/themes/navigator-hugo/)|[
 Themefisher
-](https://github.com/themefisher/timer-hugo/graphs/contributors)|
+](https://github.com/gethugothemes/navigator-hugo/graphs/contributors)|
 MIT
 |
 113
@@ -1200,10 +1200,10 @@ MIT
 2021-09-08
 |
 |[
-Navigator Hugo
-](https://themes.gohugo.io/themes/navigator-hugo/)|[
+Timer Hugo
+](https://themes.gohugo.io/themes/timer-hugo/)|[
 Themefisher
-](https://github.com/gethugothemes/navigator-hugo/graphs/contributors)|
+](https://github.com/themefisher/timer-hugo/graphs/contributors)|
 MIT
 |
 113
@@ -1222,17 +1222,6 @@ MIT
 2021-09-08
 |
 |[
-Infinity Hugo
-](https://themes.gohugo.io/themes/infinity-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
-MIT
-|
-36
-|
-2021-09-08
-|
-|[
 Restaurant Hugo
 ](https://themes.gohugo.io/themes/restaurant-hugo/)|[
 Themefisher
@@ -1240,6 +1229,17 @@ Themefisher
 MIT
 |
 35
+|
+2021-09-08
+|
+|[
+Infinity Hugo
+](https://themes.gohugo.io/themes/infinity-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
+MIT
+|
+36
 |
 2021-09-08
 |
@@ -1706,17 +1706,6 @@ MIT
 2021-07-09
 |
 |[
-Whisper
-](https://themes.gohugo.io/themes/hugo-whisper-theme/)|[
-Robert Austin
-](https://github.com/zerostaticthemes/hugo-whisper-theme/archive/master.zip)|
-MIT
-|
-175
-|
-2021-07-09
-|
-|[
 Hero
 ](https://themes.gohugo.io/themes/hugo-hero-theme/)|[
 Robert Austin
@@ -1724,6 +1713,17 @@ Robert Austin
 MIT
 |
 160
+|
+2021-07-09
+|
+|[
+Whisper
+](https://themes.gohugo.io/themes/hugo-whisper-theme/)|[
+Robert Austin
+](https://github.com/zerostaticthemes/hugo-whisper-theme/archive/master.zip)|
+MIT
+|
+175
 |
 2021-07-09
 |
@@ -3368,17 +3368,6 @@ Creative Commons
 2020-05-29
 |
 |[
-Erblog
-](https://themes.gohugo.io/themes/erblog/)|[
-Ertuil
-](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
-MIT
-|
-52
-|
-2020-05-28
-|
-|[
 Jeffprod
 ](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
 @JeffProd
@@ -3386,6 +3375,17 @@ Jeffprod
 MIT
 |
 51
+|
+2020-05-28
+|
+|[
+Erblog
+](https://themes.gohugo.io/themes/erblog/)|[
+Ertuil
+](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
+MIT
+|
+52
 |
 2020-05-28
 |
