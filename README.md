@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-17 20:39:04 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-17 22:23:12 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -345,7 +345,7 @@ MIT
 Book
 ](https://themes.gohugo.io/themes/hugo-book/)|[
 Alex Shpak
-](https://github.com/alex-shpak/hugo-book/graphs/contributors)|
+](#)|
 MIT
 |
 1489
@@ -774,7 +774,7 @@ MIT
 Alpha Church
 ](https://themes.gohugo.io/themes/alpha-church/)|[
 Daniel Saunders
-](https://github.com/funkydan2/alpha-church)|
+](#)|
 Creative Commons Attribution 3.0
 |
 46
@@ -873,7 +873,7 @@ MIT
 Gokarna
 ](https://themes.gohugo.io/themes/gokarna/)|[
 Yash Mehrotra
-](https://github.com/526avijitgupta/gokarna)|
+](#)|
 GNU GPLv3
 |
 23
@@ -1302,7 +1302,7 @@ MIT
 Cactus
 ](https://themes.gohugo.io/themes/hugo-theme-cactus/)|[
 Zeran Wu
-](https://github.com/probberechts/hexo-theme-cactus)|
+](#)|
 MIT
 |
 286
@@ -1860,17 +1860,6 @@ MIT
 2021-06-29
 |
 |[
-eiio
-](https://themes.gohugo.io/themes/hugo_eiio/)|[
-Leon He
-](https://github.com/leonhe/hugo_eiio/blob/master/LICENSE)|
-MIT
-|
-20
-|
-2021-06-28
-|
-|[
 Bingo
 ](https://themes.gohugo.io/themes/hugo-bingo/)|[
 Bing-Sheng Chen
@@ -2285,17 +2274,6 @@ MIT
 2021-03-28
 |
 |[
-Bootstrap-BP-Startpage
-](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
-Sebastian Pech
-](https://github.com/ViktorKare/startpage)|
-MIT
-|
-42
-|
-2021-03-27
-|
-|[
 Bootstrap-BP
 ](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
 Sebastian Pech
@@ -2303,6 +2281,17 @@ Sebastian Pech
 MIT
 |
 38
+|
+2021-03-27
+|
+|[
+Bootstrap-BP-Startpage
+](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
+Sebastian Pech
+](https://github.com/ViktorKare/startpage)|
+MIT
+|
+42
 |
 2021-03-27
 |
@@ -3141,17 +3130,6 @@ MIT
 2020-07-12
 |
 |[
-Vex
-](https://themes.gohugo.io/themes/vex-hugo/)|[
-Themefisher
-](https://github.com/themefisher/vex-hugo/issues)|
-CC-BY-3.0
-|
-123
-|
-2020-07-05
-|
-|[
 Academia Hugo
 ](https://themes.gohugo.io/themes/academia-hugo/)|[
 Themefisher
@@ -3159,6 +3137,17 @@ Themefisher
 MIT
 |
 121
+|
+2020-07-05
+|
+|[
+Vex
+](https://themes.gohugo.io/themes/vex-hugo/)|[
+Themefisher
+](https://github.com/themefisher/vex-hugo/issues)|
+CC-BY-3.0
+|
+123
 |
 2020-07-05
 |
@@ -4077,17 +4066,6 @@ Apache 2.0
 2019-02-07
 |
 |[
-Yuki
-](https://themes.gohugo.io/themes/hugo-theme-yuki/)|[
-Cyris
-](https://github.com/iCyris/hugo-theme-yuki/blob/master/LICENSE)|
-MIT
-|
-20
-|
-2019-02-04
-|
-|[
 Robotico
 ](https://themes.gohugo.io/themes/hugo-theme-robotico/)|[
 Wiley McKay Conte
@@ -4309,7 +4287,7 @@ MIT
 Minimo
 ](https://themes.gohugo.io/themes/engimo/)|[
 Munif Tanjim
-](https://github.com/colebemis/feather/blob/master/LICENSE)|
+](#)|
 MIT
 |
 48
