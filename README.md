@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-18 00:39:31 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-18 02:28:48 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -1178,6 +1178,17 @@ MIT
 2021-09-09
 |
 |[
+Liva Hugo
+](https://themes.gohugo.io/themes/liva-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/liva-hugo/graphs/contributors)|
+MIT
+|
+148
+|
+2021-09-08
+|
+|[
 Timer Hugo
 ](https://themes.gohugo.io/themes/timer-hugo/)|[
 Themefisher
@@ -1207,17 +1218,6 @@ Themefisher
 MIT
 |
 59
-|
-2021-09-08
-|
-|[
-Liva Hugo
-](https://themes.gohugo.io/themes/liva-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/liva-hugo/graphs/contributors)|
-MIT
-|
-148
 |
 2021-09-08
 |
@@ -1874,7 +1874,7 @@ MIT
 Bingo
 ](https://themes.gohugo.io/themes/hugo-bingo/)|[
 Bing-Sheng Chen
-](#)|
+](https://github.com/gundamew/hugo-bingo/blob/master/LICENSE)|
 MIT
 |
 11
@@ -2844,17 +2844,6 @@ MIT
 2020-11-05
 |
 |[
-pulp
-](https://themes.gohugo.io/themes/pulp/)|[
-koirand
-](https://github.com/koirand/pulp)|
-MIT
-|
-102
-|
-2020-11-01
-|
-|[
 Swift
 ](https://themes.gohugo.io/themes/hugo-swift-theme/)|[
 weru
@@ -2862,6 +2851,17 @@ weru
 MIT
 |
 97
+|
+2020-11-01
+|
+|[
+pulp
+](https://themes.gohugo.io/themes/pulp/)|[
+koirand
+](https://github.com/koirand/pulp)|
+MIT
+|
+102
 |
 2020-11-01
 |
@@ -3368,17 +3368,6 @@ Creative Commons
 2020-05-29
 |
 |[
-Jeffprod
-](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
-@JeffProd
-](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
-MIT
-|
-51
-|
-2020-05-28
-|
-|[
 Erblog
 ](https://themes.gohugo.io/themes/erblog/)|[
 Ertuil
@@ -3386,6 +3375,17 @@ Ertuil
 MIT
 |
 52
+|
+2020-05-28
+|
+|[
+Jeffprod
+](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
+@JeffProd
+](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
+MIT
+|
+51
 |
 2020-05-28
 |
@@ -3675,7 +3675,7 @@ MIT
 Twenty Fourteen
 ](https://themes.gohugo.io/themes/twentyfourteen/)|[
 Dan Hersam
-](#)|
+](https://github.com/jaden/twentyfourteen)|
 GNU General Public License v2 or later
 |
 22
@@ -3727,17 +3727,6 @@ MIT
 2019-10-27
 |
 |[
-Arabica
-](https://themes.gohugo.io/themes/arabica/)|[
-Chen Fangzhou
-](https://github.com/nirocfz/arabica/blob/master/LICENSE)|
-MIT
-|
-17
-|
-2019-10-12
-|
-|[
 Spectre Pixel Theme
 ](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
 Shin Tatt
@@ -3745,6 +3734,17 @@ Shin Tatt
 MIT
 |
 16
+|
+2019-10-12
+|
+|[
+Arabica
+](https://themes.gohugo.io/themes/arabica/)|[
+Chen Fangzhou
+](https://github.com/nirocfz/arabica/blob/master/LICENSE)|
+MIT
+|
+17
 |
 2019-10-12
 |
