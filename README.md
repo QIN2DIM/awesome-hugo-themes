@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-19 20:39:33 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-19 22:22:35 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -727,6 +727,17 @@ GPL-3.0-only
 2021-10-31
 |
 |[
+Parsa Hugo
+](https://themes.gohugo.io/themes/parsa-hugo/)|[
+Themefisher
+](https://github.com/themefisher/parsa-hugo/graphs/contributors)|
+MIT
+|
+116
+|
+2021-10-31
+|
+|[
 Hargo Hugo E-Commerce Theme
 ](https://themes.gohugo.io/themes/hargo-hugo-ecommerce-theme/)|[
 Themefisher
@@ -1244,17 +1255,6 @@ MIT
 2021-09-08
 |
 |[
-Infinity Hugo
-](https://themes.gohugo.io/themes/infinity-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
-MIT
-|
-36
-|
-2021-09-08
-|
-|[
 Restaurant Hugo
 ](https://themes.gohugo.io/themes/restaurant-hugo/)|[
 Themefisher
@@ -1262,6 +1262,17 @@ Themefisher
 MIT
 |
 35
+|
+2021-09-08
+|
+|[
+Infinity Hugo
+](https://themes.gohugo.io/themes/infinity-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
+MIT
+|
+36
 |
 2021-09-08
 |
@@ -1420,17 +1431,6 @@ MIT
 2021-08-13
 |
 |[
-Uwe Uwe
-](https://themes.gohugo.io/themes/uwe-uwe-hugo/)|[
-Matthias Einbrodt
-](https://github.com/mbrt-yeah/uwe-uwe-hugo)|
-MIT
-|
-2
-|
-2021-08-13
-|
-|[
 simplog
 ](https://themes.gohugo.io/themes/simplog/)|[
 michimani
@@ -1438,6 +1438,17 @@ michimani
 MIT
 |
 5
+|
+2021-08-13
+|
+|[
+Uwe Uwe
+](https://themes.gohugo.io/themes/uwe-uwe-hugo/)|[
+Matthias Einbrodt
+](https://github.com/mbrt-yeah/uwe-uwe-hugo)|
+MIT
+|
+2
 |
 2021-08-13
 |
@@ -2056,6 +2067,17 @@ MIT
 17
 |
 2021-05-10
+|
+|[
+Hugo ReFresh
+](https://themes.gohugo.io/themes/hugo-refresh/)|[
+Roberto Jordaney
+](https://github.com/wcoder/highlightjs-line-numbers.js/)|
+MIT
+|
+100
+|
+2021-05-04
 |
 |[
 Lekh
@@ -3357,17 +3379,6 @@ Creative Commons
 2020-05-29
 |
 |[
-Jeffprod
-](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
-@JeffProd
-](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
-MIT
-|
-51
-|
-2020-05-28
-|
-|[
 Erblog
 ](https://themes.gohugo.io/themes/erblog/)|[
 Ertuil
@@ -3379,15 +3390,15 @@ MIT
 2020-05-28
 |
 |[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)|[
-Karthik
-](#)|
+Jeffprod
+](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
+@JeffProd
+](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
 MIT
 |
-0
+51
 |
-2020-05-26
+2020-05-28
 |
 |[
 Resto Hugo
@@ -3395,6 +3406,17 @@ Resto Hugo
 Karthik
 ](#)|
 CC-BY-3.0
+|
+0
+|
+2020-05-26
+|
+|[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)|[
+Karthik
+](#)|
+MIT
 |
 0
 |
@@ -3595,10 +3617,21 @@ MIT
 2020-01-04
 |
 |[
+Hugo-Primer
+](https://themes.gohugo.io/themes/hugo-primer/)|[
+Qiushi Pan
+](https://github.com/qqhann/hugo-primer)|
+MIT
+|
+114
+|
+2019-12-02
+|
+|[
 simple-a
 ](https://themes.gohugo.io/themes/simple-a/)|[
 AlexFinn
-](https://github.com/alxschwarz/simple-a)|
+](#)|
 MIT
 |
 52
@@ -4168,7 +4201,7 @@ MIT
 Kiss
 ](https://themes.gohugo.io/themes/kiss/)|[
 ribice
-](https://github.com/colebemis/feather/blob/master/LICENSE)|
+](#)|
 MIT
 |
 275
