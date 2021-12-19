@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-20 02:29:12 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-20 04:25:58 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -804,22 +804,22 @@ MIT
 2021-10-26
 |
 |[
-Alpha Church
-](https://themes.gohugo.io/themes/alpha-church/)|[
-Daniel Saunders
-](https://github.com/funkydan2/alpha-church)|
-Creative Commons Attribution 3.0
+Tokiwa
+](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
+He Yeshuang
+](https://github.com/Remix-Design/remixicon)|
+MIT
 |
 46
 |
 2021-10-26
 |
 |[
-Tokiwa
-](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
-He Yeshuang
-](https://github.com/Remix-Design/remixicon)|
-MIT
+Alpha Church
+](https://themes.gohugo.io/themes/alpha-church/)|[
+Daniel Saunders
+](https://github.com/funkydan2/alpha-church)|
+Creative Commons Attribution 3.0
 |
 46
 |
@@ -1222,10 +1222,10 @@ MIT
 2021-09-08
 |
 |[
-Timer Hugo
-](https://themes.gohugo.io/themes/timer-hugo/)|[
+Navigator Hugo
+](https://themes.gohugo.io/themes/navigator-hugo/)|[
 Themefisher
-](https://github.com/themefisher/timer-hugo/graphs/contributors)|
+](https://github.com/gethugothemes/navigator-hugo/graphs/contributors)|
 MIT
 |
 113
@@ -1233,10 +1233,10 @@ MIT
 2021-09-08
 |
 |[
-Navigator Hugo
-](https://themes.gohugo.io/themes/navigator-hugo/)|[
+Timer Hugo
+](https://themes.gohugo.io/themes/timer-hugo/)|[
 Themefisher
-](https://github.com/gethugothemes/navigator-hugo/graphs/contributors)|
+](https://github.com/themefisher/timer-hugo/graphs/contributors)|
 MIT
 |
 113
@@ -1255,17 +1255,6 @@ MIT
 2021-09-08
 |
 |[
-Infinity Hugo
-](https://themes.gohugo.io/themes/infinity-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
-MIT
-|
-36
-|
-2021-09-08
-|
-|[
 Restaurant Hugo
 ](https://themes.gohugo.io/themes/restaurant-hugo/)|[
 Themefisher
@@ -1273,6 +1262,17 @@ Themefisher
 MIT
 |
 35
+|
+2021-09-08
+|
+|[
+Infinity Hugo
+](https://themes.gohugo.io/themes/infinity-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
+MIT
+|
+36
 |
 2021-09-08
 |
@@ -3727,17 +3727,6 @@ MIT
 2019-10-27
 |
 |[
-Spectre Pixel Theme
-](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
-Shin Tatt
-](https://github.com/digitalcraftsman/hugo-cactus-theme)|
-MIT
-|
-16
-|
-2019-10-12
-|
-|[
 Arabica
 ](https://themes.gohugo.io/themes/arabica/)|[
 Chen Fangzhou
@@ -3745,6 +3734,17 @@ Chen Fangzhou
 MIT
 |
 17
+|
+2019-10-12
+|
+|[
+Spectre Pixel Theme
+](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
+Shin Tatt
+](https://github.com/digitalcraftsman/hugo-cactus-theme)|
+MIT
+|
+16
 |
 2019-10-12
 |
@@ -4080,7 +4080,7 @@ Apache 2.0
 Yuki
 ](https://themes.gohugo.io/themes/hugo-theme-yuki/)|[
 Cyris
-](#)|
+](https://github.com/iCyris/hugo-theme-yuki/blob/master/LICENSE)|
 MIT
 |
 20
