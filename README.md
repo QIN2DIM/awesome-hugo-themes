@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-19 18:27:11 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-19 20:39:33 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -727,17 +727,6 @@ GPL-3.0-only
 2021-10-31
 |
 |[
-Parsa Hugo
-](https://themes.gohugo.io/themes/parsa-hugo/)|[
-Themefisher
-](https://github.com/themefisher/parsa-hugo/graphs/contributors)|
-MIT
-|
-116
-|
-2021-10-31
-|
-|[
 Hargo Hugo E-Commerce Theme
 ](https://themes.gohugo.io/themes/hargo-hugo-ecommerce-theme/)|[
 Themefisher
@@ -1222,10 +1211,10 @@ MIT
 2021-09-08
 |
 |[
-Navigator Hugo
-](https://themes.gohugo.io/themes/navigator-hugo/)|[
+Timer Hugo
+](https://themes.gohugo.io/themes/timer-hugo/)|[
 Themefisher
-](https://github.com/gethugothemes/navigator-hugo/graphs/contributors)|
+](https://github.com/themefisher/timer-hugo/graphs/contributors)|
 MIT
 |
 113
@@ -1233,10 +1222,10 @@ MIT
 2021-09-08
 |
 |[
-Timer Hugo
-](https://themes.gohugo.io/themes/timer-hugo/)|[
+Navigator Hugo
+](https://themes.gohugo.io/themes/navigator-hugo/)|[
 Themefisher
-](https://github.com/themefisher/timer-hugo/graphs/contributors)|
+](https://github.com/gethugothemes/navigator-hugo/graphs/contributors)|
 MIT
 |
 113
@@ -1431,17 +1420,6 @@ MIT
 2021-08-13
 |
 |[
-simplog
-](https://themes.gohugo.io/themes/simplog/)|[
-michimani
-](https://github.com/michimani/simplog)|
-MIT
-|
-5
-|
-2021-08-13
-|
-|[
 Uwe Uwe
 ](https://themes.gohugo.io/themes/uwe-uwe-hugo/)|[
 Matthias Einbrodt
@@ -1449,6 +1427,17 @@ Matthias Einbrodt
 MIT
 |
 2
+|
+2021-08-13
+|
+|[
+simplog
+](https://themes.gohugo.io/themes/simplog/)|[
+michimani
+](https://github.com/michimani/simplog)|
+MIT
+|
+5
 |
 2021-08-13
 |
@@ -1519,17 +1508,6 @@ MIT
 2021-08-08
 |
 |[
-Vibrant Shadows
-](https://themes.gohugo.io/themes/hugotheme-vibrantshadows/)|[
-Softorage
-](https://github.com/Softorage/HugoTheme-VibrantShadows/blob/master/LICENSE)|
-MIT
-|
-9
-|
-2021-08-05
-|
-|[
 Starter Theme
 ](https://themes.gohugo.io/themes/hugo-starter/)|[
 Jim Frenette
@@ -1537,6 +1515,17 @@ Jim Frenette
 MIT
 |
 13
+|
+2021-08-05
+|
+|[
+Vibrant Shadows
+](https://themes.gohugo.io/themes/hugotheme-vibrantshadows/)|[
+Softorage
+](https://github.com/Softorage/HugoTheme-VibrantShadows/blob/master/LICENSE)|
+MIT
+|
+9
 |
 2021-08-05
 |
@@ -2067,17 +2056,6 @@ MIT
 17
 |
 2021-05-10
-|
-|[
-Hugo ReFresh
-](https://themes.gohugo.io/themes/hugo-refresh/)|[
-Roberto Jordaney
-](https://github.com/wcoder/highlightjs-line-numbers.js/)|
-MIT
-|
-100
-|
-2021-05-04
 |
 |[
 Lekh
@@ -2855,17 +2833,6 @@ MIT
 2020-11-05
 |
 |[
-Swift
-](https://themes.gohugo.io/themes/hugo-swift-theme/)|[
-weru
-](https://github.com/onweru/hugo-swift-theme/blob/master/LICENSE.md)|
-MIT
-|
-97
-|
-2020-11-01
-|
-|[
 pulp
 ](https://themes.gohugo.io/themes/pulp/)|[
 koirand
@@ -2873,6 +2840,17 @@ koirand
 MIT
 |
 102
+|
+2020-11-01
+|
+|[
+Swift
+](https://themes.gohugo.io/themes/hugo-swift-theme/)|[
+weru
+](https://github.com/onweru/hugo-swift-theme/blob/master/LICENSE.md)|
+MIT
+|
+97
 |
 2020-11-01
 |
@@ -3271,17 +3249,6 @@ MIT
 2020-06-22
 |
 |[
-Notrack
-](https://themes.gohugo.io/themes/hugo-theme-notrack/)|[
-Simon Bengtsson
-](https://github.com/dillonzq/LoveIt/blob/master/assets/data/social.yml)|
-GPLv3
-|
-9
-|
-2020-06-16
-|
-|[
 simple-blog
 ](https://themes.gohugo.io/themes/hugo-theme-simple-blog/)|[
 10mohi6
@@ -3289,6 +3256,17 @@ simple-blog
 MIT
 |
 8
+|
+2020-06-16
+|
+|[
+Notrack
+](https://themes.gohugo.io/themes/hugo-theme-notrack/)|[
+Simon Bengtsson
+](https://github.com/dillonzq/LoveIt/blob/master/assets/data/social.yml)|
+GPLv3
+|
+9
 |
 2020-06-16
 |
@@ -3379,17 +3357,6 @@ Creative Commons
 2020-05-29
 |
 |[
-Erblog
-](https://themes.gohugo.io/themes/erblog/)|[
-Ertuil
-](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
-MIT
-|
-52
-|
-2020-05-28
-|
-|[
 Jeffprod
 ](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
 @JeffProd
@@ -3397,6 +3364,17 @@ Jeffprod
 MIT
 |
 51
+|
+2020-05-28
+|
+|[
+Erblog
+](https://themes.gohugo.io/themes/erblog/)|[
+Ertuil
+](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
+MIT
+|
+52
 |
 2020-05-28
 |
@@ -3564,15 +3542,6 @@ MIT
 2020-02-17
 |
 |[
-OneDly Project
-](https://themes.gohugo.io/themes/onedly-theme/)|[nil](https://github.com/cdeck3r/OneDly-Theme/blob/master/exampleSite/config.toml)|
-MIT
-|
-11
-|
-2020-01-27
-|
-|[
 Papaya
 ](https://themes.gohugo.io/themes/papaya/)|[
 Pedro Lopez
@@ -3580,6 +3549,15 @@ Pedro Lopez
 MIT
 |
 15
+|
+2020-01-27
+|
+|[
+OneDly Project
+](https://themes.gohugo.io/themes/onedly-theme/)|[nil](https://github.com/cdeck3r/OneDly-Theme/blob/master/exampleSite/config.toml)|
+MIT
+|
+11
 |
 2020-01-27
 |
@@ -3615,17 +3593,6 @@ MIT
 9
 |
 2020-01-04
-|
-|[
-Hugo-Primer
-](https://themes.gohugo.io/themes/hugo-primer/)|[
-Qiushi Pan
-](https://github.com/qqhann/hugo-primer)|
-MIT
-|
-114
-|
-2019-12-02
 |
 |[
 simple-a
