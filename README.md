@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-20 10:43:17 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-20 12:34:24 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -804,22 +804,22 @@ MIT
 2021-10-26
 |
 |[
-Alpha Church
-](https://themes.gohugo.io/themes/alpha-church/)|[
-Daniel Saunders
-](https://github.com/funkydan2/alpha-church)|
-Creative Commons Attribution 3.0
+Tokiwa
+](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
+He Yeshuang
+](https://github.com/Remix-Design/remixicon)|
+MIT
 |
 46
 |
 2021-10-26
 |
 |[
-Tokiwa
-](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
-He Yeshuang
-](https://github.com/Remix-Design/remixicon)|
-MIT
+Alpha Church
+](https://themes.gohugo.io/themes/alpha-church/)|[
+Daniel Saunders
+](https://github.com/funkydan2/alpha-church)|
+Creative Commons Attribution 3.0
 |
 46
 |
@@ -1431,17 +1431,6 @@ MIT
 2021-08-13
 |
 |[
-simplog
-](https://themes.gohugo.io/themes/simplog/)|[
-michimani
-](https://github.com/michimani/simplog)|
-MIT
-|
-5
-|
-2021-08-13
-|
-|[
 Uwe Uwe
 ](https://themes.gohugo.io/themes/uwe-uwe-hugo/)|[
 Matthias Einbrodt
@@ -1449,6 +1438,17 @@ Matthias Einbrodt
 MIT
 |
 2
+|
+2021-08-13
+|
+|[
+simplog
+](https://themes.gohugo.io/themes/simplog/)|[
+michimani
+](https://github.com/michimani/simplog)|
+MIT
+|
+5
 |
 2021-08-13
 |
@@ -1772,17 +1772,6 @@ MIT
 2021-07-08
 |
 |[
-Venture
-](https://themes.gohugo.io/themes/venture/)|[
-William Toll
-](https://github.com/Wtoll/venture)|
-MIT
-|
-1
-|
-2021-07-08
-|
-|[
 Split Landing
 ](https://themes.gohugo.io/themes/split-landing/)|[
 Katajun
@@ -1790,6 +1779,17 @@ Katajun
 MIT
 |
 0
+|
+2021-07-08
+|
+|[
+Venture
+](https://themes.gohugo.io/themes/venture/)|[
+William Toll
+](https://github.com/Wtoll/venture)|
+MIT
+|
+1
 |
 2021-07-08
 |
@@ -3152,17 +3152,6 @@ MIT
 2020-07-12
 |
 |[
-Vex
-](https://themes.gohugo.io/themes/vex-hugo/)|[
-Themefisher
-](https://github.com/themefisher/vex-hugo/issues)|
-CC-BY-3.0
-|
-123
-|
-2020-07-05
-|
-|[
 Academia Hugo
 ](https://themes.gohugo.io/themes/academia-hugo/)|[
 Themefisher
@@ -3170,6 +3159,17 @@ Themefisher
 MIT
 |
 121
+|
+2020-07-05
+|
+|[
+Vex
+](https://themes.gohugo.io/themes/vex-hugo/)|[
+Themefisher
+](https://github.com/themefisher/vex-hugo/issues)|
+CC-BY-3.0
+|
+123
 |
 2020-07-05
 |
@@ -3727,17 +3727,6 @@ MIT
 2019-10-27
 |
 |[
-Spectre Pixel Theme
-](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
-Shin Tatt
-](https://github.com/digitalcraftsman/hugo-cactus-theme)|
-MIT
-|
-16
-|
-2019-10-12
-|
-|[
 Arabica
 ](https://themes.gohugo.io/themes/arabica/)|[
 Chen Fangzhou
@@ -3745,6 +3734,17 @@ Chen Fangzhou
 MIT
 |
 17
+|
+2019-10-12
+|
+|[
+Spectre Pixel Theme
+](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
+Shin Tatt
+](https://github.com/digitalcraftsman/hugo-cactus-theme)|
+MIT
+|
+16
 |
 2019-10-12
 |
