@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-20 18:28:38 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-20 20:41:44 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -1706,17 +1706,6 @@ MIT
 2021-07-14
 |
 |[
-Hugo Serif
-](https://themes.gohugo.io/themes/hugo-serif-theme/)|[
-Robert Austin
-](https://github.com/zerostaticthemes/gatsby-serif-theme)|
-MIT
-|
-219
-|
-2021-07-09
-|
-|[
 Whisper
 ](https://themes.gohugo.io/themes/hugo-whisper-theme/)|[
 Robert Austin
@@ -1724,6 +1713,17 @@ Robert Austin
 MIT
 |
 175
+|
+2021-07-09
+|
+|[
+Hugo Serif
+](https://themes.gohugo.io/themes/hugo-serif-theme/)|[
+Robert Austin
+](https://github.com/zerostaticthemes/gatsby-serif-theme)|
+MIT
+|
+219
 |
 2021-07-09
 |
@@ -3152,17 +3152,6 @@ MIT
 2020-07-12
 |
 |[
-Academia Hugo
-](https://themes.gohugo.io/themes/academia-hugo/)|[
-Themefisher
-](https://github.com/themefisher/academia-hugo/issues)|
-MIT
-|
-121
-|
-2020-07-05
-|
-|[
 Vex
 ](https://themes.gohugo.io/themes/vex-hugo/)|[
 Themefisher
@@ -3170,6 +3159,17 @@ Themefisher
 CC-BY-3.0
 |
 123
+|
+2020-07-05
+|
+|[
+Academia Hugo
+](https://themes.gohugo.io/themes/academia-hugo/)|[
+Themefisher
+](https://github.com/themefisher/academia-hugo/issues)|
+MIT
+|
+121
 |
 2020-07-05
 |
@@ -3401,22 +3401,22 @@ MIT
 2020-05-28
 |
 |[
-Resto Hugo
-](https://themes.gohugo.io/themes/resto-hugo/)|[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)|[
 Karthik
 ](#)|
-CC-BY-3.0
+MIT
 |
 0
 |
 2020-05-26
 |
 |[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)|[
+Resto Hugo
+](https://themes.gohugo.io/themes/resto-hugo/)|[
 Karthik
 ](#)|
-MIT
+CC-BY-3.0
 |
 0
 |
@@ -3727,17 +3727,6 @@ MIT
 2019-10-27
 |
 |[
-Arabica
-](https://themes.gohugo.io/themes/arabica/)|[
-Chen Fangzhou
-](https://github.com/nirocfz/arabica/blob/master/LICENSE)|
-MIT
-|
-17
-|
-2019-10-12
-|
-|[
 Spectre Pixel Theme
 ](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
 Shin Tatt
@@ -3745,6 +3734,17 @@ Shin Tatt
 MIT
 |
 16
+|
+2019-10-12
+|
+|[
+Arabica
+](https://themes.gohugo.io/themes/arabica/)|[
+Chen Fangzhou
+](https://github.com/nirocfz/arabica/blob/master/LICENSE)|
+MIT
+|
+17
 |
 2019-10-12
 |
