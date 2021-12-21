@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-22 04:26:55 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-22 06:25:24 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -1222,10 +1222,10 @@ MIT
 2021-09-08
 |
 |[
-Navigator Hugo
-](https://themes.gohugo.io/themes/navigator-hugo/)|[
+Timer Hugo
+](https://themes.gohugo.io/themes/timer-hugo/)|[
 Themefisher
-](https://github.com/gethugothemes/navigator-hugo/graphs/contributors)|
+](https://github.com/themefisher/timer-hugo/graphs/contributors)|
 MIT
 |
 113
@@ -1233,10 +1233,10 @@ MIT
 2021-09-08
 |
 |[
-Timer Hugo
-](https://themes.gohugo.io/themes/timer-hugo/)|[
+Navigator Hugo
+](https://themes.gohugo.io/themes/navigator-hugo/)|[
 Themefisher
-](https://github.com/themefisher/timer-hugo/graphs/contributors)|
+](https://github.com/gethugothemes/navigator-hugo/graphs/contributors)|
 MIT
 |
 113
@@ -1772,17 +1772,6 @@ MIT
 2021-07-08
 |
 |[
-Venture
-](https://themes.gohugo.io/themes/venture/)|[
-William Toll
-](https://github.com/Wtoll/venture)|
-MIT
-|
-1
-|
-2021-07-08
-|
-|[
 Split Landing
 ](https://themes.gohugo.io/themes/split-landing/)|[
 Katajun
@@ -1790,6 +1779,17 @@ Katajun
 MIT
 |
 0
+|
+2021-07-08
+|
+|[
+Venture
+](https://themes.gohugo.io/themes/venture/)|[
+William Toll
+](https://github.com/Wtoll/venture)|
+MIT
+|
+1
 |
 2021-07-08
 |
@@ -3401,22 +3401,22 @@ MIT
 2020-05-28
 |
 |[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)|[
+Resto Hugo
+](https://themes.gohugo.io/themes/resto-hugo/)|[
 Karthik
 ](#)|
-MIT
+CC-BY-3.0
 |
 0
 |
 2020-05-26
 |
 |[
-Resto Hugo
-](https://themes.gohugo.io/themes/resto-hugo/)|[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)|[
 Karthik
 ](#)|
-CC-BY-3.0
+MIT
 |
 0
 |
