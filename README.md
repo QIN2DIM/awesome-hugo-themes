@@ -1,20 +1,9 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-23 12:34:16 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-23 14:31:18 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
-|[
-Docsy
-](https://themes.gohugo.io/themes/docsy/)|[
-The Docsy Authors
-](https://github.com/google/docsy/blob/master/LICENSE)|
-Apache 2.0
-|
-1422
-|
-2021-12-21
-|
 |[
 Paper
 ](https://themes.gohugo.io/themes/hugo-paper/)|[
@@ -23,6 +12,17 @@ nanxiaobei
 MIT
 |
 717
+|
+2021-12-21
+|
+|[
+Docsy
+](https://themes.gohugo.io/themes/docsy/)|[
+The Docsy Authors
+](https://github.com/google/docsy/blob/master/LICENSE)|
+Apache 2.0
+|
+1422
 |
 2021-12-21
 |
@@ -1266,17 +1266,6 @@ MIT
 2021-09-08
 |
 |[
-Restaurant Hugo
-](https://themes.gohugo.io/themes/restaurant-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
-MIT
-|
-35
-|
-2021-09-08
-|
-|[
 Infinity Hugo
 ](https://themes.gohugo.io/themes/infinity-hugo/)|[
 Themefisher
@@ -1284,6 +1273,17 @@ Themefisher
 MIT
 |
 36
+|
+2021-09-08
+|
+|[
+Restaurant Hugo
+](https://themes.gohugo.io/themes/restaurant-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
+MIT
+|
+35
 |
 2021-09-08
 |
@@ -1442,17 +1442,6 @@ MIT
 2021-08-13
 |
 |[
-Uwe Uwe
-](https://themes.gohugo.io/themes/uwe-uwe-hugo/)|[
-Matthias Einbrodt
-](https://github.com/mbrt-yeah/uwe-uwe-hugo)|
-MIT
-|
-2
-|
-2021-08-13
-|
-|[
 simplog
 ](https://themes.gohugo.io/themes/simplog/)|[
 michimani
@@ -1460,6 +1449,17 @@ michimani
 MIT
 |
 5
+|
+2021-08-13
+|
+|[
+Uwe Uwe
+](https://themes.gohugo.io/themes/uwe-uwe-hugo/)|[
+Matthias Einbrodt
+](https://github.com/mbrt-yeah/uwe-uwe-hugo)|
+MIT
+|
+2
 |
 2021-08-13
 |
@@ -1783,17 +1783,6 @@ MIT
 2021-07-08
 |
 |[
-Venture
-](https://themes.gohugo.io/themes/venture/)|[
-William Toll
-](https://github.com/Wtoll/venture)|
-MIT
-|
-1
-|
-2021-07-08
-|
-|[
 Split Landing
 ](https://themes.gohugo.io/themes/split-landing/)|[
 Katajun
@@ -1801,6 +1790,17 @@ Katajun
 MIT
 |
 0
+|
+2021-07-08
+|
+|[
+Venture
+](https://themes.gohugo.io/themes/venture/)|[
+William Toll
+](https://github.com/Wtoll/venture)|
+MIT
+|
+1
 |
 2021-07-08
 |
@@ -3379,17 +3379,6 @@ Creative Commons
 2020-05-29
 |
 |[
-Jeffprod
-](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
-@JeffProd
-](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
-MIT
-|
-51
-|
-2020-05-28
-|
-|[
 Erblog
 ](https://themes.gohugo.io/themes/erblog/)|[
 Ertuil
@@ -3397,6 +3386,17 @@ Ertuil
 MIT
 |
 52
+|
+2020-05-28
+|
+|[
+Jeffprod
+](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
+@JeffProd
+](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
+MIT
+|
+51
 |
 2020-05-28
 |
