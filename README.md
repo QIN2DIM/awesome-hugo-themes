@@ -1,20 +1,9 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-24 09:18:37 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-24 10:42:34 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
-|[
-Paper
-](https://themes.gohugo.io/themes/hugo-paper/)|[
-nanxiaobei
-](https://github.com/nanxiaobei/hugo-paper/blob/master/LICENSE)|
-MIT
-|
-717
-|
-2021-12-21
-|
 |[
 Docsy
 ](https://themes.gohugo.io/themes/docsy/)|[
@@ -23,6 +12,17 @@ The Docsy Authors
 Apache 2.0
 |
 1422
+|
+2021-12-21
+|
+|[
+Paper
+](https://themes.gohugo.io/themes/hugo-paper/)|[
+nanxiaobei
+](https://github.com/nanxiaobei/hugo-paper/blob/master/LICENSE)|
+MIT
+|
+717
 |
 2021-12-21
 |
@@ -672,17 +672,6 @@ MIT
 2021-11-09
 |
 |[
-hello-friend
-](https://themes.gohugo.io/themes/hugo-theme-hello-friend/)|[
-panr
-](https://github.com/panr/hugo-theme-hello-friend/blob/master/LICENSE.md)|
-MIT
-|
-712
-|
-2021-11-07
-|
-|[
 DoIt
 ](https://themes.gohugo.io/themes/doit/)|[
 PCloud
@@ -826,22 +815,22 @@ MIT
 2021-10-26
 |
 |[
-Tokiwa
-](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
-He Yeshuang
-](https://github.com/Remix-Design/remixicon)|
-MIT
+Alpha Church
+](https://themes.gohugo.io/themes/alpha-church/)|[
+Daniel Saunders
+](https://github.com/funkydan2/alpha-church)|
+Creative Commons Attribution 3.0
 |
 46
 |
 2021-10-26
 |
 |[
-Alpha Church
-](https://themes.gohugo.io/themes/alpha-church/)|[
-Daniel Saunders
-](https://github.com/funkydan2/alpha-church)|
-Creative Commons Attribution 3.0
+Tokiwa
+](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
+He Yeshuang
+](https://github.com/Remix-Design/remixicon)|
+MIT
 |
 46
 |
@@ -978,17 +967,6 @@ GNU General Public License v3.0
 752
 |
 2021-10-06
-|
-|[
-Doks
-](https://themes.gohugo.io/themes/doks/)|[
-Henk Verlinde
-](https://github.com/h-enk/doks/discussions)|
-MIT
-|
-695
-|
-2021-10-05
 |
 |[
 Slick
@@ -1233,10 +1211,10 @@ MIT
 2021-09-08
 |
 |[
-Timer Hugo
-](https://themes.gohugo.io/themes/timer-hugo/)|[
+Navigator Hugo
+](https://themes.gohugo.io/themes/navigator-hugo/)|[
 Themefisher
-](https://github.com/themefisher/timer-hugo/graphs/contributors)|
+](https://github.com/gethugothemes/navigator-hugo/graphs/contributors)|
 MIT
 |
 113
@@ -1244,10 +1222,10 @@ MIT
 2021-09-08
 |
 |[
-Navigator Hugo
-](https://themes.gohugo.io/themes/navigator-hugo/)|[
+Timer Hugo
+](https://themes.gohugo.io/themes/timer-hugo/)|[
 Themefisher
-](https://github.com/gethugothemes/navigator-hugo/graphs/contributors)|
+](https://github.com/themefisher/timer-hugo/graphs/contributors)|
 MIT
 |
 113
@@ -1442,17 +1420,6 @@ MIT
 2021-08-13
 |
 |[
-Uwe Uwe
-](https://themes.gohugo.io/themes/uwe-uwe-hugo/)|[
-Matthias Einbrodt
-](https://github.com/mbrt-yeah/uwe-uwe-hugo)|
-MIT
-|
-2
-|
-2021-08-13
-|
-|[
 simplog
 ](https://themes.gohugo.io/themes/simplog/)|[
 michimani
@@ -1460,6 +1427,17 @@ michimani
 MIT
 |
 5
+|
+2021-08-13
+|
+|[
+Uwe Uwe
+](https://themes.gohugo.io/themes/uwe-uwe-hugo/)|[
+Matthias Einbrodt
+](https://github.com/mbrt-yeah/uwe-uwe-hugo)|
+MIT
+|
+2
 |
 2021-08-13
 |
@@ -1715,17 +1693,6 @@ MIT
 38
 |
 2021-07-14
-|
-|[
-Hugo Serif
-](https://themes.gohugo.io/themes/hugo-serif-theme/)|[
-Robert Austin
-](https://github.com/zerostaticthemes/gatsby-serif-theme)|
-MIT
-|
-219
-|
-2021-07-09
 |
 |[
 Whisper
@@ -2184,17 +2151,6 @@ MIT
 107
 |
 2021-04-16
-|
-|[
-reveal-hugo
-](https://themes.gohugo.io/themes/reveal-hugo/)|[
-Josh Dzielak
-](https://github.com/guilhem/devops-training)|
-MIT
-|
-436
-|
-2021-04-13
 |
 |[
 Flexible-SEO-Hugo
@@ -2660,7 +2616,7 @@ MIT
 Changelog Theme
 ](https://themes.gohugo.io/themes/hugo-changelog-theme/)|[
 Yauhen Shulitski
-](https://github.com/jsnjack/hugo-changelog-theme)|
+](#)|
 MIT
 |
 98
@@ -3401,22 +3357,22 @@ MIT
 2020-05-28
 |
 |[
-Resto Hugo
-](https://themes.gohugo.io/themes/resto-hugo/)|[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)|[
 Karthik
 ](#)|
-CC-BY-3.0
+MIT
 |
 0
 |
 2020-05-26
 |
 |[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)|[
+Resto Hugo
+](https://themes.gohugo.io/themes/resto-hugo/)|[
 Karthik
 ](#)|
-MIT
+CC-BY-3.0
 |
 0
 |
