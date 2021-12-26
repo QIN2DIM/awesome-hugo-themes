@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-26 18:27:28 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-26 20:39:30 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -91,17 +91,6 @@ MIT
 2021-12-22
 |
 |[
-Docsy
-](https://themes.gohugo.io/themes/docsy/)|[
-The Docsy Authors
-](https://github.com/google/docsy/blob/master/LICENSE)|
-Apache 2.0
-|
-1422
-|
-2021-12-21
-|
-|[
 Paper
 ](https://themes.gohugo.io/themes/hugo-paper/)|[
 nanxiaobei
@@ -109,6 +98,17 @@ nanxiaobei
 MIT
 |
 717
+|
+2021-12-21
+|
+|[
+Docsy
+](https://themes.gohugo.io/themes/docsy/)|[
+The Docsy Authors
+](https://github.com/google/docsy/blob/master/LICENSE)|
+Apache 2.0
+|
+1422
 |
 2021-12-21
 |
@@ -518,17 +518,6 @@ MIT
 2021-11-30
 |
 |[
-Shadocs
-](https://themes.gohugo.io/themes/shadocs/)|[
-Jordan GAZEAU
-](https://github.com/jgazeau/shadocs/actions/workflows/branches.yml)|
-MIT
-|
-5
-|
-2021-11-28
-|
-|[
 Blist
 ](https://themes.gohugo.io/themes/blist-hugo-theme/)|[
 Varun A P
@@ -536,6 +525,17 @@ Varun A P
 MIT
 |
 50
+|
+2021-11-28
+|
+|[
+Shadocs
+](https://themes.gohugo.io/themes/shadocs/)|[
+Jordan GAZEAU
+](https://github.com/jgazeau/shadocs/actions/workflows/branches.yml)|
+MIT
+|
+5
 |
 2021-11-28
 |
@@ -1266,17 +1266,6 @@ MIT
 2021-09-08
 |
 |[
-Restaurant Hugo
-](https://themes.gohugo.io/themes/restaurant-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
-MIT
-|
-35
-|
-2021-09-08
-|
-|[
 Infinity Hugo
 ](https://themes.gohugo.io/themes/infinity-hugo/)|[
 Themefisher
@@ -1284,6 +1273,17 @@ Themefisher
 MIT
 |
 36
+|
+2021-09-08
+|
+|[
+Restaurant Hugo
+](https://themes.gohugo.io/themes/restaurant-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
+MIT
+|
+35
 |
 2021-09-08
 |
@@ -2307,17 +2307,6 @@ MIT
 2021-03-28
 |
 |[
-Bootstrap-BP-Startpage
-](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
-Sebastian Pech
-](https://github.com/ViktorKare/startpage)|
-MIT
-|
-42
-|
-2021-03-27
-|
-|[
 Bootstrap-BP
 ](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
 Sebastian Pech
@@ -2325,6 +2314,17 @@ Sebastian Pech
 MIT
 |
 38
+|
+2021-03-27
+|
+|[
+Bootstrap-BP-Startpage
+](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
+Sebastian Pech
+](https://github.com/ViktorKare/startpage)|
+MIT
+|
+42
 |
 2021-03-27
 |
