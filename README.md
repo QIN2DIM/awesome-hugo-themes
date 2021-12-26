@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-26 14:30:12 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-26 16:29:27 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -91,17 +91,6 @@ MIT
 2021-12-22
 |
 |[
-Paper
-](https://themes.gohugo.io/themes/hugo-paper/)|[
-nanxiaobei
-](https://github.com/nanxiaobei/hugo-paper/blob/master/LICENSE)|
-MIT
-|
-717
-|
-2021-12-21
-|
-|[
 Docsy
 ](https://themes.gohugo.io/themes/docsy/)|[
 The Docsy Authors
@@ -109,6 +98,17 @@ The Docsy Authors
 Apache 2.0
 |
 1422
+|
+2021-12-21
+|
+|[
+Paper
+](https://themes.gohugo.io/themes/hugo-paper/)|[
+nanxiaobei
+](https://github.com/nanxiaobei/hugo-paper/blob/master/LICENSE)|
+MIT
+|
+717
 |
 2021-12-21
 |
@@ -837,22 +837,22 @@ MIT
 2021-10-26
 |
 |[
-Alpha Church
-](https://themes.gohugo.io/themes/alpha-church/)|[
-Daniel Saunders
-](https://github.com/funkydan2/alpha-church)|
-Creative Commons Attribution 3.0
+Tokiwa
+](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
+He Yeshuang
+](https://github.com/Remix-Design/remixicon)|
+MIT
 |
 46
 |
 2021-10-26
 |
 |[
-Tokiwa
-](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
-He Yeshuang
-](https://github.com/Remix-Design/remixicon)|
-MIT
+Alpha Church
+](https://themes.gohugo.io/themes/alpha-church/)|[
+Daniel Saunders
+](https://github.com/funkydan2/alpha-church)|
+Creative Commons Attribution 3.0
 |
 46
 |
@@ -1783,17 +1783,6 @@ MIT
 2021-07-08
 |
 |[
-Venture
-](https://themes.gohugo.io/themes/venture/)|[
-William Toll
-](https://github.com/Wtoll/venture)|
-MIT
-|
-1
-|
-2021-07-08
-|
-|[
 Split Landing
 ](https://themes.gohugo.io/themes/split-landing/)|[
 Katajun
@@ -1801,6 +1790,17 @@ Katajun
 MIT
 |
 0
+|
+2021-07-08
+|
+|[
+Venture
+](https://themes.gohugo.io/themes/venture/)|[
+William Toll
+](https://github.com/Wtoll/venture)|
+MIT
+|
+1
 |
 2021-07-08
 |
@@ -3379,17 +3379,6 @@ Creative Commons
 2020-05-29
 |
 |[
-Erblog
-](https://themes.gohugo.io/themes/erblog/)|[
-Ertuil
-](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
-MIT
-|
-52
-|
-2020-05-28
-|
-|[
 Jeffprod
 ](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
 @JeffProd
@@ -3397,6 +3386,17 @@ Jeffprod
 MIT
 |
 51
+|
+2020-05-28
+|
+|[
+Erblog
+](https://themes.gohugo.io/themes/erblog/)|[
+Ertuil
+](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
+MIT
+|
+52
 |
 2020-05-28
 |
@@ -3727,17 +3727,6 @@ MIT
 2019-10-27
 |
 |[
-Spectre Pixel Theme
-](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
-Shin Tatt
-](https://github.com/digitalcraftsman/hugo-cactus-theme)|
-MIT
-|
-16
-|
-2019-10-12
-|
-|[
 Arabica
 ](https://themes.gohugo.io/themes/arabica/)|[
 Chen Fangzhou
@@ -3745,6 +3734,17 @@ Chen Fangzhou
 MIT
 |
 17
+|
+2019-10-12
+|
+|[
+Spectre Pixel Theme
+](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
+Shin Tatt
+](https://github.com/digitalcraftsman/hugo-cactus-theme)|
+MIT
+|
+16
 |
 2019-10-12
 |
