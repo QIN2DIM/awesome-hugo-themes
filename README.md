@@ -1,9 +1,42 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-28 06:25:19 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-28 09:19:29 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
+|[
+Coder
+](https://themes.gohugo.io/themes/hugo-coder/)|[
+Luiz F. A. de Prá
+](https://github.com/luizdepra/hugo-coder/blob/master/LICENSE.md)|
+MIT
+|
+1679
+|
+2021-12-27
+|
+|[
+Anubis
+](https://themes.gohugo.io/themes/hugo-theme-anubis/)|[
+Dmitry Kolosov
+](https://github.com/mitrichius/hugo-theme-anubis/issues)|
+MIT
+|
+197
+|
+2021-12-27
+|
+|[
+Developer Portfolio
+](https://themes.gohugo.io/themes/hugo-developer-portfolio/)|[
+Sam Robbins
+](https://github.com/samrobbins85/hugo-developer-portfolio)|
+MIT
+|
+34
+|
+2021-12-27
+|
 |[
 PaperMod
 ](https://themes.gohugo.io/themes/hugo-papermod/)|[
@@ -13,7 +46,73 @@ MIT
 |
 2258
 |
-2021-12-24
+2021-12-26
+|
+|[
+Hero
+](https://themes.gohugo.io/themes/hugo-hero-theme/)|[
+Robert Austin
+](https://github.com/zerostaticthemes/hugo-winston-theme)|
+MIT
+|
+160
+|
+2021-12-26
+|
+|[
+Bootstrap Blog Theme
+](https://themes.gohugo.io/themes/hugo-theme-bootstrap/)|[
+Razon Yang
+](https://github.com/razonyang/hugo-theme-bootstrap/blob/master/USERS.md)|
+MIT
+|
+147
+|
+2021-12-26
+|
+|[
+Manis
+](https://themes.gohugo.io/themes/manis-hugo-theme/)|[
+Yurizal Susanto
+](https://github.com/yursan9/manis-hugo-theme/blob/master/LICENSE.md)|
+MIT
+|
+80
+|
+2021-12-26
+|
+|[
+NexT
+](https://themes.gohugo.io/themes/hugo-theme-next/)|[
+elkan
+](https://github.com/xtfly/hugo-theme-next)|
+MIT
+|
+32
+|
+2021-12-26
+|
+|[
+Clean White
+](https://themes.gohugo.io/themes/hugo-theme-cleanwhite/)|[
+Huabing Zhao
+](https://github.com/zhaohuabing/hugo-theme-cleanwhite/issues/115)|
+Apache
+|
+352
+|
+2021-12-25
+|
+|[
+Anatole
+](https://themes.gohugo.io/themes/anatole/)|[
+Alexander Bilz
+](https://github.com/lxndrblz/anatole/blob/master/exampleSite/content/english/post/redirect.md)|
+MIT
+|
+366
+|
+2021-12-25
 |
 |[
 Doors
@@ -24,7 +123,7 @@ MIT
 |
 10
 |
-2021-12-24
+2021-12-25
 |
 |[
 Ananke Gohugo Theme
@@ -33,7 +132,7 @@ theNewDynamic
 ](https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/layouts/index.html#L32)|
 MIT
 |
-664
+666
 |
 2021-12-23
 |
@@ -69,17 +168,6 @@ MIT
 2021-12-23
 |
 |[
-Clean White
-](https://themes.gohugo.io/themes/hugo-theme-cleanwhite/)|[
-Huabing Zhao
-](https://github.com/zhaohuabing/hugo-theme-cleanwhite/issues/115)|
-Apache
-|
-352
-|
-2021-12-22
-|
-|[
 Geekblog
 ](https://themes.gohugo.io/themes/hugo-geekblog/)|[
 Robert Kaussow
@@ -91,17 +179,6 @@ MIT
 2021-12-22
 |
 |[
-Paper
-](https://themes.gohugo.io/themes/hugo-paper/)|[
-nanxiaobei
-](https://github.com/nanxiaobei/hugo-paper/blob/master/LICENSE)|
-MIT
-|
-717
-|
-2021-12-21
-|
-|[
 Docsy
 ](https://themes.gohugo.io/themes/docsy/)|[
 The Docsy Authors
@@ -109,6 +186,17 @@ The Docsy Authors
 Apache 2.0
 |
 1422
+|
+2021-12-21
+|
+|[
+Paper
+](https://themes.gohugo.io/themes/hugo-paper/)|[
+nanxiaobei
+](https://github.com/nanxiaobei/hugo-paper/blob/master/LICENSE)|
+MIT
+|
+717
 |
 2021-12-21
 |
@@ -157,17 +245,6 @@ Apache-2.0
 2021-12-19
 |
 |[
-Anubis
-](https://themes.gohugo.io/themes/hugo-theme-anubis/)|[
-Dmitry Kolosov
-](https://github.com/mitrichius/hugo-theme-anubis/issues)|
-MIT
-|
-197
-|
-2021-12-19
-|
-|[
 AutoPhugo
 ](https://themes.gohugo.io/themes/autophugo/)|[
 Karl Sickendick
@@ -199,28 +276,6 @@ MIT
 4
 |
 2021-12-18
-|
-|[
-Coder
-](https://themes.gohugo.io/themes/hugo-coder/)|[
-Luiz F. A. de Prá
-](https://github.com/luizdepra/hugo-coder/blob/master/LICENSE.md)|
-MIT
-|
-1679
-|
-2021-12-16
-|
-|[
-Bootstrap Blog Theme
-](https://themes.gohugo.io/themes/hugo-theme-bootstrap/)|[
-Razon Yang
-](https://github.com/razonyang/hugo-theme-bootstrap/blob/master/USERS.md)|
-MIT
-|
-147
-|
-2021-12-16
 |
 |[
 Blonde
@@ -584,17 +639,6 @@ MIT
 2021-11-18
 |
 |[
-NexT
-](https://themes.gohugo.io/themes/hugo-theme-next/)|[
-elkan
-](https://github.com/xtfly/hugo-theme-next)|
-MIT
-|
-32
-|
-2021-11-17
-|
-|[
 fluency
 ](https://themes.gohugo.io/themes/hugo-theme-fluency/)|[
 WayJam So
@@ -714,17 +758,6 @@ Creative Commons Attribution 3.0 Unported
 278
 |
 2021-11-05
-|
-|[
-Anatole
-](https://themes.gohugo.io/themes/anatole/)|[
-Alexander Bilz
-](https://github.com/lxndrblz/anatole/blob/master/exampleSite/content/english/post/redirect.md)|
-MIT
-|
-366
-|
-2021-11-03
 |
 |[
 Tufte
@@ -1420,17 +1453,6 @@ MIT
 2021-08-18
 |
 |[
-redgood
-](https://themes.gohugo.io/themes/redgood/)|[
-Urja Acharya
-](https://github.com/urjaacharya/redgood)|
-MIT
-|
-1
-|
-2021-08-18
-|
-|[
 Hugo Bear Blog
 ](https://themes.gohugo.io/themes/hugo-bearblog/)|[
 Jan Raasch
@@ -1442,17 +1464,6 @@ MIT
 2021-08-13
 |
 |[
-simplog
-](https://themes.gohugo.io/themes/simplog/)|[
-michimani
-](https://github.com/michimani/simplog)|
-MIT
-|
-5
-|
-2021-08-13
-|
-|[
 Uwe Uwe
 ](https://themes.gohugo.io/themes/uwe-uwe-hugo/)|[
 Matthias Einbrodt
@@ -1460,6 +1471,17 @@ Matthias Einbrodt
 MIT
 |
 2
+|
+2021-08-13
+|
+|[
+simplog
+](https://themes.gohugo.io/themes/simplog/)|[
+michimani
+](https://github.com/michimani/simplog)|
+MIT
+|
+5
 |
 2021-08-13
 |
@@ -1583,17 +1605,6 @@ MIT
 3
 |
 2021-08-02
-|
-|[
-Developer Portfolio
-](https://themes.gohugo.io/themes/hugo-developer-portfolio/)|[
-Sam Robbins
-](https://github.com/samrobbins85/hugo-developer-portfolio)|
-MIT
-|
-34
-|
-2021-07-31
 |
 |[
 prastoot
@@ -1739,17 +1750,6 @@ MIT
 2021-07-09
 |
 |[
-Hero
-](https://themes.gohugo.io/themes/hugo-hero-theme/)|[
-Robert Austin
-](https://github.com/zerostaticthemes/hugo-hero-theme/archive/master.zip)|
-MIT
-|
-160
-|
-2021-07-09
-|
-|[
 Hugo Winston
 ](https://themes.gohugo.io/themes/hugo-winston-theme/)|[
 Robert Austin
@@ -1814,17 +1814,6 @@ GPL-v3
 66
 |
 2021-07-07
-|
-|[
-Manis
-](https://themes.gohugo.io/themes/manis-hugo-theme/)|[
-Yurizal Susanto
-](https://github.com/yursan9/manis-hugo-theme/blob/master/LICENSE.md)|
-MIT
-|
-80
-|
-2021-07-03
 |
 |[
 TeXify
@@ -2039,7 +2028,7 @@ MIT
 Dimension
 ](https://themes.gohugo.io/themes/hugo-theme-dimension/)|[
 d-asnaghi
-](https://github.com/your-identity/hugo-theme-dimension/blob/master/LICENSE.md)|
+](#)|
 CC 3.0
 |
 89
