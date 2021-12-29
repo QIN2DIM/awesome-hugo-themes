@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-29 09:18:40 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-29 10:42:08 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -179,17 +179,6 @@ MIT
 2021-12-22
 |
 |[
-Paper
-](https://themes.gohugo.io/themes/hugo-paper/)|[
-nanxiaobei
-](https://github.com/nanxiaobei/hugo-paper/blob/master/LICENSE)|
-MIT
-|
-717
-|
-2021-12-21
-|
-|[
 Docsy
 ](https://themes.gohugo.io/themes/docsy/)|[
 The Docsy Authors
@@ -197,6 +186,17 @@ The Docsy Authors
 Apache 2.0
 |
 1422
+|
+2021-12-21
+|
+|[
+Paper
+](https://themes.gohugo.io/themes/hugo-paper/)|[
+nanxiaobei
+](https://github.com/nanxiaobei/hugo-paper/blob/master/LICENSE)|
+MIT
+|
+717
 |
 2021-12-21
 |
@@ -3401,22 +3401,22 @@ MIT
 2020-05-28
 |
 |[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)|[
+Resto Hugo
+](https://themes.gohugo.io/themes/resto-hugo/)|[
 Karthik
 ](#)|
-MIT
+CC-BY-3.0
 |
 0
 |
 2020-05-26
 |
 |[
-Resto Hugo
-](https://themes.gohugo.io/themes/resto-hugo/)|[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)|[
 Karthik
 ](#)|
-CC-BY-3.0
+MIT
 |
 0
 |
