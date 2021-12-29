@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-29 20:40:46 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-29 22:23:05 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -93,17 +93,6 @@ MIT
 2021-12-26
 |
 |[
-Anatole
-](https://themes.gohugo.io/themes/anatole/)|[
-Alexander Bilz
-](https://github.com/lxndrblz/anatole/blob/master/exampleSite/content/english/post/redirect.md)|
-MIT
-|
-366
-|
-2021-12-25
-|
-|[
 Clean White
 ](https://themes.gohugo.io/themes/hugo-theme-cleanwhite/)|[
 Huabing Zhao
@@ -111,6 +100,17 @@ Huabing Zhao
 Apache
 |
 352
+|
+2021-12-25
+|
+|[
+Anatole
+](https://themes.gohugo.io/themes/anatole/)|[
+Alexander Bilz
+](https://github.com/lxndrblz/anatole/blob/master/exampleSite/content/english/post/redirect.md)|
+MIT
+|
+366
 |
 2021-12-25
 |
