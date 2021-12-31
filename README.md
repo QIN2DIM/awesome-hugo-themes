@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-31 14:30:48 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-31 16:30:53 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -16,17 +16,6 @@ Apache
 2021-12-30
 |
 |[
-congo
-](https://themes.gohugo.io/themes/congo/)|[
-James Panther
-](https://github.com/jpanther/congo/blob/dev/CONTRIBUTING.md)|
-MIT
-|
-44
-|
-2021-12-30
-|
-|[
 Geekblog
 ](https://themes.gohugo.io/themes/hugo-geekblog/)|[
 Robert Kaussow
@@ -34,6 +23,17 @@ Robert Kaussow
 MIT
 |
 51
+|
+2021-12-30
+|
+|[
+congo
+](https://themes.gohugo.io/themes/congo/)|[
+James Panther
+](https://github.com/jpanther/congo/blob/dev/CONTRIBUTING.md)|
+MIT
+|
+44
 |
 2021-12-30
 |
@@ -234,17 +234,6 @@ MIT
 2021-12-23
 |
 |[
-Docsy
-](https://themes.gohugo.io/themes/docsy/)|[
-The Docsy Authors
-](https://github.com/google/docsy/blob/master/LICENSE)|
-Apache 2.0
-|
-1422
-|
-2021-12-21
-|
-|[
 Paper
 ](https://themes.gohugo.io/themes/hugo-paper/)|[
 nanxiaobei
@@ -252,6 +241,17 @@ nanxiaobei
 MIT
 |
 717
+|
+2021-12-21
+|
+|[
+Docsy
+](https://themes.gohugo.io/themes/docsy/)|[
+The Docsy Authors
+](https://github.com/google/docsy/blob/master/LICENSE)|
+Apache 2.0
+|
+1422
 |
 2021-12-21
 |
@@ -314,7 +314,7 @@ MIT
 ink-free
 ](https://themes.gohugo.io/themes/ink-free/)|[
 Christian Hollinger
-](https://github.com/vividvilla/ezhil)|
+](#)|
 MIT
 |
 4
@@ -366,15 +366,6 @@ MIT
 2021-12-14
 |
 |[
-Pickles
-](https://themes.gohugo.io/themes/hugo_theme_pickles/)|[nil](https://github.com/mismith0227/hugo_theme_pickles/tree/develop)|
-MIT
-|
-171
-|
-2021-12-13
-|
-|[
 Cupper
 ](https://themes.gohugo.io/themes/cupper-hugo-theme/)|[
 Zachary Betz
@@ -382,6 +373,15 @@ Zachary Betz
 MIT
 |
 203
+|
+2021-12-13
+|
+|[
+Pickles
+](https://themes.gohugo.io/themes/hugo_theme_pickles/)|[nil](https://github.com/mismith0227/hugo_theme_pickles/tree/develop)|
+MIT
+|
+171
 |
 2021-12-13
 |
@@ -532,7 +532,7 @@ MIT
 hero
 ](https://themes.gohugo.io/themes/hero/)|[
 bigyue
-](https://github.com/yue1124/hero)|
+](#)|
 MIT
 |
 0
@@ -642,7 +642,7 @@ MIT
 Fill and Stroke
 ](https://themes.gohugo.io/themes/hugo-fill-and-stroke/)|[
 knokmki612
-](https://github.com/knokmki612/hugo-fill-and-stroke)|
+](#)|
 GPLv3
 |
 0
@@ -708,7 +708,7 @@ Unlicense
 Ticky Tacky Dark
 ](https://themes.gohugo.io/themes/ticky_tacky_dark/)|[
 kc0bfv
-](https://github.com/kc0bfv/ticky_tacky_dark)|
+](#)|
 MIT
 |
 4
@@ -785,7 +785,7 @@ MIT
 Color Your World
 ](https://themes.gohugo.io/themes/hugo-theme-color-your-world/)|[
 rmaguiar
-](https://github.com/krisk/Fuse)|
+](#)|
 MIT
 |
 0
@@ -870,22 +870,22 @@ MIT
 2021-10-26
 |
 |[
-Alpha Church
-](https://themes.gohugo.io/themes/alpha-church/)|[
-Daniel Saunders
-](https://github.com/funkydan2/alpha-church)|
-Creative Commons Attribution 3.0
+Tokiwa
+](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
+He Yeshuang
+](https://github.com/Remix-Design/remixicon)|
+MIT
 |
 46
 |
 2021-10-26
 |
 |[
-Tokiwa
-](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
-He Yeshuang
-](https://github.com/Remix-Design/remixicon)|
-MIT
+Alpha Church
+](https://themes.gohugo.io/themes/alpha-church/)|[
+Daniel Saunders
+](https://github.com/funkydan2/alpha-church)|
+Creative Commons Attribution 3.0
 |
 46
 |
@@ -1126,7 +1126,7 @@ MIT
 Omega
 ](https://themes.gohugo.io/themes/omega-hugo-theme/)|[
 Gethugothemes
-](https://github.com/gethugothemes/omega-hugo/graphs/contributors)|
+](#)|
 MIT
 |
 11
@@ -1137,7 +1137,7 @@ MIT
 Gruvhugo
 ](https://themes.gohugo.io/themes/gruvhugo/)|[
 Abraham Raji
-](https://github.com/morhetz/)|
+](#)|
 GPL-3.0
 |
 0
@@ -1214,7 +1214,7 @@ MIT
 hulga
 ](https://themes.gohugo.io/themes/hugo-theme-hulga/)|[
 wlh
-](https://github.com/vfeskov/vanilla-back-to-top)|
+](#)|
 MIT
 |
 6
@@ -1390,7 +1390,7 @@ MIT
 smigle
 ](https://themes.gohugo.io/themes/smigle-hugo-theme/)|[
 Ian S. McBride
-](https://github.com/sumnerevans/smol)|
+](#)|
 MIT
 |
 0
@@ -1412,7 +1412,7 @@ Apache 2
 sourgough-starter
 ](https://themes.gohugo.io/themes/sourgough-starter/)|[
 Jack F. Murphy
-](https://github.com/Jack-alope/sourgough-example)|
+](#)|
 MIT
 |
 1
@@ -1445,7 +1445,7 @@ MIT
 Photophobia
 ](https://themes.gohugo.io/themes/photophobia/)|[
 setsevireon
-](https://github.com/setsevireon/photophobia/issues)|
+](#)|
 MIT
 |
 8
@@ -1489,7 +1489,7 @@ MIT
 Uwe Uwe
 ](https://themes.gohugo.io/themes/uwe-uwe-hugo/)|[
 Matthias Einbrodt
-](https://github.com/mbrt-yeah/uwe-uwe-hugo)|
+](#)|
 MIT
 |
 2
@@ -1577,7 +1577,7 @@ MIT
 Vibrant Shadows
 ](https://themes.gohugo.io/themes/hugotheme-vibrantshadows/)|[
 Softorage
-](https://github.com/Softorage/HugoTheme-VibrantShadows/blob/master/LICENSE)|
+](#)|
 MIT
 |
 9
@@ -1610,7 +1610,7 @@ MIT
 Port Hugo
 ](https://themes.gohugo.io/themes/port-hugo/)|[
 tylerjlawson
-](https://github.com/aerohub/hugrid)|
+](#)|
 MIT
 |
 3
@@ -1621,7 +1621,7 @@ MIT
 prastoot
 ](https://themes.gohugo.io/themes/prastoot/)|[
 Darshan Baral
-](https://github.com/darshanbaral/prastoot)|
+](#)|
 MIT
 |
 0
@@ -1676,7 +1676,7 @@ MIT
 Vno
 ](https://themes.gohugo.io/themes/vno-hugo/)|[
 xsling
-](https://github.com/onevcat/vno-jekyll)|
+](#)|
 CC BY-NC-SA 4.0
 |
 4
@@ -1709,7 +1709,7 @@ MIT
 rsimple
 ](https://themes.gohugo.io/themes/rsimple/)|[
 Rijo Thomas
-](https://github.com/rijoth/rsimple)|
+](#)|
 MIT
 |
 1
@@ -1764,7 +1764,7 @@ MIT
 Hugo Winston
 ](https://themes.gohugo.io/themes/hugo-winston-theme/)|[
 Robert Austin
-](https://github.com/zerostaticthemes/hugo-winston-theme)|
+](#)|
 MIT
 |
 18
@@ -1775,7 +1775,7 @@ MIT
 Simple Snipcart Shop
 ](https://themes.gohugo.io/themes/simple-snipcart-shop/)|[
 tylerjlawson
-](https://github.com/tylerjlawson/simple-snipcart-shop)|
+](#)|
 MIT
 |
 0
@@ -1797,7 +1797,7 @@ MIT
 Venture
 ](https://themes.gohugo.io/themes/venture/)|[
 William Toll
-](https://github.com/Wtoll/venture)|
+](#)|
 MIT
 |
 1
@@ -1808,7 +1808,7 @@ MIT
 Split Landing
 ](https://themes.gohugo.io/themes/split-landing/)|[
 Katajun
-](https://github.com/KatamariJr/split-landing)|
+](#)|
 MIT
 |
 0
@@ -1896,7 +1896,7 @@ MIT
 Bingo
 ](https://themes.gohugo.io/themes/hugo-bingo/)|[
 Bing-Sheng Chen
-](https://github.com/gundamew/hugo-bingo/blob/master/LICENSE)|
+](#)|
 MIT
 |
 11
@@ -2116,7 +2116,7 @@ MIT
 Osprey Delight
 ](https://themes.gohugo.io/themes/osprey-delight/)|[
 kdevo
-](https://github.com/kdevo/osprey-delight/blob/master/CUSTOMIZING.md)|
+](#)|
 Apache License 2.0
 |
 21
@@ -2158,7 +2158,7 @@ MIT
 the-roots-home
 ](https://themes.gohugo.io/themes/the-roots-home/)|[
 Rahmat Subekti
-](https://github.com/rmsubekti/the-roots-home)|
+](#)|
 MIT
 |
 23
@@ -2167,7 +2167,7 @@ MIT
 |
 |[
 capsule
-](https://themes.gohugo.io/themes/capsule/)|[nil](https://github.com/FortAwesome/Font-Awesome)|
+](https://themes.gohugo.io/themes/capsule/)|[nil](#)|
 GPL-2.0
 |
 19
@@ -2307,17 +2307,6 @@ MIT
 2021-03-28
 |
 |[
-Bootstrap-BP
-](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
-Sebastian Pech
-](https://github.com/spech66/bootstrap-bp-hugo-theme)|
-MIT
-|
-38
-|
-2021-03-27
-|
-|[
 Bootstrap-BP-Startpage
 ](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
 Sebastian Pech
@@ -2325,6 +2314,17 @@ Sebastian Pech
 MIT
 |
 42
+|
+2021-03-27
+|
+|[
+Bootstrap-BP
+](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
+Sebastian Pech
+](https://github.com/spech66/bootstrap-bp-hugo-theme)|
+MIT
+|
+38
 |
 2021-03-27
 |
@@ -2530,7 +2530,7 @@ MIT
 Flex-BP-CV
 ](https://themes.gohugo.io/themes/flex-bp-hugo-cv/)|[
 Sebastian Pech
-](https://github.com/spech66/flex-bp-hugo-cv)|
+](#)|
 MIT
 |
 5
@@ -2594,7 +2594,7 @@ MIT
 SK1
 ](https://themes.gohugo.io/themes/hugo-theme-sk1/)|[
 John Siu
-](https://github.com/J-Siu/hugo-theme-sk1)|
+](#)|
 MIT
 |
 13
@@ -2605,7 +2605,7 @@ MIT
 SK2
 ](https://themes.gohugo.io/themes/hugo-theme-sk2/)|[
 John Siu
-](https://github.com/J-Siu/hugo-theme-sk1)|
+](#)|
 MIT
 |
 5
@@ -2726,7 +2726,7 @@ CC-BY-SA-4.0
 Tikva
 ](https://themes.gohugo.io/themes/hugo-tikva/)|[
 Ralf Geschke
-](https://github.com/geschke/hugo-tikva/issues)|
+](#)|
 MIT
 |
 7
@@ -2792,7 +2792,7 @@ MIT
 Prav
 ](https://themes.gohugo.io/themes/hugo-theme-prav/)|[
 Pravin Paratey
-](https://github.com/pravin/hugo-theme-prav)|
+](#)|
 MIT
 |
 10
@@ -2803,7 +2803,7 @@ MIT
 Ronu
 ](https://themes.gohugo.io/themes/ronu-hugo-theme/)|[
 Deepak Karanth
-](https://github.com/oxalorg/sakura/tree/master/scss)|
+](#)|
 MIT
 |
 2
@@ -2880,7 +2880,7 @@ MIT
 Techlog Simple
 ](https://themes.gohugo.io/themes/hugo-theme-techlog-simple/)|[
 Hidenori Matsuki
-](https://github.com/mazgi/hugo-theme-techlog-simple/blob/main/exampleSite/config.toml)|
+](#)|
 MIT
 |
 8
@@ -2924,7 +2924,7 @@ MIT
 Sicily
 ](https://themes.gohugo.io/themes/sicily-hugo-theme/)|[
 cristianmarint
-](https://github.com/cristianmarint/sicily-hugo-theme/blob/master/LICENSE)|
+](#)|
 MIT
 |
 15
@@ -2946,7 +2946,7 @@ MIT
 Okayish Blog Hugo Theme
 ](https://themes.gohugo.io/themes/hugo-theme-okayish-blog/)|[
 Divin Kong
-](https://github.com/kongdivin/hugo-theme-okayish-blog/blob/master/LICENSE)|
+](#)|
 MIT
 |
 9
@@ -2979,7 +2979,7 @@ MIT
 freshStart
 ](https://themes.gohugo.io/themes/hugo-theme-freshstart/)|[
 Ricardo Franzen
-](https://github.com/rz3n/hugo-theme-freshstart)|
+](#)|
 MIT
 |
 20
@@ -3023,7 +3023,7 @@ MIT
 Shapez Theme
 ](https://themes.gohugo.io/themes/shapez-theme/)|[
 djuelg
-](https://github.com/djuelg/Shapez-Theme)|
+](#)|
 MIT
 |
 9
@@ -3056,7 +3056,7 @@ MIT
 Simple Style
 ](https://themes.gohugo.io/themes/simple-style/)|[
 Linlin Yan
-](https://github.com/tholman/github-corners/blob/master/license.md)|
+](#)|
 MIT
 |
 19
@@ -3067,7 +3067,7 @@ MIT
 MyPortfolio
 ](https://themes.gohugo.io/themes/hugo-myportfolio-theme/)|[
 2-REC
-](https://github.com/2-REC/hugo-myportfolio-theme)|
+](#)|
 Apache License 2.0
 |
 8
@@ -3078,7 +3078,7 @@ Apache License 2.0
 Adam & Eve
 ](https://themes.gohugo.io/themes/hugo_theme_adam_eve/)|[
 Olivier DOSSMANN
-](https://github.com/blankoworld/hugo_theme_adam_eve)|
+](#)|
 MIT
 |
 15
@@ -3100,7 +3100,7 @@ MIT
 Den
 ](https://themes.gohugo.io/themes/hugo-theme-den/)|[
 shaform
-](https://github.com/xianmin/hugo-theme-jane)|
+](#)|
 GPLv2
 |
 20
@@ -3152,17 +3152,6 @@ MIT
 2020-07-12
 |
 |[
-Vex
-](https://themes.gohugo.io/themes/vex-hugo/)|[
-Themefisher
-](https://github.com/themefisher/vex-hugo/issues)|
-CC-BY-3.0
-|
-123
-|
-2020-07-05
-|
-|[
 Academia Hugo
 ](https://themes.gohugo.io/themes/academia-hugo/)|[
 Themefisher
@@ -3174,10 +3163,21 @@ MIT
 2020-07-05
 |
 |[
+Vex
+](https://themes.gohugo.io/themes/vex-hugo/)|[
+Themefisher
+](https://github.com/themefisher/vex-hugo/issues)|
+CC-BY-3.0
+|
+123
+|
+2020-07-05
+|
+|[
 Basic Web Theme
 ](https://themes.gohugo.io/themes/basicwebtheme/)|[
 Tom Bullock
-](https://github.com/mdashx/basicwebtheme)|
+](#)|
 MIT
 |
 7
@@ -3243,7 +3243,7 @@ MIT
 Persian Hugo
 ](https://themes.gohugo.io/themes/persian-hugo/)|[
 Themefisher
-](https://github.com/themefisher/persian-hugo/blob/master/LICENSE)|
+](#)|
 MIT
 |
 20
@@ -3271,17 +3271,6 @@ MIT
 2020-06-22
 |
 |[
-simple-blog
-](https://themes.gohugo.io/themes/hugo-theme-simple-blog/)|[
-10mohi6
-](https://github.com/10mohi6/hugo-theme-simple-blog)|
-MIT
-|
-8
-|
-2020-06-16
-|
-|[
 Notrack
 ](https://themes.gohugo.io/themes/hugo-theme-notrack/)|[
 Simon Bengtsson
@@ -3289,6 +3278,17 @@ Simon Bengtsson
 GPLv3
 |
 9
+|
+2020-06-16
+|
+|[
+simple-blog
+](https://themes.gohugo.io/themes/hugo-theme-simple-blog/)|[
+10mohi6
+](#)|
+MIT
+|
+8
 |
 2020-06-16
 |
@@ -3338,7 +3338,7 @@ MIT
 ghazal
 ](https://themes.gohugo.io/themes/ghazal/)|[
 Darshan Baral
-](https://github.com/darshanbaral/ghazal/tree/master/exampleSite/content/about))|
+](#)|
 MIT
 |
 4
@@ -3349,7 +3349,7 @@ MIT
 Bodhi Theme
 ](https://themes.gohugo.io/themes/bodhi/)|[
 Rohan Verma
-](https://github.com/rhnvrm/bodhi)|
+](#)|
 MIT
 |
 10
@@ -3371,23 +3371,12 @@ MIT
 Hugo HTML5 UP Alpha
 ](https://themes.gohugo.io/themes/hugo-html5up-alpha/)|[
 Nelson/Roberto
-](https://github.com/dewittn/hugo-html5up-alpha/blob/master/exampleSite/config.toml)|
+](#)|
 Creative Commons
 |
 8
 |
 2020-05-29
-|
-|[
-Erblog
-](https://themes.gohugo.io/themes/erblog/)|[
-Ertuil
-](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
-MIT
-|
-52
-|
-2020-05-28
 |
 |[
 Jeffprod
@@ -3401,15 +3390,15 @@ MIT
 2020-05-28
 |
 |[
-Resto Hugo
-](https://themes.gohugo.io/themes/resto-hugo/)|[
-Karthik
-](#)|
-CC-BY-3.0
+Erblog
+](https://themes.gohugo.io/themes/erblog/)|[
+Ertuil
+](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
+MIT
 |
-0
+52
 |
-2020-05-26
+2020-05-28
 |
 |[
 monopriv
@@ -3417,6 +3406,17 @@ monopriv
 Karthik
 ](#)|
 MIT
+|
+0
+|
+2020-05-26
+|
+|[
+Resto Hugo
+](https://themes.gohugo.io/themes/resto-hugo/)|[
+Karthik
+](#)|
+CC-BY-3.0
 |
 0
 |
@@ -3459,7 +3459,7 @@ MIT
 docter
 ](https://themes.gohugo.io/themes/docter/)|[
 edavidaja
-](https://github.com/cfpb/docter)|
+](#)|
 MIT
 |
 7
@@ -3470,7 +3470,7 @@ MIT
 Highlights
 ](https://themes.gohugo.io/themes/hugo-highlights-theme/)|[
 Manuel Schneider
-](https://github.com/schmanat/hugo-highlights-theme)|
+](#)|
 Creative Commons Attribution 3.0 Unported
 |
 24
@@ -3556,12 +3556,21 @@ Creative Commons
 someparts-hugo
 ](https://themes.gohugo.io/themes/someparts-hugo/)|[
 Sandro Leuchter
-](https://github.com/osano/cookieconsent)|
+](#)|
 MIT
 |
 1
 |
 2020-02-17
+|
+|[
+OneDly Project
+](https://themes.gohugo.io/themes/onedly-theme/)|[nil](#)|
+MIT
+|
+11
+|
+2020-01-27
 |
 |[
 Papaya
@@ -3571,15 +3580,6 @@ Pedro Lopez
 MIT
 |
 15
-|
-2020-01-27
-|
-|[
-OneDly Project
-](https://themes.gohugo.io/themes/onedly-theme/)|[nil](https://github.com/cdeck3r/OneDly-Theme/blob/master/exampleSite/config.toml)|
-MIT
-|
-11
 |
 2020-01-27
 |
@@ -3609,7 +3609,7 @@ MIT
 Hugo frais
 ](https://themes.gohugo.io/themes/hugo-frais/)|[
 Olivier Fredon
-](https://github.com/the2ne/hugo-frais)|
+](#)|
 MIT
 |
 9
@@ -3653,7 +3653,7 @@ MIT
 Hugo Fabric
 ](https://themes.gohugo.io/themes/hugo-fabric/)|[
 wd
-](https://github.com/wd/hexo2hugo)|
+](#)|
 MIT
 |
 10
@@ -3741,7 +3741,7 @@ MIT
 Spectre Pixel Theme
 ](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
 Shin Tatt
-](https://github.com/digitalcraftsman/hugo-cactus-theme)|
+](#)|
 MIT
 |
 16
@@ -3783,7 +3783,7 @@ MIT
 Frances
 ](https://themes.gohugo.io/themes/hugo-frances-theme/)|[
 Michael Crawford
-](https://github.com/codrops/ThumbnailGridExpandingPreview)|
+](#)|
 MIT
 |
 16
@@ -3816,7 +3816,7 @@ MIT
 BeyondNothing
 ](https://themes.gohugo.io/themes/beyondnothing/)|[
 Cloud Confusing
-](https://github.com/salcan/BeyondNothing)|
+](#)|
 MIT
 |
 14
@@ -3827,7 +3827,7 @@ MIT
 hugo-grapes
 ](https://themes.gohugo.io/themes/hugo-grapes/)|[
 Shankar
-](https://github.com/shankar/hugo-grapes/blob/master/LICENSE)|
+](#)|
 MIT
 |
 8
@@ -3871,7 +3871,7 @@ MIT
 Wave
 ](https://themes.gohugo.io/themes/hugo-theme-wave/)|[
 syui
-](https://github.com/FortAwesome/Font-Awesome)|
+](#)|
 MIT
 |
 13
@@ -3893,7 +3893,7 @@ MIT
 Huginn
 ](https://themes.gohugo.io/themes/huginn/)|[
 Justin Bridouz
-](https://github.com/eduardoboucas/staticman/issues/279)|
+](#)|
 GPL3
 |
 0
@@ -3981,7 +3981,7 @@ MIT
 Hugof
 ](https://themes.gohugo.io/themes/foundation-theme/)|[
 Howard Colin
-](https://github.com/hdcdstr8fwd/foundation-theme)|
+](#)|
 MIT
 |
 12
@@ -4047,7 +4047,7 @@ MIT
 Hugo minimalist SPA
 ](https://themes.gohugo.io/themes/hugo-minimalist-spa/)|[
 Sergio Abreu García
-](https://github.com/sag-dev/hugo-minimalist-spa/blob/master/LICENSE)|
+](#)|
 MIT
 |
 1
@@ -4080,7 +4080,7 @@ Apache 2.0
 Yuki
 ](https://themes.gohugo.io/themes/hugo-theme-yuki/)|[
 Cyris
-](https://github.com/iCyris/hugo-theme-yuki/blob/master/LICENSE)|
+](#)|
 MIT
 |
 20
@@ -4091,7 +4091,7 @@ MIT
 Robotico
 ](https://themes.gohugo.io/themes/hugo-theme-robotico/)|[
 Wiley McKay Conte
-](https://github.com/gkmngrgn/hugo-alageek-theme/tree/a7789a01391c9357fba13704379089e8799adad8)|
+](#)|
 MIT
 |
 4
@@ -4223,7 +4223,7 @@ MIT
 Hugo Assembly
 ](https://themes.gohugo.io/themes/hugo-assembly/)|[
 Salomon Valverde
-](https://github.com/salsysd/hugo-assembly)|
+](#)|
 MIT
 |
 6
@@ -4245,7 +4245,7 @@ MIT
 Stellar
 ](https://themes.gohugo.io/themes/hugo-stellar-theme/)|[
 Anton Polishko
-](https://github.com/schmanat/hugo-highlights-theme)|
+](#)|
 MIT
 |
 23
@@ -4278,7 +4278,7 @@ MIT License
 Hugo Material Blog
 ](https://themes.gohugo.io/themes/hugo-material-blog/)|[
 Mihail Cristian Dumitru
-](https://github.com/Xzya/hugo-material-blog)|
+](#)|
 MIT
 |
 23
@@ -4298,7 +4298,7 @@ MIT
 |
 |[
 Hpstr
-](https://themes.gohugo.io/themes/hpstr-hugo-theme/)|[nil](https://github.com/dldx/hpstr-hugo-theme)|
+](https://themes.gohugo.io/themes/hpstr-hugo-theme/)|[nil](#)|
 MIT
 |
 18
@@ -4320,7 +4320,7 @@ MIT
 Anybody Home
 ](https://themes.gohugo.io/themes/anybodyhome/)|[
 Lasse Borly
-](https://github.com/lasseborly/anybodyhome)|
+](#)|
 MIT
 |
 16
@@ -4353,7 +4353,7 @@ MIT
 Hestia Pure
 ](https://themes.gohugo.io/themes/hestia-pure/)|[
 diwao
-](https://github.com/diwao/hestia-pure)|
+](#)|
 MIT
 |
 23
@@ -4375,7 +4375,7 @@ MIT
 Dopetrope
 ](https://themes.gohugo.io/themes/hugo-theme-dopetrope/)|[
 Curtis Timson
-](https://github.com/curtistimson/hugo-theme-dopetrope)|
+](#)|
 Creative Commons
 |
 21
@@ -4483,7 +4483,7 @@ MIT
 |
 |[
 allegiant
-](https://themes.gohugo.io/themes/allegiant/)|[nil](https://github.com/brycematheson/allegiant)|
+](https://themes.gohugo.io/themes/allegiant/)|[nil](#)|
 MIT
 |
 24
@@ -4494,7 +4494,7 @@ MIT
 Hugo FAQ Theme
 ](https://themes.gohugo.io/themes/hugo-faq-theme/)|[
 Pavel Kanyshev
-](https://github.com/aerohub/hugo-faq-theme)|
+](#)|
 MIT
 |
 23
