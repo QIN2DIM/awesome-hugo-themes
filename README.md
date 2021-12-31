@@ -1,9 +1,97 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2021-12-31 06:25:09 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2021-12-31 09:21:38 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
+|[
+Clean White
+](https://themes.gohugo.io/themes/hugo-theme-cleanwhite/)|[
+Huabing Zhao
+](https://github.com/zhaohuabing/hugo-theme-cleanwhite/issues/115)|
+Apache
+|
+352
+|
+2021-12-30
+|
+|[
+Geekblog
+](https://themes.gohugo.io/themes/hugo-geekblog/)|[
+Robert Kaussow
+](https://github.com/google/material-design-icons/blob/main/LICENSE)|
+MIT
+|
+51
+|
+2021-12-30
+|
+|[
+congo
+](https://themes.gohugo.io/themes/congo/)|[
+James Panther
+](https://github.com/jpanther/congo/blob/dev/CONTRIBUTING.md)|
+MIT
+|
+44
+|
+2021-12-30
+|
+|[
+Tella
+](https://themes.gohugo.io/themes/tella/)|[
+wamo
+](https://github.com/opera7133/tella/blob/master/LICENSE)|
+MIT
+|
+7
+|
+2021-12-30
+|
+|[
+Mainroad
+](https://themes.gohugo.io/themes/mainroad/)|[
+Vimux
+](https://github.com/Vimux/mainroad/blob/master/LICENSE.md)|
+GPLv2
+|
+594
+|
+2021-12-29
+|
+|[
+Stack
+](https://themes.gohugo.io/themes/hugo-theme-stack/)|[
+Jimmy Cai
+](https://github.com/MunifTanjim/minimo/blob/master/LICENSE)|
+GPL-3.0-only
+|
+1279
+|
+2021-12-28
+|
+|[
+Universal
+](https://themes.gohugo.io/themes/hugo-universal-theme/)|[
+adrianmo
+](https://github.com/devcows/hugo-universal-theme/pulls)|
+MIT
+|
+526
+|
+2021-12-28
+|
+|[
+Andromeda Light
+](https://themes.gohugo.io/themes/andromeda-light/)|[
+gethugothemes
+](https://github.com/gethugothemes/andromeda-light/graphs/contributors)|
+MIT
+|
+8
+|
+2021-12-28
+|
 |[
 Coder
 ](https://themes.gohugo.io/themes/hugo-coder/)|[
@@ -104,17 +192,6 @@ MIT
 2021-12-25
 |
 |[
-Clean White
-](https://themes.gohugo.io/themes/hugo-theme-cleanwhite/)|[
-Huabing Zhao
-](https://github.com/zhaohuabing/hugo-theme-cleanwhite/issues/115)|
-Apache
-|
-352
-|
-2021-12-25
-|
-|[
 Doors
 ](https://themes.gohugo.io/themes/hugo-theme-doors/)|[
 zzzmisa
@@ -132,7 +209,7 @@ theNewDynamic
 ](https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/layouts/index.html#L32)|
 MIT
 |
-666
+668
 |
 2021-12-23
 |
@@ -146,17 +223,6 @@ MIT
 2021-12-23
 |
 |[
-Tella
-](https://themes.gohugo.io/themes/tella/)|[
-wamo
-](https://github.com/opera7133/tella/blob/master/LICENSE)|
-MIT
-|
-7
-|
-2021-12-23
-|
-|[
 Ava
 ](https://themes.gohugo.io/themes/hugo-theme-ava/)|[
 Julien Maury
@@ -166,17 +232,6 @@ MIT
 1
 |
 2021-12-23
-|
-|[
-Geekblog
-](https://themes.gohugo.io/themes/hugo-geekblog/)|[
-Robert Kaussow
-](https://github.com/google/material-design-icons/blob/main/LICENSE)|
-MIT
-|
-51
-|
-2021-12-22
 |
 |[
 Paper
@@ -219,17 +274,6 @@ Weru
 MIT
 |
 130
-|
-2021-12-21
-|
-|[
-congo
-](https://themes.gohugo.io/themes/congo/)|[
-James Panther
-](https://github.com/jpanther/congo/blob/dev/CONTRIBUTING.md)|
-MIT
-|
-44
 |
 2021-12-21
 |
@@ -551,17 +595,6 @@ MIT
 2021-12-01
 |
 |[
-Mainroad
-](https://themes.gohugo.io/themes/mainroad/)|[
-Vimux
-](https://github.com/Vimux/mainroad/blob/master/LICENSE.md)|
-GPLv2
-|
-594
-|
-2021-11-30
-|
-|[
 Shell
 ](https://themes.gohugo.io/themes/hugo-theme-shell/)|[
 Yukuro
@@ -650,17 +683,6 @@ MIT
 2021-11-16
 |
 |[
-Andromeda Light
-](https://themes.gohugo.io/themes/andromeda-light/)|[
-gethugothemes
-](https://github.com/gethugothemes/andromeda-light/graphs/contributors)|
-MIT
-|
-8
-|
-2021-11-15
-|
-|[
 KeepIt
 ](https://themes.gohugo.io/themes/keepit/)|[
 Fastbyte01
@@ -716,17 +738,6 @@ Apache 2.0
 2021-11-10
 |
 |[
-Universal
-](https://themes.gohugo.io/themes/hugo-universal-theme/)|[
-adrianmo
-](https://github.com/devcows/hugo-universal-theme/pulls)|
-MIT
-|
-526
-|
-2021-11-09
-|
-|[
 hello-friend
 ](https://themes.gohugo.io/themes/hugo-theme-hello-friend/)|[
 panr
@@ -780,17 +791,6 @@ MIT
 0
 |
 2021-11-02
-|
-|[
-Stack
-](https://themes.gohugo.io/themes/hugo-theme-stack/)|[
-Jimmy Cai
-](https://github.com/MunifTanjim/minimo/blob/master/LICENSE)|
-GPL-3.0-only
-|
-1279
-|
-2021-10-31
 |
 |[
 Parsa Hugo
@@ -870,22 +870,22 @@ MIT
 2021-10-26
 |
 |[
-Tokiwa
-](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
-He Yeshuang
-](https://github.com/Remix-Design/remixicon)|
-MIT
+Alpha Church
+](https://themes.gohugo.io/themes/alpha-church/)|[
+Daniel Saunders
+](https://github.com/funkydan2/alpha-church)|
+Creative Commons Attribution 3.0
 |
 46
 |
 2021-10-26
 |
 |[
-Alpha Church
-](https://themes.gohugo.io/themes/alpha-church/)|[
-Daniel Saunders
-](https://github.com/funkydan2/alpha-church)|
-Creative Commons Attribution 3.0
+Tokiwa
+](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
+He Yeshuang
+](https://github.com/Remix-Design/remixicon)|
+MIT
 |
 46
 |
@@ -1266,10 +1266,10 @@ MIT
 2021-09-08
 |
 |[
-Navigator Hugo
-](https://themes.gohugo.io/themes/navigator-hugo/)|[
+Timer Hugo
+](https://themes.gohugo.io/themes/timer-hugo/)|[
 Themefisher
-](https://github.com/gethugothemes/navigator-hugo/graphs/contributors)|
+](https://github.com/themefisher/timer-hugo/graphs/contributors)|
 MIT
 |
 113
@@ -1277,10 +1277,10 @@ MIT
 2021-09-08
 |
 |[
-Timer Hugo
-](https://themes.gohugo.io/themes/timer-hugo/)|[
+Navigator Hugo
+](https://themes.gohugo.io/themes/navigator-hugo/)|[
 Themefisher
-](https://github.com/themefisher/timer-hugo/graphs/contributors)|
+](https://github.com/gethugothemes/navigator-hugo/graphs/contributors)|
 MIT
 |
 113
@@ -1475,17 +1475,6 @@ MIT
 2021-08-13
 |
 |[
-simplog
-](https://themes.gohugo.io/themes/simplog/)|[
-michimani
-](https://github.com/michimani/simplog)|
-MIT
-|
-5
-|
-2021-08-13
-|
-|[
 Uwe Uwe
 ](https://themes.gohugo.io/themes/uwe-uwe-hugo/)|[
 Matthias Einbrodt
@@ -1493,6 +1482,17 @@ Matthias Einbrodt
 MIT
 |
 2
+|
+2021-08-13
+|
+|[
+simplog
+](https://themes.gohugo.io/themes/simplog/)|[
+michimani
+](https://github.com/michimani/simplog)|
+MIT
+|
+5
 |
 2021-08-13
 |
@@ -1794,17 +1794,6 @@ MIT
 2021-07-08
 |
 |[
-Venture
-](https://themes.gohugo.io/themes/venture/)|[
-William Toll
-](https://github.com/Wtoll/venture)|
-MIT
-|
-1
-|
-2021-07-08
-|
-|[
 Split Landing
 ](https://themes.gohugo.io/themes/split-landing/)|[
 Katajun
@@ -1812,6 +1801,17 @@ Katajun
 MIT
 |
 0
+|
+2021-07-08
+|
+|[
+Venture
+](https://themes.gohugo.io/themes/venture/)|[
+William Toll
+](https://github.com/Wtoll/venture)|
+MIT
+|
+1
 |
 2021-07-08
 |
