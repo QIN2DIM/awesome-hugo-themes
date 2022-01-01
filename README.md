@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-02 04:26:29 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-02 06:24:37 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -225,17 +225,6 @@ MIT
 2021-12-25
 |
 |[
-Ananke Gohugo Theme
-](https://themes.gohugo.io/themes/gohugo-theme-ananke/)|[
-theNewDynamic
-](https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/layouts/index.html#L32)|
-MIT
-|
-669
-|
-2021-12-23
-|
-|[
 DocuAPI
 ](https://themes.gohugo.io/themes/v2/)|[
 Bjørn Erik Pedersen
@@ -243,6 +232,17 @@ Bjørn Erik Pedersen
 Apache-2.0
 |
 553
+|
+2021-12-23
+|
+|[
+Ananke Gohugo Theme
+](https://themes.gohugo.io/themes/gohugo-theme-ananke/)|[
+theNewDynamic
+](https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/layouts/index.html#L32)|
+MIT
+|
+669
 |
 2021-12-23
 |
@@ -3379,17 +3379,6 @@ Creative Commons
 2020-05-29
 |
 |[
-Erblog
-](https://themes.gohugo.io/themes/erblog/)|[
-Ertuil
-](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
-MIT
-|
-52
-|
-2020-05-28
-|
-|[
 Jeffprod
 ](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
 @JeffProd
@@ -3397,6 +3386,17 @@ Jeffprod
 MIT
 |
 51
+|
+2020-05-28
+|
+|[
+Erblog
+](https://themes.gohugo.io/themes/erblog/)|[
+Ertuil
+](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
+MIT
+|
+52
 |
 2020-05-28
 |
