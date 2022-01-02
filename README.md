@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-03 02:29:15 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-03 04:26:11 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -173,7 +173,7 @@ MIT
 Bootstrap Blog Theme
 ](https://themes.gohugo.io/themes/hugo-theme-bootstrap/)|[
 Razon Yang
-](#)|
+](https://github.com/razonyang/hugo-theme-bootstrap/blob/master/USERS.md)|
 MIT
 |
 147
@@ -225,17 +225,6 @@ MIT
 2021-12-25
 |
 |[
-Ananke Gohugo Theme
-](https://themes.gohugo.io/themes/gohugo-theme-ananke/)|[
-theNewDynamic
-](https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/layouts/index.html#L32)|
-MIT
-|
-669
-|
-2021-12-23
-|
-|[
 DocuAPI
 ](https://themes.gohugo.io/themes/v2/)|[
 Bjørn Erik Pedersen
@@ -243,6 +232,17 @@ Bjørn Erik Pedersen
 Apache-2.0
 |
 553
+|
+2021-12-23
+|
+|[
+Ananke Gohugo Theme
+](https://themes.gohugo.io/themes/gohugo-theme-ananke/)|[
+theNewDynamic
+](https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/layouts/index.html#L32)|
+MIT
+|
+669
 |
 2021-12-23
 |
@@ -292,7 +292,7 @@ MIT
 Bilberry Hugo Theme
 ](https://themes.gohugo.io/themes/bilberry-hugo-theme/)|[
 Lednerb \| Sascha Brendel
-](#)|
+](https://github.com/kentcdodds/all-contributors)|
 MIT
 |
 224
@@ -1082,7 +1082,7 @@ GPLv2
 Ace documentation
 ](https://themes.gohugo.io/themes/ace-documentation/)|[
 Vantage Design
-](#)|
+](https://github.com/vantagedesign/ace-documentation/blob/master/LICENSE.md)|
 MIT
 |
 71
@@ -1368,7 +1368,7 @@ MIT
 Cactus
 ](https://themes.gohugo.io/themes/hugo-theme-cactus/)|[
 Zeran Wu
-](#)|
+](https://github.com/probberechts/hexo-theme-cactus)|
 MIT
 |
 286
@@ -1794,17 +1794,6 @@ MIT
 2021-07-08
 |
 |[
-Venture
-](https://themes.gohugo.io/themes/venture/)|[
-William Toll
-](https://github.com/Wtoll/venture)|
-MIT
-|
-1
-|
-2021-07-08
-|
-|[
 Split Landing
 ](https://themes.gohugo.io/themes/split-landing/)|[
 Katajun
@@ -1812,6 +1801,17 @@ Katajun
 MIT
 |
 0
+|
+2021-07-08
+|
+|[
+Venture
+](https://themes.gohugo.io/themes/venture/)|[
+William Toll
+](https://github.com/Wtoll/venture)|
+MIT
+|
+1
 |
 2021-07-08
 |
@@ -2431,7 +2431,7 @@ MIT
 m10c
 ](https://themes.gohugo.io/themes/hugo-theme-m10c/)|[
 vaga
-](#)|
+](https://github.com/feathericons/feather/blob/master/LICENSE)|
 MIT
 |
 281
@@ -3152,17 +3152,6 @@ MIT
 2020-07-12
 |
 |[
-Academia Hugo
-](https://themes.gohugo.io/themes/academia-hugo/)|[
-Themefisher
-](https://github.com/themefisher/academia-hugo/issues)|
-MIT
-|
-121
-|
-2020-07-05
-|
-|[
 Vex
 ](https://themes.gohugo.io/themes/vex-hugo/)|[
 Themefisher
@@ -3170,6 +3159,17 @@ Themefisher
 CC-BY-3.0
 |
 123
+|
+2020-07-05
+|
+|[
+Academia Hugo
+](https://themes.gohugo.io/themes/academia-hugo/)|[
+Themefisher
+](https://github.com/themefisher/academia-hugo/issues)|
+MIT
+|
+121
 |
 2020-07-05
 |
@@ -3727,17 +3727,6 @@ MIT
 2019-10-27
 |
 |[
-Spectre Pixel Theme
-](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
-Shin Tatt
-](https://github.com/digitalcraftsman/hugo-cactus-theme)|
-MIT
-|
-16
-|
-2019-10-12
-|
-|[
 Arabica
 ](https://themes.gohugo.io/themes/arabica/)|[
 Chen Fangzhou
@@ -3745,6 +3734,17 @@ Chen Fangzhou
 MIT
 |
 17
+|
+2019-10-12
+|
+|[
+Spectre Pixel Theme
+](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
+Shin Tatt
+](https://github.com/digitalcraftsman/hugo-cactus-theme)|
+MIT
+|
+16
 |
 2019-10-12
 |
