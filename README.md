@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-03 00:39:19 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-03 02:29:15 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -173,7 +173,7 @@ MIT
 Bootstrap Blog Theme
 ](https://themes.gohugo.io/themes/hugo-theme-bootstrap/)|[
 Razon Yang
-](https://github.com/razonyang/hugo-theme-bootstrap/blob/master/USERS.md)|
+](#)|
 MIT
 |
 147
@@ -225,17 +225,6 @@ MIT
 2021-12-25
 |
 |[
-DocuAPI
-](https://themes.gohugo.io/themes/v2/)|[
-Bjørn Erik Pedersen
-](https://github.com/bep/docuapi/blob/master/exampleSite/config.toml)|
-Apache-2.0
-|
-553
-|
-2021-12-23
-|
-|[
 Ananke Gohugo Theme
 ](https://themes.gohugo.io/themes/gohugo-theme-ananke/)|[
 theNewDynamic
@@ -243,6 +232,17 @@ theNewDynamic
 MIT
 |
 669
+|
+2021-12-23
+|
+|[
+DocuAPI
+](https://themes.gohugo.io/themes/v2/)|[
+Bjørn Erik Pedersen
+](https://github.com/bep/docuapi/blob/master/exampleSite/config.toml)|
+Apache-2.0
+|
+553
 |
 2021-12-23
 |
@@ -267,17 +267,6 @@ MIT
 2021-12-23
 |
 |[
-Paper
-](https://themes.gohugo.io/themes/hugo-paper/)|[
-nanxiaobei
-](https://github.com/nanxiaobei/hugo-paper/blob/master/LICENSE)|
-MIT
-|
-717
-|
-2021-12-21
-|
-|[
 Docsy
 ](https://themes.gohugo.io/themes/docsy/)|[
 The Docsy Authors
@@ -289,10 +278,21 @@ Apache 2.0
 2021-12-21
 |
 |[
+Paper
+](https://themes.gohugo.io/themes/hugo-paper/)|[
+nanxiaobei
+](https://github.com/nanxiaobei/hugo-paper/blob/master/LICENSE)|
+MIT
+|
+717
+|
+2021-12-21
+|
+|[
 Bilberry Hugo Theme
 ](https://themes.gohugo.io/themes/bilberry-hugo-theme/)|[
 Lednerb \| Sascha Brendel
-](https://github.com/kentcdodds/all-contributors)|
+](#)|
 MIT
 |
 224
@@ -1082,7 +1082,7 @@ GPLv2
 Ace documentation
 ](https://themes.gohugo.io/themes/ace-documentation/)|[
 Vantage Design
-](https://github.com/vantagedesign/ace-documentation/blob/master/LICENSE.md)|
+](#)|
 MIT
 |
 71
@@ -1266,10 +1266,10 @@ MIT
 2021-09-08
 |
 |[
-Timer Hugo
-](https://themes.gohugo.io/themes/timer-hugo/)|[
+Navigator Hugo
+](https://themes.gohugo.io/themes/navigator-hugo/)|[
 Themefisher
-](https://github.com/themefisher/timer-hugo/graphs/contributors)|
+](https://github.com/gethugothemes/navigator-hugo/graphs/contributors)|
 MIT
 |
 113
@@ -1277,10 +1277,10 @@ MIT
 2021-09-08
 |
 |[
-Navigator Hugo
-](https://themes.gohugo.io/themes/navigator-hugo/)|[
+Timer Hugo
+](https://themes.gohugo.io/themes/timer-hugo/)|[
 Themefisher
-](https://github.com/gethugothemes/navigator-hugo/graphs/contributors)|
+](https://github.com/themefisher/timer-hugo/graphs/contributors)|
 MIT
 |
 113
@@ -1368,7 +1368,7 @@ MIT
 Cactus
 ](https://themes.gohugo.io/themes/hugo-theme-cactus/)|[
 Zeran Wu
-](https://github.com/probberechts/hexo-theme-cactus)|
+](#)|
 MIT
 |
 286
@@ -2431,7 +2431,7 @@ MIT
 m10c
 ](https://themes.gohugo.io/themes/hugo-theme-m10c/)|[
 vaga
-](https://github.com/feathericons/feather/blob/master/LICENSE)|
+](#)|
 MIT
 |
 281
@@ -3152,17 +3152,6 @@ MIT
 2020-07-12
 |
 |[
-Vex
-](https://themes.gohugo.io/themes/vex-hugo/)|[
-Themefisher
-](https://github.com/themefisher/vex-hugo/issues)|
-CC-BY-3.0
-|
-123
-|
-2020-07-05
-|
-|[
 Academia Hugo
 ](https://themes.gohugo.io/themes/academia-hugo/)|[
 Themefisher
@@ -3170,6 +3159,17 @@ Themefisher
 MIT
 |
 121
+|
+2020-07-05
+|
+|[
+Vex
+](https://themes.gohugo.io/themes/vex-hugo/)|[
+Themefisher
+](https://github.com/themefisher/vex-hugo/issues)|
+CC-BY-3.0
+|
+123
 |
 2020-07-05
 |
