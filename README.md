@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-04 12:34:08 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-04 14:31:07 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -71,17 +71,6 @@ MIT
 2022-01-01
 |
 |[
-Bootstrap-BP
-](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
-Sebastian Pech
-](https://github.com/spech66/bootstrap-bp-hugo-theme)|
-MIT
-|
-38
-|
-2022-01-01
-|
-|[
 Bootstrap-BP-Startpage
 ](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
 Sebastian Pech
@@ -89,6 +78,17 @@ Sebastian Pech
 MIT
 |
 42
+|
+2022-01-01
+|
+|[
+Bootstrap-BP
+](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
+Sebastian Pech
+](https://github.com/spech66/bootstrap-bp-hugo-theme)|
+MIT
+|
+38
 |
 2022-01-01
 |
@@ -969,22 +969,22 @@ MIT
 2021-10-26
 |
 |[
-Tokiwa
-](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
-He Yeshuang
-](https://github.com/Remix-Design/remixicon)|
-MIT
+Alpha Church
+](https://themes.gohugo.io/themes/alpha-church/)|[
+Daniel Saunders
+](https://github.com/funkydan2/alpha-church)|
+Creative Commons Attribution 3.0
 |
 46
 |
 2021-10-26
 |
 |[
-Alpha Church
-](https://themes.gohugo.io/themes/alpha-church/)|[
-Daniel Saunders
-](https://github.com/funkydan2/alpha-church)|
-Creative Commons Attribution 3.0
+Tokiwa
+](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
+He Yeshuang
+](https://github.com/Remix-Design/remixicon)|
+MIT
 |
 46
 |
@@ -3727,17 +3727,6 @@ MIT
 2019-10-27
 |
 |[
-Spectre Pixel Theme
-](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
-Shin Tatt
-](https://github.com/digitalcraftsman/hugo-cactus-theme)|
-MIT
-|
-16
-|
-2019-10-12
-|
-|[
 Arabica
 ](https://themes.gohugo.io/themes/arabica/)|[
 Chen Fangzhou
@@ -3745,6 +3734,17 @@ Chen Fangzhou
 MIT
 |
 17
+|
+2019-10-12
+|
+|[
+Spectre Pixel Theme
+](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
+Shin Tatt
+](https://github.com/digitalcraftsman/hugo-cactus-theme)|
+MIT
+|
+16
 |
 2019-10-12
 |
