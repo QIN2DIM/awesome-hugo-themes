@@ -1,9 +1,119 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-04 06:25:16 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-04 09:21:34 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
+|[
+Whisper
+](https://themes.gohugo.io/themes/hugo-whisper-theme/)|[
+Robert Austin
+](https://github.com/zerostaticthemes/hugo-winston-theme)|
+MIT
+|
+175
+|
+2022-01-03
+|
+|[
+Anubis
+](https://themes.gohugo.io/themes/hugo-theme-anubis/)|[
+Dmitry Kolosov
+](https://github.com/mitrichius/hugo-theme-anubis/issues)|
+MIT
+|
+197
+|
+2022-01-03
+|
+|[
+Air
+](https://themes.gohugo.io/themes/hugo-theme-air/)|[
+syui
+](https://github.com/syui/hugo-theme-air/blob/master/config.toml)|
+MIT
+|
+117
+|
+2022-01-03
+|
+|[
+Hugo Winston
+](https://themes.gohugo.io/themes/hugo-winston-theme/)|[
+Robert Austin
+](https://github.com/zerostaticthemes/hugo-winston-theme)|
+MIT
+|
+18
+|
+2022-01-03
+|
+|[
+Bigspring Light
+](https://themes.gohugo.io/themes/bigspring-hugo-startup-theme/)|[
+Themefisher
+](https://github.com/themefisher/bigspring-hugo/graphs/contributors)|
+MIT
+|
+100
+|
+2022-01-01
+|
+|[
+Winning
+](https://themes.gohugo.io/themes/hugo-theme-winning/)|[
+Tim Clulow
+](https://github.com/cssandstuff/hugo-theme-winning/blob/master/LICENSE.md)|
+MIT
+|
+50
+|
+2022-01-01
+|
+|[
+Bootstrap-BP-Startpage
+](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
+Sebastian Pech
+](https://github.com/ViktorKare/startpage)|
+MIT
+|
+42
+|
+2022-01-01
+|
+|[
+Bootstrap-BP
+](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
+Sebastian Pech
+](https://github.com/spech66/bootstrap-bp-hugo-theme)|
+MIT
+|
+38
+|
+2022-01-01
+|
+|[
+Materialize-BP
+](https://themes.gohugo.io/themes/materialize-bp-hugo-theme/)|[
+Sebastian Pech
+](https://github.com/spech66/materialize-bp-hugo-theme)|
+MIT
+|
+14
+|
+2022-01-01
+|
+|[
+Flex-BP-CV
+](https://themes.gohugo.io/themes/flex-bp-hugo-cv/)|[
+Sebastian Pech
+](https://github.com/spech66/flex-bp-hugo-cv)|
+MIT
+|
+5
+|
+2022-01-01
+|
 |[
 XMin
 ](https://themes.gohugo.io/themes/hugo-xmin/)|[
@@ -38,17 +148,6 @@ Apache
 2021-12-30
 |
 |[
-Geekblog
-](https://themes.gohugo.io/themes/hugo-geekblog/)|[
-Robert Kaussow
-](https://github.com/google/material-design-icons/blob/main/LICENSE)|
-MIT
-|
-51
-|
-2021-12-30
-|
-|[
 congo
 ](https://themes.gohugo.io/themes/congo/)|[
 James Panther
@@ -56,6 +155,17 @@ James Panther
 MIT
 |
 44
+|
+2021-12-30
+|
+|[
+Geekblog
+](https://themes.gohugo.io/themes/hugo-geekblog/)|[
+Robert Kaussow
+](https://github.com/google/material-design-icons/blob/main/LICENSE)|
+MIT
+|
+51
 |
 2021-12-30
 |
@@ -122,17 +232,6 @@ Luiz F. A. de Prá
 MIT
 |
 1679
-|
-2021-12-27
-|
-|[
-Anubis
-](https://themes.gohugo.io/themes/hugo-theme-anubis/)|[
-Dmitry Kolosov
-](https://github.com/mitrichius/hugo-theme-anubis/issues)|
-MIT
-|
-197
 |
 2021-12-27
 |
@@ -231,18 +330,7 @@ theNewDynamic
 ](https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/layouts/index.html#L32)|
 MIT
 |
-669
-|
-2021-12-23
-|
-|[
-DocuAPI
-](https://themes.gohugo.io/themes/v2/)|[
-Bjørn Erik Pedersen
-](https://github.com/bep/docuapi/blob/master/exampleSite/config.toml)|
-Apache-2.0
-|
-553
+672
 |
 2021-12-23
 |
@@ -410,6 +498,15 @@ MIT
 2021-12-13
 |
 |[
+Pickles
+](https://themes.gohugo.io/themes/hugo_theme_pickles/)|[nil](https://github.com/mismith0227/hugo_theme_pickles/tree/develop)|
+MIT
+|
+171
+|
+2021-12-13
+|
+|[
 Iris
 ](https://themes.gohugo.io/themes/hugo-theme-iris/)|[
 peaceiris
@@ -567,7 +664,7 @@ MIT
 Minima
 ](https://themes.gohugo.io/themes/hugo-theme-minima/)|[
 XJJ
-](#)|
+](https://github.com/Mivinci/hugo-theme-minima/issues)|
 MIT
 |
 14
@@ -622,7 +719,7 @@ MIT
 Shadocs
 ](https://themes.gohugo.io/themes/shadocs/)|[
 Jordan GAZEAU
-](#)|
+](https://github.com/jgazeau/shadocs/actions/workflows/branches.yml)|
 MIT
 |
 5
@@ -927,6 +1024,17 @@ MIT
 2021-10-18
 |
 |[
+Neofeed
+](https://themes.gohugo.io/themes/v2/)|[
+Victoria Drake
+](https://github.com/victoriadrake/neofeed-theme/blob/master/.github/CONTRIBUTING.md)|
+BSD-2-Clause
+|
+37
+|
+2021-10-17
+|
+|[
 Dusky Neon Potato
 ](https://themes.gohugo.io/themes/hugo-dusky-neon-potato/)|[
 Zane C. Bowers-Hadley
@@ -1090,17 +1198,6 @@ MIT
 83
 |
 2021-09-27
-|
-|[
-Bigspring Light
-](https://themes.gohugo.io/themes/bigspring-hugo-startup-theme/)|[
-Themefisher
-](https://github.com/themefisher/bigspring-hugo/graphs/contributors)|
-MIT
-|
-100
-|
-2021-09-26
 |
 |[
 Northendlab Light
@@ -1290,17 +1387,6 @@ MIT
 2021-09-08
 |
 |[
-Infinity Hugo
-](https://themes.gohugo.io/themes/infinity-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
-MIT
-|
-36
-|
-2021-09-08
-|
-|[
 Restaurant Hugo
 ](https://themes.gohugo.io/themes/restaurant-hugo/)|[
 Themefisher
@@ -1308,6 +1394,17 @@ Themefisher
 MIT
 |
 35
+|
+2021-09-08
+|
+|[
+Infinity Hugo
+](https://themes.gohugo.io/themes/infinity-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
+MIT
+|
+36
 |
 2021-09-08
 |
@@ -1741,28 +1838,6 @@ MIT
 2021-07-09
 |
 |[
-Whisper
-](https://themes.gohugo.io/themes/hugo-whisper-theme/)|[
-Robert Austin
-](https://github.com/zerostaticthemes/hugo-whisper-theme/archive/master.zip)|
-MIT
-|
-175
-|
-2021-07-09
-|
-|[
-Hugo Winston
-](https://themes.gohugo.io/themes/hugo-winston-theme/)|[
-Robert Austin
-](https://github.com/zerostaticthemes/hugo-winston-theme)|
-MIT
-|
-18
-|
-2021-07-09
-|
-|[
 Simple Snipcart Shop
 ](https://themes.gohugo.io/themes/simple-snipcart-shop/)|[
 tylerjlawson
@@ -1913,6 +1988,17 @@ Joway Wang
 MIT
 |
 276
+|
+2021-06-15
+|
+|[
+Lean Launch Page
+](https://themes.gohugo.io/themes/hugo-theme-lean-launch-page/)|[
+Ricardo N Feliciano
+](https://github.com/felicianotech/hugo-theme-lean-launch-page)|
+MIT
+|
+26
 |
 2021-06-15
 |
@@ -2287,39 +2373,6 @@ MIT
 2021-03-28
 |
 |[
-Bootstrap-BP-Startpage
-](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
-Sebastian Pech
-](https://github.com/ViktorKare/startpage)|
-MIT
-|
-42
-|
-2021-03-27
-|
-|[
-Bootstrap-BP
-](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
-Sebastian Pech
-](https://github.com/spech66/bootstrap-bp-hugo-theme)|
-MIT
-|
-38
-|
-2021-03-27
-|
-|[
-Materialize-BP
-](https://themes.gohugo.io/themes/materialize-bp-hugo-theme/)|[
-Sebastian Pech
-](https://github.com/spech66/materialize-bp-hugo-theme)|
-MIT
-|
-14
-|
-2021-03-27
-|
-|[
 Hugo Story
 ](https://themes.gohugo.io/themes/hugo-story/)|[
 caressofsteel
@@ -2505,17 +2558,6 @@ MIT
 92
 |
 2021-02-13
-|
-|[
-Flex-BP-CV
-](https://themes.gohugo.io/themes/flex-bp-hugo-cv/)|[
-Sebastian Pech
-](https://github.com/spech66/flex-bp-hugo-cv)|
-MIT
-|
-5
-|
-2021-02-09
 |
 |[
 Blogpaper
@@ -2712,17 +2754,6 @@ MIT
 7
 |
 2020-12-20
-|
-|[
-Air
-](https://themes.gohugo.io/themes/hugo-theme-air/)|[
-syui
-](https://github.com/syui/hugo-theme-air/blob/master/config.toml)|
-MIT
-|
-117
-|
-2020-12-16
 |
 |[
 Charaka
@@ -3381,22 +3412,22 @@ MIT
 2020-05-28
 |
 |[
-Resto Hugo
-](https://themes.gohugo.io/themes/resto-hugo/)|[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)|[
 Karthik
 ](#)|
-CC-BY-3.0
+MIT
 |
 0
 |
 2020-05-26
 |
 |[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)|[
+Resto Hugo
+](https://themes.gohugo.io/themes/resto-hugo/)|[
 Karthik
 ](#)|
-MIT
+CC-BY-3.0
 |
 0
 |
@@ -3423,17 +3454,6 @@ GPLv3
 25
 |
 2020-05-16
-|
-|[
-Winning
-](https://themes.gohugo.io/themes/hugo-theme-winning/)|[
-Tim Clulow
-](https://github.com/cssandstuff/hugo-theme-winning/blob/master/LICENSE.md)|
-MIT
-|
-50
-|
-2020-05-07
 |
 |[
 docter
