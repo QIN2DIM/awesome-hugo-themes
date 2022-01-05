@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-05 18:28:17 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-05 20:41:38 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -355,17 +355,6 @@ MIT
 2021-12-23
 |
 |[
-Paper
-](https://themes.gohugo.io/themes/hugo-paper/)|[
-nanxiaobei
-](https://github.com/nanxiaobei/hugo-paper/blob/master/LICENSE)|
-MIT
-|
-717
-|
-2021-12-21
-|
-|[
 Docsy
 ](https://themes.gohugo.io/themes/docsy/)|[
 The Docsy Authors
@@ -373,6 +362,17 @@ The Docsy Authors
 Apache 2.0
 |
 1422
+|
+2021-12-21
+|
+|[
+Paper
+](https://themes.gohugo.io/themes/hugo-paper/)|[
+nanxiaobei
+](https://github.com/nanxiaobei/hugo-paper/blob/master/LICENSE)|
+MIT
+|
+717
 |
 2021-12-21
 |
@@ -1354,10 +1354,10 @@ MIT
 2021-09-08
 |
 |[
-Timer Hugo
-](https://themes.gohugo.io/themes/timer-hugo/)|[
+Navigator Hugo
+](https://themes.gohugo.io/themes/navigator-hugo/)|[
 Themefisher
-](https://github.com/themefisher/timer-hugo/graphs/contributors)|
+](https://github.com/gethugothemes/navigator-hugo/graphs/contributors)|
 MIT
 |
 113
@@ -1365,10 +1365,10 @@ MIT
 2021-09-08
 |
 |[
-Navigator Hugo
-](https://themes.gohugo.io/themes/navigator-hugo/)|[
+Timer Hugo
+](https://themes.gohugo.io/themes/timer-hugo/)|[
 Themefisher
-](https://github.com/gethugothemes/navigator-hugo/graphs/contributors)|
+](https://github.com/themefisher/timer-hugo/graphs/contributors)|
 MIT
 |
 113
@@ -1387,17 +1387,6 @@ MIT
 2021-09-08
 |
 |[
-Infinity Hugo
-](https://themes.gohugo.io/themes/infinity-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
-MIT
-|
-36
-|
-2021-09-08
-|
-|[
 Restaurant Hugo
 ](https://themes.gohugo.io/themes/restaurant-hugo/)|[
 Themefisher
@@ -1405,6 +1394,17 @@ Themefisher
 MIT
 |
 35
+|
+2021-09-08
+|
+|[
+Infinity Hugo
+](https://themes.gohugo.io/themes/infinity-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
+MIT
+|
+36
 |
 2021-09-08
 |
@@ -3390,17 +3390,6 @@ Creative Commons
 2020-05-29
 |
 |[
-Jeffprod
-](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
-@JeffProd
-](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
-MIT
-|
-51
-|
-2020-05-28
-|
-|[
 Erblog
 ](https://themes.gohugo.io/themes/erblog/)|[
 Ertuil
@@ -3412,15 +3401,15 @@ MIT
 2020-05-28
 |
 |[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)|[
-Karthik
-](#)|
+Jeffprod
+](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
+@JeffProd
+](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
 MIT
 |
-0
+51
 |
-2020-05-26
+2020-05-28
 |
 |[
 Resto Hugo
@@ -3428,6 +3417,17 @@ Resto Hugo
 Karthik
 ](#)|
 CC-BY-3.0
+|
+0
+|
+2020-05-26
+|
+|[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)|[
+Karthik
+](#)|
+MIT
 |
 0
 |
