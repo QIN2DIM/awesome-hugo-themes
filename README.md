@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-06 12:34:32 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-06 14:31:29 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -71,17 +71,6 @@ MIT
 2022-01-01
 |
 |[
-Bootstrap-BP-Startpage
-](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
-Sebastian Pech
-](https://github.com/ViktorKare/startpage)|
-MIT
-|
-42
-|
-2022-01-01
-|
-|[
 Bootstrap-BP
 ](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
 Sebastian Pech
@@ -89,6 +78,17 @@ Sebastian Pech
 MIT
 |
 38
+|
+2022-01-01
+|
+|[
+Bootstrap-BP-Startpage
+](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
+Sebastian Pech
+](https://github.com/ViktorKare/startpage)|
+MIT
+|
+42
 |
 2022-01-01
 |
@@ -258,17 +258,6 @@ MIT
 2021-12-26
 |
 |[
-Bootstrap Blog Theme
-](https://themes.gohugo.io/themes/hugo-theme-bootstrap/)|[
-Razon Yang
-](https://github.com/razonyang/hugo-theme-bootstrap/blob/master/USERS.md)|
-MIT
-|
-147
-|
-2021-12-26
-|
-|[
 Hero
 ](https://themes.gohugo.io/themes/hugo-hero-theme/)|[
 Robert Austin
@@ -276,6 +265,17 @@ Robert Austin
 MIT
 |
 160
+|
+2021-12-26
+|
+|[
+Bootstrap Blog Theme
+](https://themes.gohugo.io/themes/hugo-theme-bootstrap/)|[
+Razon Yang
+](https://github.com/razonyang/hugo-theme-bootstrap/blob/master/USERS.md)|
+MIT
+|
+147
 |
 2021-12-26
 |
@@ -1563,17 +1563,6 @@ MIT
 2021-08-13
 |
 |[
-Uwe Uwe
-](https://themes.gohugo.io/themes/uwe-uwe-hugo/)|[
-Matthias Einbrodt
-](https://github.com/mbrt-yeah/uwe-uwe-hugo)|
-MIT
-|
-2
-|
-2021-08-13
-|
-|[
 simplog
 ](https://themes.gohugo.io/themes/simplog/)|[
 michimani
@@ -1581,6 +1570,17 @@ michimani
 MIT
 |
 5
+|
+2021-08-13
+|
+|[
+Uwe Uwe
+](https://themes.gohugo.io/themes/uwe-uwe-hugo/)|[
+Matthias Einbrodt
+](https://github.com/mbrt-yeah/uwe-uwe-hugo)|
+MIT
+|
+2
 |
 2021-08-13
 |
@@ -3163,17 +3163,6 @@ MIT
 2020-07-12
 |
 |[
-Academia Hugo
-](https://themes.gohugo.io/themes/academia-hugo/)|[
-Themefisher
-](https://github.com/themefisher/academia-hugo/issues)|
-MIT
-|
-121
-|
-2020-07-05
-|
-|[
 Vex
 ](https://themes.gohugo.io/themes/vex-hugo/)|[
 Themefisher
@@ -3181,6 +3170,17 @@ Themefisher
 CC-BY-3.0
 |
 123
+|
+2020-07-05
+|
+|[
+Academia Hugo
+](https://themes.gohugo.io/themes/academia-hugo/)|[
+Themefisher
+](https://github.com/themefisher/academia-hugo/issues)|
+MIT
+|
+121
 |
 2020-07-05
 |
