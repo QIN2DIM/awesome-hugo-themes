@@ -1,20 +1,9 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-06 16:31:15 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-06 18:28:24 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
-|[
-Anubis
-](https://themes.gohugo.io/themes/hugo-theme-anubis/)|[
-Dmitry Kolosov
-](https://github.com/mitrichius/hugo-theme-anubis/issues)|
-MIT
-|
-197
-|
-2022-01-03
-|
 |[
 Whisper
 ](https://themes.gohugo.io/themes/hugo-whisper-theme/)|[
@@ -23,6 +12,17 @@ Robert Austin
 MIT
 |
 175
+|
+2022-01-03
+|
+|[
+Anubis
+](https://themes.gohugo.io/themes/hugo-theme-anubis/)|[
+Dmitry Kolosov
+](https://github.com/mitrichius/hugo-theme-anubis/issues)|
+MIT
+|
+197
 |
 2022-01-03
 |
@@ -60,17 +60,6 @@ MIT
 2022-01-01
 |
 |[
-Bootstrap-BP-Startpage
-](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
-Sebastian Pech
-](https://github.com/ViktorKare/startpage)|
-MIT
-|
-42
-|
-2022-01-01
-|
-|[
 Winning
 ](https://themes.gohugo.io/themes/hugo-theme-winning/)|[
 Tim Clulow
@@ -89,6 +78,17 @@ Sebastian Pech
 MIT
 |
 38
+|
+2022-01-01
+|
+|[
+Bootstrap-BP-Startpage
+](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
+Sebastian Pech
+](https://github.com/ViktorKare/startpage)|
+MIT
+|
+42
 |
 2022-01-01
 |
@@ -148,17 +148,6 @@ Apache
 2021-12-30
 |
 |[
-congo
-](https://themes.gohugo.io/themes/congo/)|[
-James Panther
-](https://github.com/jpanther/congo/blob/dev/CONTRIBUTING.md)|
-MIT
-|
-44
-|
-2021-12-30
-|
-|[
 Geekblog
 ](https://themes.gohugo.io/themes/hugo-geekblog/)|[
 Robert Kaussow
@@ -166,6 +155,17 @@ Robert Kaussow
 MIT
 |
 51
+|
+2021-12-30
+|
+|[
+congo
+](https://themes.gohugo.io/themes/congo/)|[
+James Panther
+](https://github.com/jpanther/congo/blob/dev/CONTRIBUTING.md)|
+MIT
+|
+44
 |
 2021-12-30
 |
@@ -1387,17 +1387,6 @@ MIT
 2021-09-08
 |
 |[
-Infinity Hugo
-](https://themes.gohugo.io/themes/infinity-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
-MIT
-|
-36
-|
-2021-09-08
-|
-|[
 Restaurant Hugo
 ](https://themes.gohugo.io/themes/restaurant-hugo/)|[
 Themefisher
@@ -1405,6 +1394,17 @@ Themefisher
 MIT
 |
 35
+|
+2021-09-08
+|
+|[
+Infinity Hugo
+](https://themes.gohugo.io/themes/infinity-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
+MIT
+|
+36
 |
 2021-09-08
 |
@@ -3163,17 +3163,6 @@ MIT
 2020-07-12
 |
 |[
-Academia Hugo
-](https://themes.gohugo.io/themes/academia-hugo/)|[
-Themefisher
-](https://github.com/themefisher/academia-hugo/issues)|
-MIT
-|
-121
-|
-2020-07-05
-|
-|[
 Vex
 ](https://themes.gohugo.io/themes/vex-hugo/)|[
 Themefisher
@@ -3181,6 +3170,17 @@ Themefisher
 CC-BY-3.0
 |
 123
+|
+2020-07-05
+|
+|[
+Academia Hugo
+](https://themes.gohugo.io/themes/academia-hugo/)|[
+Themefisher
+](https://github.com/themefisher/academia-hugo/issues)|
+MIT
+|
+121
 |
 2020-07-05
 |
@@ -3282,17 +3282,6 @@ MIT
 2020-06-22
 |
 |[
-simple-blog
-](https://themes.gohugo.io/themes/hugo-theme-simple-blog/)|[
-10mohi6
-](https://github.com/10mohi6/hugo-theme-simple-blog)|
-MIT
-|
-8
-|
-2020-06-16
-|
-|[
 Notrack
 ](https://themes.gohugo.io/themes/hugo-theme-notrack/)|[
 Simon Bengtsson
@@ -3300,6 +3289,17 @@ Simon Bengtsson
 GPLv3
 |
 9
+|
+2020-06-16
+|
+|[
+simple-blog
+](https://themes.gohugo.io/themes/hugo-theme-simple-blog/)|[
+10mohi6
+](https://github.com/10mohi6/hugo-theme-simple-blog)|
+MIT
+|
+8
 |
 2020-06-16
 |
@@ -3412,22 +3412,22 @@ MIT
 2020-05-28
 |
 |[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)|[
+Resto Hugo
+](https://themes.gohugo.io/themes/resto-hugo/)|[
 Karthik
 ](#)|
-MIT
+CC-BY-3.0
 |
 0
 |
 2020-05-26
 |
 |[
-Resto Hugo
-](https://themes.gohugo.io/themes/resto-hugo/)|[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)|[
 Karthik
 ](#)|
-CC-BY-3.0
+MIT
 |
 0
 |
@@ -3727,17 +3727,6 @@ MIT
 2019-10-27
 |
 |[
-Spectre Pixel Theme
-](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
-Shin Tatt
-](https://github.com/digitalcraftsman/hugo-cactus-theme)|
-MIT
-|
-16
-|
-2019-10-12
-|
-|[
 Arabica
 ](https://themes.gohugo.io/themes/arabica/)|[
 Chen Fangzhou
@@ -3745,6 +3734,17 @@ Chen Fangzhou
 MIT
 |
 17
+|
+2019-10-12
+|
+|[
+Spectre Pixel Theme
+](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
+Shin Tatt
+](https://github.com/digitalcraftsman/hugo-cactus-theme)|
+MIT
+|
+16
 |
 2019-10-12
 |
