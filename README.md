@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-07 18:29:36 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-07 20:41:00 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -1189,17 +1189,6 @@ MIT
 2021-09-30
 |
 |[
-Zen
-](https://themes.gohugo.io/themes/hugo-theme-zen/)|[
-Fredrik Jonsson
-](https://github.com/tabler/tabler-icons)|
-GPLv2
-|
-142
-|
-2021-09-29
-|
-|[
 Ace documentation
 ](https://themes.gohugo.io/themes/ace-documentation/)|[
 Vantage Design
@@ -1398,17 +1387,6 @@ MIT
 2021-09-08
 |
 |[
-Restaurant Hugo
-](https://themes.gohugo.io/themes/restaurant-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
-MIT
-|
-35
-|
-2021-09-08
-|
-|[
 Infinity Hugo
 ](https://themes.gohugo.io/themes/infinity-hugo/)|[
 Themefisher
@@ -1416,6 +1394,17 @@ Themefisher
 MIT
 |
 36
+|
+2021-09-08
+|
+|[
+Restaurant Hugo
+](https://themes.gohugo.io/themes/restaurant-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
+MIT
+|
+35
 |
 2021-09-08
 |
@@ -2420,7 +2409,7 @@ MIT
 Contrast
 ](https://themes.gohugo.io/themes/contrast-hugo/)|[
 Niklas Buschmann
-](https://github.com/jekyll/minima)|
+](#)|
 public domain
 |
 31
@@ -2976,17 +2965,6 @@ MIT
 2020-09-28
 |
 |[
-Coder Portfolio
-](https://themes.gohugo.io/themes/hugo-coder-portfolio/)|[
-Yusuke Ishimi
-](https://github.com/naro143/hugo-coder-portfolio/blob/master/LICENSE.md)|
-MIT
-|
-143
-|
-2020-09-03
-|
-|[
 freshStart
 ](https://themes.gohugo.io/themes/hugo-theme-freshstart/)|[
 Ricardo Franzen
@@ -3018,17 +2996,6 @@ MIT
 28
 |
 2020-08-30
-|
-|[
-Portio
-](https://themes.gohugo.io/themes/portio-hugo/)|[
-Static Mania
-](https://github.com/StaticMania/portio-hugo/blob/master/LICENSE)|
-MIT
-|
-211
-|
-2020-08-25
 |
 |[
 Shapez Theme
@@ -3282,17 +3249,6 @@ MIT
 2020-06-22
 |
 |[
-simple-blog
-](https://themes.gohugo.io/themes/hugo-theme-simple-blog/)|[
-10mohi6
-](https://github.com/10mohi6/hugo-theme-simple-blog)|
-MIT
-|
-8
-|
-2020-06-16
-|
-|[
 Notrack
 ](https://themes.gohugo.io/themes/hugo-theme-notrack/)|[
 Simon Bengtsson
@@ -3300,6 +3256,17 @@ Simon Bengtsson
 GPLv3
 |
 9
+|
+2020-06-16
+|
+|[
+simple-blog
+](https://themes.gohugo.io/themes/hugo-theme-simple-blog/)|[
+10mohi6
+](https://github.com/10mohi6/hugo-theme-simple-blog)|
+MIT
+|
+8
 |
 2020-06-16
 |
@@ -3412,22 +3379,22 @@ MIT
 2020-05-28
 |
 |[
-Resto Hugo
-](https://themes.gohugo.io/themes/resto-hugo/)|[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)|[
 Karthik
 ](#)|
-CC-BY-3.0
+MIT
 |
 0
 |
 2020-05-26
 |
 |[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)|[
+Resto Hugo
+](https://themes.gohugo.io/themes/resto-hugo/)|[
 Karthik
 ](#)|
-MIT
+CC-BY-3.0
 |
 0
 |
