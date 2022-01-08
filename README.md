@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-09 04:26:40 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-09 06:27:33 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -1398,17 +1398,6 @@ MIT
 2021-09-08
 |
 |[
-Restaurant Hugo
-](https://themes.gohugo.io/themes/restaurant-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
-MIT
-|
-35
-|
-2021-09-08
-|
-|[
 Infinity Hugo
 ](https://themes.gohugo.io/themes/infinity-hugo/)|[
 Themefisher
@@ -1416,6 +1405,17 @@ Themefisher
 MIT
 |
 36
+|
+2021-09-08
+|
+|[
+Restaurant Hugo
+](https://themes.gohugo.io/themes/restaurant-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
+MIT
+|
+35
 |
 2021-09-08
 |
