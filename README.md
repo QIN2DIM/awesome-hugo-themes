@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-08 12:34:12 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-08 14:30:36 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -49,17 +49,6 @@ MIT
 2022-01-04
 |
 |[
-Anubis
-](https://themes.gohugo.io/themes/hugo-theme-anubis/)|[
-Dmitry Kolosov
-](https://github.com/mitrichius/hugo-theme-anubis/issues)|
-MIT
-|
-197
-|
-2022-01-03
-|
-|[
 Whisper
 ](https://themes.gohugo.io/themes/hugo-whisper-theme/)|[
 Robert Austin
@@ -67,6 +56,17 @@ Robert Austin
 MIT
 |
 175
+|
+2022-01-03
+|
+|[
+Anubis
+](https://themes.gohugo.io/themes/hugo-theme-anubis/)|[
+Dmitry Kolosov
+](https://github.com/mitrichius/hugo-theme-anubis/issues)|
+MIT
+|
+197
 |
 2022-01-03
 |
@@ -520,15 +520,6 @@ MIT
 2021-12-14
 |
 |[
-Pickles
-](https://themes.gohugo.io/themes/hugo_theme_pickles/)|[nil](https://github.com/mismith0227/hugo_theme_pickles/tree/develop)|
-MIT
-|
-171
-|
-2021-12-13
-|
-|[
 Cupper
 ](https://themes.gohugo.io/themes/cupper-hugo-theme/)|[
 Zachary Betz
@@ -536,6 +527,15 @@ Zachary Betz
 MIT
 |
 203
+|
+2021-12-13
+|
+|[
+Pickles
+](https://themes.gohugo.io/themes/hugo_theme_pickles/)|[nil](https://github.com/mismith0227/hugo_theme_pickles/tree/develop)|
+MIT
+|
+171
 |
 2021-12-13
 |
@@ -1398,17 +1398,6 @@ MIT
 2021-09-08
 |
 |[
-Infinity Hugo
-](https://themes.gohugo.io/themes/infinity-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
-MIT
-|
-36
-|
-2021-09-08
-|
-|[
 Restaurant Hugo
 ](https://themes.gohugo.io/themes/restaurant-hugo/)|[
 Themefisher
@@ -1416,6 +1405,17 @@ Themefisher
 MIT
 |
 35
+|
+2021-09-08
+|
+|[
+Infinity Hugo
+](https://themes.gohugo.io/themes/infinity-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
+MIT
+|
+36
 |
 2021-09-08
 |
@@ -1574,17 +1574,6 @@ MIT
 2021-08-13
 |
 |[
-simplog
-](https://themes.gohugo.io/themes/simplog/)|[
-michimani
-](https://github.com/michimani/simplog)|
-MIT
-|
-5
-|
-2021-08-13
-|
-|[
 Uwe Uwe
 ](https://themes.gohugo.io/themes/uwe-uwe-hugo/)|[
 Matthias Einbrodt
@@ -1592,6 +1581,17 @@ Matthias Einbrodt
 MIT
 |
 2
+|
+2021-08-13
+|
+|[
+simplog
+](https://themes.gohugo.io/themes/simplog/)|[
+michimani
+](https://github.com/michimani/simplog)|
+MIT
+|
+5
 |
 2021-08-13
 |
@@ -1871,17 +1871,6 @@ MIT
 2021-07-08
 |
 |[
-Venture
-](https://themes.gohugo.io/themes/venture/)|[
-William Toll
-](https://github.com/Wtoll/venture)|
-MIT
-|
-1
-|
-2021-07-08
-|
-|[
 Split Landing
 ](https://themes.gohugo.io/themes/split-landing/)|[
 Katajun
@@ -1889,6 +1878,17 @@ Katajun
 MIT
 |
 0
+|
+2021-07-08
+|
+|[
+Venture
+](https://themes.gohugo.io/themes/venture/)|[
+William Toll
+](https://github.com/Wtoll/venture)|
+MIT
+|
+1
 |
 2021-07-08
 |
@@ -3163,17 +3163,6 @@ MIT
 2020-07-12
 |
 |[
-Academia Hugo
-](https://themes.gohugo.io/themes/academia-hugo/)|[
-Themefisher
-](https://github.com/themefisher/academia-hugo/issues)|
-MIT
-|
-121
-|
-2020-07-05
-|
-|[
 Vex
 ](https://themes.gohugo.io/themes/vex-hugo/)|[
 Themefisher
@@ -3181,6 +3170,17 @@ Themefisher
 CC-BY-3.0
 |
 123
+|
+2020-07-05
+|
+|[
+Academia Hugo
+](https://themes.gohugo.io/themes/academia-hugo/)|[
+Themefisher
+](https://github.com/themefisher/academia-hugo/issues)|
+MIT
+|
+121
 |
 2020-07-05
 |
@@ -3282,17 +3282,6 @@ MIT
 2020-06-22
 |
 |[
-Notrack
-](https://themes.gohugo.io/themes/hugo-theme-notrack/)|[
-Simon Bengtsson
-](https://github.com/dillonzq/LoveIt/blob/master/assets/data/social.yml)|
-GPLv3
-|
-9
-|
-2020-06-16
-|
-|[
 simple-blog
 ](https://themes.gohugo.io/themes/hugo-theme-simple-blog/)|[
 10mohi6
@@ -3300,6 +3289,17 @@ simple-blog
 MIT
 |
 8
+|
+2020-06-16
+|
+|[
+Notrack
+](https://themes.gohugo.io/themes/hugo-theme-notrack/)|[
+Simon Bengtsson
+](https://github.com/dillonzq/LoveIt/blob/master/assets/data/social.yml)|
+GPLv3
+|
+9
 |
 2020-06-16
 |
@@ -3727,17 +3727,6 @@ MIT
 2019-10-27
 |
 |[
-Arabica
-](https://themes.gohugo.io/themes/arabica/)|[
-Chen Fangzhou
-](https://github.com/nirocfz/arabica/blob/master/LICENSE)|
-MIT
-|
-17
-|
-2019-10-12
-|
-|[
 Spectre Pixel Theme
 ](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
 Shin Tatt
@@ -3745,6 +3734,17 @@ Shin Tatt
 MIT
 |
 16
+|
+2019-10-12
+|
+|[
+Arabica
+](https://themes.gohugo.io/themes/arabica/)|[
+Chen Fangzhou
+](https://github.com/nirocfz/arabica/blob/master/LICENSE)|
+MIT
+|
+17
 |
 2019-10-12
 |
