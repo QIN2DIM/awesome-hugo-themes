@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-10 00:40:32 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-10 02:29:53 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -49,17 +49,6 @@ MIT
 2022-01-04
 |
 |[
-Anubis
-](https://themes.gohugo.io/themes/hugo-theme-anubis/)|[
-Dmitry Kolosov
-](https://github.com/mitrichius/hugo-theme-anubis/issues)|
-MIT
-|
-197
-|
-2022-01-03
-|
-|[
 Whisper
 ](https://themes.gohugo.io/themes/hugo-whisper-theme/)|[
 Robert Austin
@@ -67,6 +56,17 @@ Robert Austin
 MIT
 |
 175
+|
+2022-01-03
+|
+|[
+Anubis
+](https://themes.gohugo.io/themes/hugo-theme-anubis/)|[
+Dmitry Kolosov
+](https://github.com/mitrichius/hugo-theme-anubis/issues)|
+MIT
+|
+197
 |
 2022-01-03
 |
@@ -115,17 +115,6 @@ MIT
 2022-01-01
 |
 |[
-Bootstrap-BP-Startpage
-](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
-Sebastian Pech
-](https://github.com/ViktorKare/startpage)|
-MIT
-|
-42
-|
-2022-01-01
-|
-|[
 Bootstrap-BP
 ](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
 Sebastian Pech
@@ -133,6 +122,17 @@ Sebastian Pech
 MIT
 |
 38
+|
+2022-01-01
+|
+|[
+Bootstrap-BP-Startpage
+](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
+Sebastian Pech
+](https://github.com/ViktorKare/startpage)|
+MIT
+|
+42
 |
 2022-01-01
 |
@@ -355,17 +355,6 @@ MIT
 10
 |
 2021-12-25
-|
-|[
-Ananke Gohugo Theme
-](https://themes.gohugo.io/themes/gohugo-theme-ananke/)|[
-theNewDynamic
-](https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/layouts/index.html#L32)|
-MIT
-|
-672
-|
-2021-12-23
 |
 |[
 pixyll
@@ -1398,17 +1387,6 @@ MIT
 2021-09-08
 |
 |[
-Restaurant Hugo
-](https://themes.gohugo.io/themes/restaurant-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
-MIT
-|
-35
-|
-2021-09-08
-|
-|[
 Infinity Hugo
 ](https://themes.gohugo.io/themes/infinity-hugo/)|[
 Themefisher
@@ -1416,6 +1394,17 @@ Themefisher
 MIT
 |
 36
+|
+2021-09-08
+|
+|[
+Restaurant Hugo
+](https://themes.gohugo.io/themes/restaurant-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
+MIT
+|
+35
 |
 2021-09-08
 |
@@ -1990,17 +1979,6 @@ MIT
 16
 |
 2021-06-16
-|
-|[
-Yinyang
-](https://themes.gohugo.io/themes/hugo-theme-yinyang/)|[
-Joway Wang
-](https://github.com/joway/hugo-theme-yinyang/blob/master/layouts/partials/seo.html)|
-MIT
-|
-276
-|
-2021-06-15
 |
 |[
 Lean Launch Page
@@ -3564,6 +3542,15 @@ MIT
 2020-02-17
 |
 |[
+OneDly Project
+](https://themes.gohugo.io/themes/onedly-theme/)|[nil](https://github.com/cdeck3r/OneDly-Theme/blob/master/exampleSite/config.toml)|
+MIT
+|
+11
+|
+2020-01-27
+|
+|[
 Papaya
 ](https://themes.gohugo.io/themes/papaya/)|[
 Pedro Lopez
@@ -3571,15 +3558,6 @@ Pedro Lopez
 MIT
 |
 15
-|
-2020-01-27
-|
-|[
-OneDly Project
-](https://themes.gohugo.io/themes/onedly-theme/)|[nil](https://github.com/cdeck3r/OneDly-Theme/blob/master/exampleSite/config.toml)|
-MIT
-|
-11
 |
 2020-01-27
 |
