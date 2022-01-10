@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-11 04:24:42 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-11 06:24:04 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -80,17 +80,6 @@ MIT
 2022-01-08
 |
 |[
-Blist
-](https://themes.gohugo.io/themes/blist-hugo-theme/)|[
-Varun A P
-](https://github.com/apvarun/blist-hugo-theme/issues)|
-MIT
-|
-50
-|
-2022-01-08
-|
-|[
 Geekblog
 ](https://themes.gohugo.io/themes/hugo-geekblog/)|[
 Robert Kaussow
@@ -102,15 +91,15 @@ MIT
 2022-01-08
 |
 |[
-Docsy
-](https://themes.gohugo.io/themes/docsy/)|[
-The Docsy Authors
-](https://github.com/google/docsy/blob/master/LICENSE)|
-Apache 2.0
+Blist
+](https://themes.gohugo.io/themes/blist-hugo-theme/)|[
+Varun A P
+](https://github.com/apvarun/blist-hugo-theme/issues)|
+MIT
 |
-1422
+50
 |
-2022-01-07
+2022-01-08
 |
 |[
 Paper
@@ -120,6 +109,17 @@ nanxiaobei
 MIT
 |
 717
+|
+2022-01-07
+|
+|[
+Docsy
+](https://themes.gohugo.io/themes/docsy/)|[
+The Docsy Authors
+](https://github.com/google/docsy/blob/master/LICENSE)|
+Apache 2.0
+|
+1422
 |
 2022-01-07
 |
@@ -245,17 +245,6 @@ MIT
 2022-01-01
 |
 |[
-Bootstrap-BP-Startpage
-](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
-Sebastian Pech
-](https://github.com/ViktorKare/startpage)|
-MIT
-|
-42
-|
-2022-01-01
-|
-|[
 Bootstrap-BP
 ](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
 Sebastian Pech
@@ -263,6 +252,17 @@ Sebastian Pech
 MIT
 |
 38
+|
+2022-01-01
+|
+|[
+Bootstrap-BP-Startpage
+](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
+Sebastian Pech
+](https://github.com/ViktorKare/startpage)|
+MIT
+|
+42
 |
 2022-01-01
 |
@@ -1398,17 +1398,6 @@ MIT
 2021-09-08
 |
 |[
-Infinity Hugo
-](https://themes.gohugo.io/themes/infinity-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
-MIT
-|
-36
-|
-2021-09-08
-|
-|[
 Restaurant Hugo
 ](https://themes.gohugo.io/themes/restaurant-hugo/)|[
 Themefisher
@@ -1416,6 +1405,17 @@ Themefisher
 MIT
 |
 35
+|
+2021-09-08
+|
+|[
+Infinity Hugo
+](https://themes.gohugo.io/themes/infinity-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
+MIT
+|
+36
 |
 2021-09-08
 |
@@ -1871,17 +1871,6 @@ MIT
 2021-07-08
 |
 |[
-Split Landing
-](https://themes.gohugo.io/themes/split-landing/)|[
-Katajun
-](https://github.com/KatamariJr/split-landing)|
-MIT
-|
-0
-|
-2021-07-08
-|
-|[
 Venture
 ](https://themes.gohugo.io/themes/venture/)|[
 William Toll
@@ -1889,6 +1878,17 @@ William Toll
 MIT
 |
 1
+|
+2021-07-08
+|
+|[
+Split Landing
+](https://themes.gohugo.io/themes/split-landing/)|[
+Katajun
+](https://github.com/KatamariJr/split-landing)|
+MIT
+|
+0
 |
 2021-07-08
 |
@@ -3412,22 +3412,22 @@ MIT
 2020-05-28
 |
 |[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)|[
+Resto Hugo
+](https://themes.gohugo.io/themes/resto-hugo/)|[
 Karthik
 ](#)|
-MIT
+CC-BY-3.0
 |
 0
 |
 2020-05-26
 |
 |[
-Resto Hugo
-](https://themes.gohugo.io/themes/resto-hugo/)|[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)|[
 Karthik
 ](#)|
-CC-BY-3.0
+MIT
 |
 0
 |
@@ -3564,6 +3564,15 @@ MIT
 2020-02-17
 |
 |[
+OneDly Project
+](https://themes.gohugo.io/themes/onedly-theme/)|[nil](https://github.com/cdeck3r/OneDly-Theme/blob/master/exampleSite/config.toml)|
+MIT
+|
+11
+|
+2020-01-27
+|
+|[
 Papaya
 ](https://themes.gohugo.io/themes/papaya/)|[
 Pedro Lopez
@@ -3571,15 +3580,6 @@ Pedro Lopez
 MIT
 |
 15
-|
-2020-01-27
-|
-|[
-OneDly Project
-](https://themes.gohugo.io/themes/onedly-theme/)|[nil](https://github.com/cdeck3r/OneDly-Theme/blob/master/exampleSite/config.toml)|
-MIT
-|
-11
 |
 2020-01-27
 |
