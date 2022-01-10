@@ -1,9 +1,150 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-10 06:25:07 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-10 09:21:04 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
+|[
+PaperMod
+](https://themes.gohugo.io/themes/hugo-papermod/)|[
+Aditya Telange
+](https://github.com/simple-icons/simple-icons)|
+MIT
+|
+2258
+|
+2022-01-09
+|
+|[
+Anubis
+](https://themes.gohugo.io/themes/hugo-theme-anubis/)|[
+Dmitry Kolosov
+](https://github.com/mitrichius/hugo-theme-anubis/issues)|
+MIT
+|
+197
+|
+2022-01-09
+|
+|[
+Fill and Stroke
+](https://themes.gohugo.io/themes/hugo-fill-and-stroke/)|[
+knokmki612
+](https://github.com/knokmki612/hugo-fill-and-stroke)|
+GPLv3
+|
+0
+|
+2022-01-09
+|
+|[
+terminal
+](https://themes.gohugo.io/themes/hugo-theme-terminal/)|[
+panr
+](https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md)|
+MIT
+|
+1071
+|
+2022-01-08
+|
+|[
+Geekdoc
+](https://themes.gohugo.io/themes/hugo-geekdoc/)|[
+Robert Kaussow
+](https://github.com/google/material-design-icons/blob/main/LICENSE)|
+MIT
+|
+223
+|
+2022-01-08
+|
+|[
+Pickles
+](https://themes.gohugo.io/themes/hugo_theme_pickles/)|[nil](https://github.com/mismith0227/hugo_theme_pickles/tree/develop)|
+MIT
+|
+171
+|
+2022-01-08
+|
+|[
+PaperCSS
+](https://themes.gohugo.io/themes/papercss-hugo-theme/)|[
+Zachary Betz
+](https://github.com/papercss/papercss/graphs/contributors)|
+MIT
+|
+67
+|
+2022-01-08
+|
+|[
+Geekblog
+](https://themes.gohugo.io/themes/hugo-geekblog/)|[
+Robert Kaussow
+](https://github.com/google/material-design-icons/blob/main/LICENSE)|
+MIT
+|
+51
+|
+2022-01-08
+|
+|[
+Blist
+](https://themes.gohugo.io/themes/blist-hugo-theme/)|[
+Varun A P
+](https://github.com/apvarun/blist-hugo-theme/issues)|
+MIT
+|
+50
+|
+2022-01-08
+|
+|[
+Paper
+](https://themes.gohugo.io/themes/hugo-paper/)|[
+nanxiaobei
+](https://github.com/nanxiaobei/hugo-paper/blob/master/LICENSE)|
+MIT
+|
+717
+|
+2022-01-07
+|
+|[
+Docsy
+](https://themes.gohugo.io/themes/docsy/)|[
+The Docsy Authors
+](https://github.com/google/docsy/blob/master/LICENSE)|
+Apache 2.0
+|
+1422
+|
+2022-01-07
+|
+|[
+Bilberry Hugo Theme
+](https://themes.gohugo.io/themes/bilberry-hugo-theme/)|[
+Lednerb \| Sascha Brendel
+](https://github.com/kentcdodds/all-contributors)|
+MIT
+|
+224
+|
+2022-01-07
+|
+|[
+congo
+](https://themes.gohugo.io/themes/congo/)|[
+James Panther
+](https://github.com/jpanther/congo/blob/dev/CONTRIBUTING.md)|
+MIT
+|
+44
+|
+2022-01-07
+|
 |[
 Bootstrap Blog Theme
 ](https://themes.gohugo.io/themes/hugo-theme-bootstrap/)|[
@@ -47,17 +188,6 @@ MIT
 237
 |
 2022-01-04
-|
-|[
-Anubis
-](https://themes.gohugo.io/themes/hugo-theme-anubis/)|[
-Dmitry Kolosov
-](https://github.com/mitrichius/hugo-theme-anubis/issues)|
-MIT
-|
-197
-|
-2022-01-03
 |
 |[
 Whisper
@@ -192,28 +322,6 @@ Apache
 2021-12-30
 |
 |[
-Geekblog
-](https://themes.gohugo.io/themes/hugo-geekblog/)|[
-Robert Kaussow
-](https://github.com/google/material-design-icons/blob/main/LICENSE)|
-MIT
-|
-51
-|
-2021-12-30
-|
-|[
-congo
-](https://themes.gohugo.io/themes/congo/)|[
-James Panther
-](https://github.com/jpanther/congo/blob/dev/CONTRIBUTING.md)|
-MIT
-|
-44
-|
-2021-12-30
-|
-|[
 Tella
 ](https://themes.gohugo.io/themes/tella/)|[
 wamo
@@ -291,17 +399,6 @@ MIT
 2021-12-27
 |
 |[
-PaperMod
-](https://themes.gohugo.io/themes/hugo-papermod/)|[
-Aditya Telange
-](https://github.com/simple-icons/simple-icons)|
-MIT
-|
-2258
-|
-2021-12-26
-|
-|[
 Hero
 ](https://themes.gohugo.io/themes/hugo-hero-theme/)|[
 Robert Austin
@@ -357,13 +454,24 @@ MIT
 2021-12-25
 |
 |[
+DocuAPI
+](https://themes.gohugo.io/themes/v2/)|[
+Bjørn Erik Pedersen
+](https://github.com/bep/docuapi/blob/master/exampleSite/config.toml)|
+Apache-2.0
+|
+555
+|
+2021-12-23
+|
+|[
 Ananke Gohugo Theme
 ](https://themes.gohugo.io/themes/gohugo-theme-ananke/)|[
 theNewDynamic
 ](https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/layouts/index.html#L32)|
 MIT
 |
-672
+674
 |
 2021-12-23
 |
@@ -386,39 +494,6 @@ MIT
 1
 |
 2021-12-23
-|
-|[
-Paper
-](https://themes.gohugo.io/themes/hugo-paper/)|[
-nanxiaobei
-](https://github.com/nanxiaobei/hugo-paper/blob/master/LICENSE)|
-MIT
-|
-717
-|
-2021-12-21
-|
-|[
-Docsy
-](https://themes.gohugo.io/themes/docsy/)|[
-The Docsy Authors
-](https://github.com/google/docsy/blob/master/LICENSE)|
-Apache 2.0
-|
-1422
-|
-2021-12-21
-|
-|[
-Bilberry Hugo Theme
-](https://themes.gohugo.io/themes/bilberry-hugo-theme/)|[
-Lednerb \| Sascha Brendel
-](https://github.com/kentcdodds/all-contributors)|
-MIT
-|
-224
-|
-2021-12-21
 |
 |[
 Compose
@@ -520,15 +595,6 @@ MIT
 2021-12-14
 |
 |[
-Pickles
-](https://themes.gohugo.io/themes/hugo_theme_pickles/)|[nil](https://github.com/mismith0227/hugo_theme_pickles/tree/develop)|
-MIT
-|
-171
-|
-2021-12-13
-|
-|[
 Cupper
 ](https://themes.gohugo.io/themes/cupper-hugo-theme/)|[
 Zachary Betz
@@ -549,17 +615,6 @@ MIT
 41
 |
 2021-12-13
-|
-|[
-Geekdoc
-](https://themes.gohugo.io/themes/hugo-geekdoc/)|[
-Robert Kaussow
-](https://github.com/google/material-design-icons/blob/main/LICENSE)|
-MIT
-|
-223
-|
-2021-12-12
 |
 |[
 Etch
@@ -593,17 +648,6 @@ GPL v2
 29
 |
 2021-12-09
-|
-|[
-PaperCSS
-](https://themes.gohugo.io/themes/papercss-hugo-theme/)|[
-Zachary Betz
-](https://github.com/papercss/papercss/graphs/contributors)|
-MIT
-|
-67
-|
-2021-12-08
 |
 |[
 Vitae
@@ -727,17 +771,6 @@ MIT
 2021-11-30
 |
 |[
-Blist
-](https://themes.gohugo.io/themes/blist-hugo-theme/)|[
-Varun A P
-](https://github.com/apvarun/blist-hugo-theme/issues)|
-MIT
-|
-50
-|
-2021-11-28
-|
-|[
 Shadocs
 ](https://themes.gohugo.io/themes/shadocs/)|[
 Jordan GAZEAU
@@ -758,17 +791,6 @@ MIT
 25
 |
 2021-11-26
-|
-|[
-Fill and Stroke
-](https://themes.gohugo.io/themes/hugo-fill-and-stroke/)|[
-knokmki612
-](https://github.com/knokmki612/hugo-fill-and-stroke)|
-GPLv3
-|
-0
-|
-2021-11-23
 |
 |[
 Toha
@@ -835,17 +857,6 @@ MIT
 4
 |
 2021-11-12
-|
-|[
-terminal
-](https://themes.gohugo.io/themes/hugo-theme-terminal/)|[
-panr
-](https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md)|
-MIT
-|
-1071
-|
-2021-11-10
 |
 |[
 Eureka
@@ -991,22 +1002,22 @@ MIT
 2021-10-26
 |
 |[
-Alpha Church
-](https://themes.gohugo.io/themes/alpha-church/)|[
-Daniel Saunders
-](https://github.com/funkydan2/alpha-church)|
-Creative Commons Attribution 3.0
+Tokiwa
+](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
+He Yeshuang
+](https://github.com/Remix-Design/remixicon)|
+MIT
 |
 46
 |
 2021-10-26
 |
 |[
-Tokiwa
-](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
-He Yeshuang
-](https://github.com/Remix-Design/remixicon)|
-MIT
+Alpha Church
+](https://themes.gohugo.io/themes/alpha-church/)|[
+Daniel Saunders
+](https://github.com/funkydan2/alpha-church)|
+Creative Commons Attribution 3.0
 |
 46
 |
@@ -1044,17 +1055,6 @@ MIT
 135
 |
 2021-10-18
-|
-|[
-Neofeed
-](https://themes.gohugo.io/themes/v2/)|[
-Victoria Drake
-](https://github.com/victoriadrake/neofeed-theme/blob/master/.github/CONTRIBUTING.md)|
-BSD-2-Clause
-|
-37
-|
-2021-10-17
 |
 |[
 Dusky Neon Potato
@@ -3163,17 +3163,6 @@ MIT
 2020-07-12
 |
 |[
-Academia Hugo
-](https://themes.gohugo.io/themes/academia-hugo/)|[
-Themefisher
-](https://github.com/themefisher/academia-hugo/issues)|
-MIT
-|
-121
-|
-2020-07-05
-|
-|[
 Vex
 ](https://themes.gohugo.io/themes/vex-hugo/)|[
 Themefisher
@@ -3181,6 +3170,17 @@ Themefisher
 CC-BY-3.0
 |
 123
+|
+2020-07-05
+|
+|[
+Academia Hugo
+](https://themes.gohugo.io/themes/academia-hugo/)|[
+Themefisher
+](https://github.com/themefisher/academia-hugo/issues)|
+MIT
+|
+121
 |
 2020-07-05
 |
@@ -3390,17 +3390,6 @@ Creative Commons
 2020-05-29
 |
 |[
-Jeffprod
-](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
-@JeffProd
-](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
-MIT
-|
-51
-|
-2020-05-28
-|
-|[
 Erblog
 ](https://themes.gohugo.io/themes/erblog/)|[
 Ertuil
@@ -3408,6 +3397,17 @@ Ertuil
 MIT
 |
 52
+|
+2020-05-28
+|
+|[
+Jeffprod
+](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
+@JeffProd
+](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
+MIT
+|
+51
 |
 2020-05-28
 |
