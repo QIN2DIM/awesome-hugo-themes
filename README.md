@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-12 02:31:09 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-12 04:26:50 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -80,17 +80,6 @@ MIT
 2022-01-08
 |
 |[
-Blist
-](https://themes.gohugo.io/themes/blist-hugo-theme/)|[
-Varun A P
-](https://github.com/apvarun/blist-hugo-theme/issues)|
-MIT
-|
-50
-|
-2022-01-08
-|
-|[
 Geekblog
 ](https://themes.gohugo.io/themes/hugo-geekblog/)|[
 Robert Kaussow
@@ -102,15 +91,15 @@ MIT
 2022-01-08
 |
 |[
-Paper
-](https://themes.gohugo.io/themes/hugo-paper/)|[
-nanxiaobei
-](https://github.com/nanxiaobei/hugo-paper/blob/master/LICENSE)|
+Blist
+](https://themes.gohugo.io/themes/blist-hugo-theme/)|[
+Varun A P
+](https://github.com/apvarun/blist-hugo-theme/issues)|
 MIT
 |
-717
+50
 |
-2022-01-07
+2022-01-08
 |
 |[
 Docsy
@@ -120,6 +109,17 @@ The Docsy Authors
 Apache 2.0
 |
 1422
+|
+2022-01-07
+|
+|[
+Paper
+](https://themes.gohugo.io/themes/hugo-paper/)|[
+nanxiaobei
+](https://github.com/nanxiaobei/hugo-paper/blob/master/LICENSE)|
+MIT
+|
+717
 |
 2022-01-07
 |
@@ -234,17 +234,6 @@ MIT
 2022-01-01
 |
 |[
-Bootstrap-BP-Startpage
-](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
-Sebastian Pech
-](https://github.com/ViktorKare/startpage)|
-MIT
-|
-42
-|
-2022-01-01
-|
-|[
 Winning
 ](https://themes.gohugo.io/themes/hugo-theme-winning/)|[
 Tim Clulow
@@ -263,6 +252,17 @@ Sebastian Pech
 MIT
 |
 38
+|
+2022-01-01
+|
+|[
+Bootstrap-BP-Startpage
+](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
+Sebastian Pech
+](https://github.com/ViktorKare/startpage)|
+MIT
+|
+42
 |
 2022-01-01
 |
@@ -1871,17 +1871,6 @@ MIT
 2021-07-08
 |
 |[
-Split Landing
-](https://themes.gohugo.io/themes/split-landing/)|[
-Katajun
-](https://github.com/KatamariJr/split-landing)|
-MIT
-|
-0
-|
-2021-07-08
-|
-|[
 Venture
 ](https://themes.gohugo.io/themes/venture/)|[
 William Toll
@@ -1889,6 +1878,17 @@ William Toll
 MIT
 |
 1
+|
+2021-07-08
+|
+|[
+Split Landing
+](https://themes.gohugo.io/themes/split-landing/)|[
+Katajun
+](https://github.com/KatamariJr/split-landing)|
+MIT
+|
+0
 |
 2021-07-08
 |
@@ -2186,6 +2186,17 @@ Tom Forbes
 MIT
 |
 43
+|
+2021-04-29
+|
+|[
+Osprey Delight
+](https://themes.gohugo.io/themes/osprey-delight/)|[
+kdevo
+](https://github.com/kdevo/osprey-delight/blob/master/CUSTOMIZING.md)|
+Apache License 2.0
+|
+21
 |
 2021-04-29
 |
@@ -3152,17 +3163,6 @@ MIT
 2020-07-12
 |
 |[
-Vex
-](https://themes.gohugo.io/themes/vex-hugo/)|[
-Themefisher
-](https://github.com/themefisher/vex-hugo/issues)|
-CC-BY-3.0
-|
-123
-|
-2020-07-05
-|
-|[
 Academia Hugo
 ](https://themes.gohugo.io/themes/academia-hugo/)|[
 Themefisher
@@ -3170,6 +3170,17 @@ Themefisher
 MIT
 |
 121
+|
+2020-07-05
+|
+|[
+Vex
+](https://themes.gohugo.io/themes/vex-hugo/)|[
+Themefisher
+](https://github.com/themefisher/vex-hugo/issues)|
+CC-BY-3.0
+|
+123
 |
 2020-07-05
 |
