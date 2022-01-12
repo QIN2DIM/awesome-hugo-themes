@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-12 20:42:06 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-12 22:28:07 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -80,17 +80,6 @@ MIT
 2022-01-08
 |
 |[
-Blist
-](https://themes.gohugo.io/themes/blist-hugo-theme/)|[
-Varun A P
-](https://github.com/apvarun/blist-hugo-theme/issues)|
-MIT
-|
-50
-|
-2022-01-08
-|
-|[
 Geekblog
 ](https://themes.gohugo.io/themes/hugo-geekblog/)|[
 Robert Kaussow
@@ -98,6 +87,17 @@ Robert Kaussow
 MIT
 |
 51
+|
+2022-01-08
+|
+|[
+Blist
+](https://themes.gohugo.io/themes/blist-hugo-theme/)|[
+Varun A P
+](https://github.com/apvarun/blist-hugo-theme/issues)|
+MIT
+|
+50
 |
 2022-01-08
 |
@@ -234,17 +234,6 @@ MIT
 2022-01-01
 |
 |[
-Winning
-](https://themes.gohugo.io/themes/hugo-theme-winning/)|[
-Tim Clulow
-](https://github.com/cssandstuff/hugo-theme-winning/blob/master/LICENSE.md)|
-MIT
-|
-50
-|
-2022-01-01
-|
-|[
 Bootstrap-BP-Startpage
 ](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
 Sebastian Pech
@@ -252,6 +241,17 @@ Sebastian Pech
 MIT
 |
 42
+|
+2022-01-01
+|
+|[
+Winning
+](https://themes.gohugo.io/themes/hugo-theme-winning/)|[
+Tim Clulow
+](https://github.com/cssandstuff/hugo-theme-winning/blob/master/LICENSE.md)|
+MIT
+|
+50
 |
 2022-01-01
 |
@@ -1398,17 +1398,6 @@ MIT
 2021-09-08
 |
 |[
-Infinity Hugo
-](https://themes.gohugo.io/themes/infinity-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
-MIT
-|
-36
-|
-2021-09-08
-|
-|[
 Restaurant Hugo
 ](https://themes.gohugo.io/themes/restaurant-hugo/)|[
 Themefisher
@@ -1416,6 +1405,17 @@ Themefisher
 MIT
 |
 35
+|
+2021-09-08
+|
+|[
+Infinity Hugo
+](https://themes.gohugo.io/themes/infinity-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
+MIT
+|
+36
 |
 2021-09-08
 |
@@ -1871,17 +1871,6 @@ MIT
 2021-07-08
 |
 |[
-Split Landing
-](https://themes.gohugo.io/themes/split-landing/)|[
-Katajun
-](https://github.com/KatamariJr/split-landing)|
-MIT
-|
-0
-|
-2021-07-08
-|
-|[
 Venture
 ](https://themes.gohugo.io/themes/venture/)|[
 William Toll
@@ -1889,6 +1878,17 @@ William Toll
 MIT
 |
 1
+|
+2021-07-08
+|
+|[
+Split Landing
+](https://themes.gohugo.io/themes/split-landing/)|[
+Katajun
+](https://github.com/KatamariJr/split-landing)|
+MIT
+|
+0
 |
 2021-07-08
 |
@@ -3282,17 +3282,6 @@ MIT
 2020-06-22
 |
 |[
-Notrack
-](https://themes.gohugo.io/themes/hugo-theme-notrack/)|[
-Simon Bengtsson
-](https://github.com/dillonzq/LoveIt/blob/master/assets/data/social.yml)|
-GPLv3
-|
-9
-|
-2020-06-16
-|
-|[
 simple-blog
 ](https://themes.gohugo.io/themes/hugo-theme-simple-blog/)|[
 10mohi6
@@ -3300,6 +3289,17 @@ simple-blog
 MIT
 |
 8
+|
+2020-06-16
+|
+|[
+Notrack
+](https://themes.gohugo.io/themes/hugo-theme-notrack/)|[
+Simon Bengtsson
+](https://github.com/dillonzq/LoveIt/blob/master/assets/data/social.yml)|
+GPLv3
+|
+9
 |
 2020-06-16
 |
@@ -3390,17 +3390,6 @@ Creative Commons
 2020-05-29
 |
 |[
-Erblog
-](https://themes.gohugo.io/themes/erblog/)|[
-Ertuil
-](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
-MIT
-|
-52
-|
-2020-05-28
-|
-|[
 Jeffprod
 ](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
 @JeffProd
@@ -3408,6 +3397,17 @@ Jeffprod
 MIT
 |
 51
+|
+2020-05-28
+|
+|[
+Erblog
+](https://themes.gohugo.io/themes/erblog/)|[
+Ertuil
+](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
+MIT
+|
+52
 |
 2020-05-28
 |
