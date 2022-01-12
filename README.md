@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-13 02:30:45 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-13 04:27:44 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -454,17 +454,6 @@ MIT
 2021-12-25
 |
 |[
-DocuAPI
-](https://themes.gohugo.io/themes/v2/)|[
-Bjørn Erik Pedersen
-](https://github.com/bep/docuapi/blob/master/exampleSite/config.toml)|
-Apache-2.0
-|
-555
-|
-2021-12-23
-|
-|[
 Ananke Gohugo Theme
 ](https://themes.gohugo.io/themes/gohugo-theme-ananke/)|[
 theNewDynamic
@@ -472,6 +461,17 @@ theNewDynamic
 MIT
 |
 674
+|
+2021-12-23
+|
+|[
+DocuAPI
+](https://themes.gohugo.io/themes/v2/)|[
+Bjørn Erik Pedersen
+](https://github.com/bep/docuapi/blob/master/exampleSite/config.toml)|
+Apache-2.0
+|
+555
 |
 2021-12-23
 |
@@ -1002,22 +1002,22 @@ MIT
 2021-10-26
 |
 |[
-Alpha Church
-](https://themes.gohugo.io/themes/alpha-church/)|[
-Daniel Saunders
-](https://github.com/funkydan2/alpha-church)|
-Creative Commons Attribution 3.0
+Tokiwa
+](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
+He Yeshuang
+](https://github.com/Remix-Design/remixicon)|
+MIT
 |
 46
 |
 2021-10-26
 |
 |[
-Tokiwa
-](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
-He Yeshuang
-](https://github.com/Remix-Design/remixicon)|
-MIT
+Alpha Church
+](https://themes.gohugo.io/themes/alpha-church/)|[
+Daniel Saunders
+](https://github.com/funkydan2/alpha-church)|
+Creative Commons Attribution 3.0
 |
 46
 |
@@ -1398,17 +1398,6 @@ MIT
 2021-09-08
 |
 |[
-Restaurant Hugo
-](https://themes.gohugo.io/themes/restaurant-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
-MIT
-|
-35
-|
-2021-09-08
-|
-|[
 Infinity Hugo
 ](https://themes.gohugo.io/themes/infinity-hugo/)|[
 Themefisher
@@ -1416,6 +1405,17 @@ Themefisher
 MIT
 |
 36
+|
+2021-09-08
+|
+|[
+Restaurant Hugo
+](https://themes.gohugo.io/themes/restaurant-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
+MIT
+|
+35
 |
 2021-09-08
 |
@@ -3282,17 +3282,6 @@ MIT
 2020-06-22
 |
 |[
-simple-blog
-](https://themes.gohugo.io/themes/hugo-theme-simple-blog/)|[
-10mohi6
-](https://github.com/10mohi6/hugo-theme-simple-blog)|
-MIT
-|
-8
-|
-2020-06-16
-|
-|[
 Notrack
 ](https://themes.gohugo.io/themes/hugo-theme-notrack/)|[
 Simon Bengtsson
@@ -3300,6 +3289,17 @@ Simon Bengtsson
 GPLv3
 |
 9
+|
+2020-06-16
+|
+|[
+simple-blog
+](https://themes.gohugo.io/themes/hugo-theme-simple-blog/)|[
+10mohi6
+](https://github.com/10mohi6/hugo-theme-simple-blog)|
+MIT
+|
+8
 |
 2020-06-16
 |
@@ -3390,17 +3390,6 @@ Creative Commons
 2020-05-29
 |
 |[
-Erblog
-](https://themes.gohugo.io/themes/erblog/)|[
-Ertuil
-](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
-MIT
-|
-52
-|
-2020-05-28
-|
-|[
 Jeffprod
 ](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
 @JeffProd
@@ -3408,6 +3397,17 @@ Jeffprod
 MIT
 |
 51
+|
+2020-05-28
+|
+|[
+Erblog
+](https://themes.gohugo.io/themes/erblog/)|[
+Ertuil
+](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
+MIT
+|
+52
 |
 2020-05-28
 |
