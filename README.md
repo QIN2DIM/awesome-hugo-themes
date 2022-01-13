@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-14 04:27:31 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-14 06:25:58 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -355,17 +355,6 @@ MIT
 2022-01-01
 |
 |[
-Bootstrap-BP
-](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
-Sebastian Pech
-](https://github.com/spech66/bootstrap-bp-hugo-theme)|
-MIT
-|
-38
-|
-2022-01-01
-|
-|[
 Bootstrap-BP-Startpage
 ](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
 Sebastian Pech
@@ -373,6 +362,17 @@ Sebastian Pech
 MIT
 |
 42
+|
+2022-01-01
+|
+|[
+Bootstrap-BP
+](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
+Sebastian Pech
+](https://github.com/spech66/bootstrap-bp-hugo-theme)|
+MIT
+|
+38
 |
 2022-01-01
 |
@@ -1574,17 +1574,6 @@ MIT
 2021-08-13
 |
 |[
-Uwe Uwe
-](https://themes.gohugo.io/themes/uwe-uwe-hugo/)|[
-Matthias Einbrodt
-](https://github.com/mbrt-yeah/uwe-uwe-hugo)|
-MIT
-|
-2
-|
-2021-08-13
-|
-|[
 simplog
 ](https://themes.gohugo.io/themes/simplog/)|[
 michimani
@@ -1592,6 +1581,17 @@ michimani
 MIT
 |
 5
+|
+2021-08-13
+|
+|[
+Uwe Uwe
+](https://themes.gohugo.io/themes/uwe-uwe-hugo/)|[
+Matthias Einbrodt
+](https://github.com/mbrt-yeah/uwe-uwe-hugo)|
+MIT
+|
+2
 |
 2021-08-13
 |
@@ -3163,17 +3163,6 @@ MIT
 2020-07-12
 |
 |[
-Vex
-](https://themes.gohugo.io/themes/vex-hugo/)|[
-Themefisher
-](https://github.com/themefisher/vex-hugo/issues)|
-CC-BY-3.0
-|
-123
-|
-2020-07-05
-|
-|[
 Academia Hugo
 ](https://themes.gohugo.io/themes/academia-hugo/)|[
 Themefisher
@@ -3181,6 +3170,17 @@ Themefisher
 MIT
 |
 121
+|
+2020-07-05
+|
+|[
+Vex
+](https://themes.gohugo.io/themes/vex-hugo/)|[
+Themefisher
+](https://github.com/themefisher/vex-hugo/issues)|
+CC-BY-3.0
+|
+123
 |
 2020-07-05
 |
@@ -3390,17 +3390,6 @@ Creative Commons
 2020-05-29
 |
 |[
-Jeffprod
-](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
-@JeffProd
-](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
-MIT
-|
-51
-|
-2020-05-28
-|
-|[
 Erblog
 ](https://themes.gohugo.io/themes/erblog/)|[
 Ertuil
@@ -3408,6 +3397,17 @@ Ertuil
 MIT
 |
 52
+|
+2020-05-28
+|
+|[
+Jeffprod
+](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
+@JeffProd
+](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
+MIT
+|
+51
 |
 2020-05-28
 |
@@ -3727,17 +3727,6 @@ MIT
 2019-10-27
 |
 |[
-Arabica
-](https://themes.gohugo.io/themes/arabica/)|[
-Chen Fangzhou
-](https://github.com/nirocfz/arabica/blob/master/LICENSE)|
-MIT
-|
-17
-|
-2019-10-12
-|
-|[
 Spectre Pixel Theme
 ](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
 Shin Tatt
@@ -3745,6 +3734,17 @@ Shin Tatt
 MIT
 |
 16
+|
+2019-10-12
+|
+|[
+Arabica
+](https://themes.gohugo.io/themes/arabica/)|[
+Chen Fangzhou
+](https://github.com/nirocfz/arabica/blob/master/LICENSE)|
+MIT
+|
+17
 |
 2019-10-12
 |
