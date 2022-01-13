@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-13 14:31:26 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-13 16:31:17 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -16,17 +16,6 @@ Apache 2.0
 2022-01-12
 |
 |[
-DocuAPI
-](https://themes.gohugo.io/themes/v2/)|[
-Bjørn Erik Pedersen
-](https://github.com/bep/docuapi/blob/master/exampleSite/config.toml)|
-Apache-2.0
-|
-556
-|
-2022-01-12
-|
-|[
 Ananke Gohugo Theme
 ](https://themes.gohugo.io/themes/gohugo-theme-ananke/)|[
 theNewDynamic
@@ -34,6 +23,17 @@ theNewDynamic
 MIT
 |
 676
+|
+2022-01-12
+|
+|[
+DocuAPI
+](https://themes.gohugo.io/themes/v2/)|[
+Bjørn Erik Pedersen
+](https://github.com/bep/docuapi/blob/master/exampleSite/config.toml)|
+Apache-2.0
+|
+556
 |
 2022-01-12
 |
@@ -1574,17 +1574,6 @@ MIT
 2021-08-13
 |
 |[
-simplog
-](https://themes.gohugo.io/themes/simplog/)|[
-michimani
-](https://github.com/michimani/simplog)|
-MIT
-|
-5
-|
-2021-08-13
-|
-|[
 Uwe Uwe
 ](https://themes.gohugo.io/themes/uwe-uwe-hugo/)|[
 Matthias Einbrodt
@@ -1592,6 +1581,17 @@ Matthias Einbrodt
 MIT
 |
 2
+|
+2021-08-13
+|
+|[
+simplog
+](https://themes.gohugo.io/themes/simplog/)|[
+michimani
+](https://github.com/michimani/simplog)|
+MIT
+|
+5
 |
 2021-08-13
 |
@@ -3412,22 +3412,22 @@ MIT
 2020-05-28
 |
 |[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)|[
+Resto Hugo
+](https://themes.gohugo.io/themes/resto-hugo/)|[
 Karthik
 ](#)|
-MIT
+CC-BY-3.0
 |
 0
 |
 2020-05-26
 |
 |[
-Resto Hugo
-](https://themes.gohugo.io/themes/resto-hugo/)|[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)|[
 Karthik
 ](#)|
-CC-BY-3.0
+MIT
 |
 0
 |
