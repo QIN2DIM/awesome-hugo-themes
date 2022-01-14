@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-14 18:28:56 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-14 20:41:22 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -115,17 +115,6 @@ Apache
 2022-01-11
 |
 |[
-Bare Min
-](https://themes.gohugo.io/themes/hugo-bare-min-theme/)|[
-Kaushal Modi
-](https://github.com/kaushalmodi/hugo-bare-min-theme/blob/master/exampleSite/config.toml)|
-MIT
-|
-67
-|
-2022-01-11
-|
-|[
 Binario
 ](https://themes.gohugo.io/themes/binario/)|[
 Vimux
@@ -133,6 +122,17 @@ Vimux
 MIT
 |
 66
+|
+2022-01-11
+|
+|[
+Bare Min
+](https://themes.gohugo.io/themes/hugo-bare-min-theme/)|[
+Kaushal Modi
+](https://github.com/kaushalmodi/hugo-bare-min-theme/blob/master/exampleSite/config.toml)|
+MIT
+|
+67
 |
 2022-01-11
 |
@@ -355,17 +355,6 @@ MIT
 2022-01-01
 |
 |[
-Bootstrap-BP
-](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
-Sebastian Pech
-](https://github.com/spech66/bootstrap-bp-hugo-theme)|
-MIT
-|
-38
-|
-2022-01-01
-|
-|[
 Bootstrap-BP-Startpage
 ](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
 Sebastian Pech
@@ -373,6 +362,17 @@ Sebastian Pech
 MIT
 |
 42
+|
+2022-01-01
+|
+|[
+Bootstrap-BP
+](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
+Sebastian Pech
+](https://github.com/spech66/bootstrap-bp-hugo-theme)|
+MIT
+|
+38
 |
 2022-01-01
 |
@@ -1013,22 +1013,22 @@ MIT
 2021-10-26
 |
 |[
-Alpha Church
-](https://themes.gohugo.io/themes/alpha-church/)|[
-Daniel Saunders
-](https://github.com/funkydan2/alpha-church)|
-Creative Commons Attribution 3.0
+Tokiwa
+](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
+He Yeshuang
+](https://github.com/Remix-Design/remixicon)|
+MIT
 |
 46
 |
 2021-10-26
 |
 |[
-Tokiwa
-](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
-He Yeshuang
-](https://github.com/Remix-Design/remixicon)|
-MIT
+Alpha Church
+](https://themes.gohugo.io/themes/alpha-church/)|[
+Daniel Saunders
+](https://github.com/funkydan2/alpha-church)|
+Creative Commons Attribution 3.0
 |
 46
 |
@@ -1398,17 +1398,6 @@ MIT
 2021-09-08
 |
 |[
-Restaurant Hugo
-](https://themes.gohugo.io/themes/restaurant-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
-MIT
-|
-35
-|
-2021-09-08
-|
-|[
 Infinity Hugo
 ](https://themes.gohugo.io/themes/infinity-hugo/)|[
 Themefisher
@@ -1416,6 +1405,17 @@ Themefisher
 MIT
 |
 36
+|
+2021-09-08
+|
+|[
+Restaurant Hugo
+](https://themes.gohugo.io/themes/restaurant-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
+MIT
+|
+35
 |
 2021-09-08
 |
@@ -2877,17 +2877,6 @@ MIT
 2020-11-05
 |
 |[
-Swift
-](https://themes.gohugo.io/themes/hugo-swift-theme/)|[
-weru
-](https://github.com/onweru/hugo-swift-theme/blob/master/LICENSE.md)|
-MIT
-|
-97
-|
-2020-11-01
-|
-|[
 pulp
 ](https://themes.gohugo.io/themes/pulp/)|[
 koirand
@@ -2895,6 +2884,17 @@ koirand
 MIT
 |
 102
+|
+2020-11-01
+|
+|[
+Swift
+](https://themes.gohugo.io/themes/hugo-swift-theme/)|[
+weru
+](https://github.com/onweru/hugo-swift-theme/blob/master/LICENSE.md)|
+MIT
+|
+97
 |
 2020-11-01
 |
@@ -3163,17 +3163,6 @@ MIT
 2020-07-12
 |
 |[
-Academia Hugo
-](https://themes.gohugo.io/themes/academia-hugo/)|[
-Themefisher
-](https://github.com/themefisher/academia-hugo/issues)|
-MIT
-|
-121
-|
-2020-07-05
-|
-|[
 Vex
 ](https://themes.gohugo.io/themes/vex-hugo/)|[
 Themefisher
@@ -3181,6 +3170,17 @@ Themefisher
 CC-BY-3.0
 |
 123
+|
+2020-07-05
+|
+|[
+Academia Hugo
+](https://themes.gohugo.io/themes/academia-hugo/)|[
+Themefisher
+](https://github.com/themefisher/academia-hugo/issues)|
+MIT
+|
+121
 |
 2020-07-05
 |
