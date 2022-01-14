@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-14 14:31:45 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-14 16:31:47 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -115,17 +115,6 @@ Apache
 2022-01-11
 |
 |[
-Bare Min
-](https://themes.gohugo.io/themes/hugo-bare-min-theme/)|[
-Kaushal Modi
-](https://github.com/kaushalmodi/hugo-bare-min-theme/blob/master/exampleSite/config.toml)|
-MIT
-|
-67
-|
-2022-01-11
-|
-|[
 Binario
 ](https://themes.gohugo.io/themes/binario/)|[
 Vimux
@@ -133,6 +122,17 @@ Vimux
 MIT
 |
 66
+|
+2022-01-11
+|
+|[
+Bare Min
+](https://themes.gohugo.io/themes/hugo-bare-min-theme/)|[
+Kaushal Modi
+](https://github.com/kaushalmodi/hugo-bare-min-theme/blob/master/exampleSite/config.toml)|
+MIT
+|
+67
 |
 2022-01-11
 |
@@ -1973,7 +1973,7 @@ MIT
 Bingo
 ](https://themes.gohugo.io/themes/hugo-bingo/)|[
 Bing-Sheng Chen
-](https://github.com/gundamew/hugo-bingo/blob/master/LICENSE)|
+](#)|
 MIT
 |
 11
@@ -3163,17 +3163,6 @@ MIT
 2020-07-12
 |
 |[
-Vex
-](https://themes.gohugo.io/themes/vex-hugo/)|[
-Themefisher
-](https://github.com/themefisher/vex-hugo/issues)|
-CC-BY-3.0
-|
-123
-|
-2020-07-05
-|
-|[
 Academia Hugo
 ](https://themes.gohugo.io/themes/academia-hugo/)|[
 Themefisher
@@ -3181,6 +3170,17 @@ Themefisher
 MIT
 |
 121
+|
+2020-07-05
+|
+|[
+Vex
+](https://themes.gohugo.io/themes/vex-hugo/)|[
+Themefisher
+](https://github.com/themefisher/vex-hugo/issues)|
+CC-BY-3.0
+|
+123
 |
 2020-07-05
 |
@@ -3282,17 +3282,6 @@ MIT
 2020-06-22
 |
 |[
-Notrack
-](https://themes.gohugo.io/themes/hugo-theme-notrack/)|[
-Simon Bengtsson
-](https://github.com/dillonzq/LoveIt/blob/master/assets/data/social.yml)|
-GPLv3
-|
-9
-|
-2020-06-16
-|
-|[
 simple-blog
 ](https://themes.gohugo.io/themes/hugo-theme-simple-blog/)|[
 10mohi6
@@ -3300,6 +3289,17 @@ simple-blog
 MIT
 |
 8
+|
+2020-06-16
+|
+|[
+Notrack
+](https://themes.gohugo.io/themes/hugo-theme-notrack/)|[
+Simon Bengtsson
+](https://github.com/dillonzq/LoveIt/blob/master/assets/data/social.yml)|
+GPLv3
+|
+9
 |
 2020-06-16
 |
@@ -3360,7 +3360,7 @@ MIT
 Bodhi Theme
 ](https://themes.gohugo.io/themes/bodhi/)|[
 Rohan Verma
-](https://github.com/rhnvrm/bodhi)|
+](#)|
 MIT
 |
 10
@@ -3412,22 +3412,22 @@ MIT
 2020-05-28
 |
 |[
-Resto Hugo
-](https://themes.gohugo.io/themes/resto-hugo/)|[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)|[
 Karthik
 ](#)|
-CC-BY-3.0
+MIT
 |
 0
 |
 2020-05-26
 |
 |[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)|[
+Resto Hugo
+](https://themes.gohugo.io/themes/resto-hugo/)|[
 Karthik
 ](#)|
-MIT
+CC-BY-3.0
 |
 0
 |
@@ -3727,17 +3727,6 @@ MIT
 2019-10-27
 |
 |[
-Spectre Pixel Theme
-](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
-Shin Tatt
-](https://github.com/digitalcraftsman/hugo-cactus-theme)|
-MIT
-|
-16
-|
-2019-10-12
-|
-|[
 Arabica
 ](https://themes.gohugo.io/themes/arabica/)|[
 Chen Fangzhou
@@ -3745,6 +3734,17 @@ Chen Fangzhou
 MIT
 |
 17
+|
+2019-10-12
+|
+|[
+Spectre Pixel Theme
+](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
+Shin Tatt
+](https://github.com/digitalcraftsman/hugo-cactus-theme)|
+MIT
+|
+16
 |
 2019-10-12
 |
