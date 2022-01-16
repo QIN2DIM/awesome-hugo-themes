@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-16 16:30:10 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-16 18:28:10 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -93,17 +93,6 @@ GPLv2
 2022-01-13
 |
 |[
-Binario
-](https://themes.gohugo.io/themes/binario/)|[
-Vimux
-](https://github.com/twbs/bootstrap/blob/v4-dev/dist/css/bootstrap-reboot.css)|
-MIT
-|
-66
-|
-2022-01-13
-|
-|[
 Minimal Bootstrap Hugo Theme
 ](https://themes.gohugo.io/themes/minimal-bootstrap-hugo-theme/)|[
 Zachary Betz
@@ -122,6 +111,17 @@ Gurusabarish
 MIT
 |
 64
+|
+2022-01-13
+|
+|[
+Binario
+](https://themes.gohugo.io/themes/binario/)|[
+Vimux
+](https://github.com/twbs/bootstrap/blob/v4-dev/dist/css/bootstrap-reboot.css)|
+MIT
+|
+66
 |
 2022-01-13
 |
@@ -487,17 +487,6 @@ MIT
 2021-12-31
 |
 |[
-Universal
-](https://themes.gohugo.io/themes/hugo-universal-theme/)|[
-adrianmo
-](https://github.com/devcows/hugo-universal-theme/pulls)|
-MIT
-|
-526
-|
-2021-12-28
-|
-|[
 Stack
 ](https://themes.gohugo.io/themes/hugo-theme-stack/)|[
 Jimmy Cai
@@ -505,6 +494,17 @@ Jimmy Cai
 GPL-3.0-only
 |
 1279
+|
+2021-12-28
+|
+|[
+Universal
+](https://themes.gohugo.io/themes/hugo-universal-theme/)|[
+adrianmo
+](https://github.com/devcows/hugo-universal-theme/pulls)|
+MIT
+|
+526
 |
 2021-12-28
 |
@@ -3390,17 +3390,6 @@ Creative Commons
 2020-05-29
 |
 |[
-Erblog
-](https://themes.gohugo.io/themes/erblog/)|[
-Ertuil
-](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
-MIT
-|
-52
-|
-2020-05-28
-|
-|[
 Jeffprod
 ](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
 @JeffProd
@@ -3408,6 +3397,17 @@ Jeffprod
 MIT
 |
 51
+|
+2020-05-28
+|
+|[
+Erblog
+](https://themes.gohugo.io/themes/erblog/)|[
+Ertuil
+](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
+MIT
+|
+52
 |
 2020-05-28
 |
@@ -3727,17 +3727,6 @@ MIT
 2019-10-27
 |
 |[
-Spectre Pixel Theme
-](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
-Shin Tatt
-](https://github.com/digitalcraftsman/hugo-cactus-theme)|
-MIT
-|
-16
-|
-2019-10-12
-|
-|[
 Arabica
 ](https://themes.gohugo.io/themes/arabica/)|[
 Chen Fangzhou
@@ -3745,6 +3734,17 @@ Chen Fangzhou
 MIT
 |
 17
+|
+2019-10-12
+|
+|[
+Spectre Pixel Theme
+](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
+Shin Tatt
+](https://github.com/digitalcraftsman/hugo-cactus-theme)|
+MIT
+|
+16
 |
 2019-10-12
 |
