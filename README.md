@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-17 12:35:00 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-17 14:32:01 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -71,17 +71,6 @@ MIT
 2022-01-13
 |
 |[
-Mainroad
-](https://themes.gohugo.io/themes/mainroad/)|[
-Vimux
-](https://github.com/Vimux/mainroad/blob/master/LICENSE.md)|
-GPLv2
-|
-594
-|
-2022-01-13
-|
-|[
 Toha
 ](https://themes.gohugo.io/themes/toha/)|[
 Emruz Hossain
@@ -89,6 +78,17 @@ Emruz Hossain
 MIT
 |
 416
+|
+2022-01-13
+|
+|[
+Mainroad
+](https://themes.gohugo.io/themes/mainroad/)|[
+Vimux
+](https://github.com/Vimux/mainroad/blob/master/LICENSE.md)|
+GPLv2
+|
+594
 |
 2022-01-13
 |
@@ -137,17 +137,6 @@ MIT
 2022-01-13
 |
 |[
-Flex-BP-CV
-](https://themes.gohugo.io/themes/flex-bp-hugo-cv/)|[
-Sebastian Pech
-](https://github.com/spech66/flex-bp-hugo-cv)|
-MIT
-|
-5
-|
-2022-01-13
-|
-|[
 Tella
 ](https://themes.gohugo.io/themes/tella/)|[
 wamo
@@ -155,6 +144,17 @@ wamo
 MIT
 |
 7
+|
+2022-01-13
+|
+|[
+Flex-BP-CV
+](https://themes.gohugo.io/themes/flex-bp-hugo-cv/)|[
+Sebastian Pech
+](https://github.com/spech66/flex-bp-hugo-cv)|
+MIT
+|
+5
 |
 2022-01-13
 |
@@ -1431,17 +1431,6 @@ MIT
 2021-09-08
 |
 |[
-Restaurant Hugo
-](https://themes.gohugo.io/themes/restaurant-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
-MIT
-|
-35
-|
-2021-09-08
-|
-|[
 Infinity Hugo
 ](https://themes.gohugo.io/themes/infinity-hugo/)|[
 Themefisher
@@ -1449,6 +1438,17 @@ Themefisher
 MIT
 |
 36
+|
+2021-09-08
+|
+|[
+Restaurant Hugo
+](https://themes.gohugo.io/themes/restaurant-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
+MIT
+|
+35
 |
 2021-09-08
 |
@@ -3390,17 +3390,6 @@ Creative Commons
 2020-05-29
 |
 |[
-Erblog
-](https://themes.gohugo.io/themes/erblog/)|[
-Ertuil
-](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
-MIT
-|
-52
-|
-2020-05-28
-|
-|[
 Jeffprod
 ](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
 @JeffProd
@@ -3412,15 +3401,15 @@ MIT
 2020-05-28
 |
 |[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)|[
-Karthik
-](#)|
+Erblog
+](https://themes.gohugo.io/themes/erblog/)|[
+Ertuil
+](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
 MIT
 |
-0
+52
 |
-2020-05-26
+2020-05-28
 |
 |[
 Resto Hugo
@@ -3428,6 +3417,17 @@ Resto Hugo
 Karthik
 ](#)|
 CC-BY-3.0
+|
+0
+|
+2020-05-26
+|
+|[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)|[
+Karthik
+](#)|
+MIT
 |
 0
 |
