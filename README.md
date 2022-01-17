@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-18 02:31:10 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-18 04:27:33 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -71,17 +71,6 @@ MIT
 2022-01-13
 |
 |[
-Mainroad
-](https://themes.gohugo.io/themes/mainroad/)|[
-Vimux
-](https://github.com/Vimux/mainroad/blob/master/LICENSE.md)|
-GPLv2
-|
-594
-|
-2022-01-13
-|
-|[
 Toha
 ](https://themes.gohugo.io/themes/toha/)|[
 Emruz Hossain
@@ -89,6 +78,17 @@ Emruz Hossain
 MIT
 |
 416
+|
+2022-01-13
+|
+|[
+Mainroad
+](https://themes.gohugo.io/themes/mainroad/)|[
+Vimux
+](https://github.com/Vimux/mainroad/blob/master/LICENSE.md)|
+GPLv2
+|
+594
 |
 2022-01-13
 |
@@ -104,17 +104,6 @@ MIT
 2022-01-13
 |
 |[
-Binario
-](https://themes.gohugo.io/themes/binario/)|[
-Vimux
-](https://github.com/twbs/bootstrap/blob/v4-dev/dist/css/bootstrap-reboot.css)|
-MIT
-|
-66
-|
-2022-01-13
-|
-|[
 Hugo Profile
 ](https://themes.gohugo.io/themes/hugo-profile/)|[
 Gurusabarish
@@ -122,6 +111,17 @@ Gurusabarish
 MIT
 |
 64
+|
+2022-01-13
+|
+|[
+Binario
+](https://themes.gohugo.io/themes/binario/)|[
+Vimux
+](https://github.com/twbs/bootstrap/blob/v4-dev/dist/css/bootstrap-reboot.css)|
+MIT
+|
+66
 |
 2022-01-13
 |
@@ -148,17 +148,6 @@ MIT
 2022-01-13
 |
 |[
-Flex-BP-CV
-](https://themes.gohugo.io/themes/flex-bp-hugo-cv/)|[
-Sebastian Pech
-](https://github.com/spech66/flex-bp-hugo-cv)|
-MIT
-|
-5
-|
-2022-01-13
-|
-|[
 Tella
 ](https://themes.gohugo.io/themes/tella/)|[
 wamo
@@ -166,6 +155,17 @@ wamo
 MIT
 |
 7
+|
+2022-01-13
+|
+|[
+Flex-BP-CV
+](https://themes.gohugo.io/themes/flex-bp-hugo-cv/)|[
+Sebastian Pech
+](https://github.com/spech66/flex-bp-hugo-cv)|
+MIT
+|
+5
 |
 2022-01-13
 |
@@ -3067,7 +3067,7 @@ MIT
 Simple Style
 ](https://themes.gohugo.io/themes/simple-style/)|[
 Linlin Yan
-](#)|
+](https://github.com/tholman/github-corners/blob/master/license.md)|
 MIT
 |
 19
@@ -3089,7 +3089,7 @@ Apache License 2.0
 Adam & Eve
 ](https://themes.gohugo.io/themes/hugo_theme_adam_eve/)|[
 Olivier DOSSMANN
-](#)|
+](https://github.com/blankoworld/hugo_theme_adam_eve)|
 MIT
 |
 15
@@ -3163,17 +3163,6 @@ MIT
 2020-07-12
 |
 |[
-Academia Hugo
-](https://themes.gohugo.io/themes/academia-hugo/)|[
-Themefisher
-](https://github.com/themefisher/academia-hugo/issues)|
-MIT
-|
-121
-|
-2020-07-05
-|
-|[
 Vex
 ](https://themes.gohugo.io/themes/vex-hugo/)|[
 Themefisher
@@ -3181,6 +3170,17 @@ Themefisher
 CC-BY-3.0
 |
 123
+|
+2020-07-05
+|
+|[
+Academia Hugo
+](https://themes.gohugo.io/themes/academia-hugo/)|[
+Themefisher
+](https://github.com/themefisher/academia-hugo/issues)|
+MIT
+|
+121
 |
 2020-07-05
 |
@@ -3412,22 +3412,22 @@ MIT
 2020-05-28
 |
 |[
-Resto Hugo
-](https://themes.gohugo.io/themes/resto-hugo/)|[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)|[
 Karthik
 ](#)|
-CC-BY-3.0
+MIT
 |
 0
 |
 2020-05-26
 |
 |[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)|[
+Resto Hugo
+](https://themes.gohugo.io/themes/resto-hugo/)|[
 Karthik
 ](#)|
-MIT
+CC-BY-3.0
 |
 0
 |
@@ -3727,17 +3727,6 @@ MIT
 2019-10-27
 |
 |[
-Arabica
-](https://themes.gohugo.io/themes/arabica/)|[
-Chen Fangzhou
-](https://github.com/nirocfz/arabica/blob/master/LICENSE)|
-MIT
-|
-17
-|
-2019-10-12
-|
-|[
 Spectre Pixel Theme
 ](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
 Shin Tatt
@@ -3745,6 +3734,17 @@ Shin Tatt
 MIT
 |
 16
+|
+2019-10-12
+|
+|[
+Arabica
+](https://themes.gohugo.io/themes/arabica/)|[
+Chen Fangzhou
+](https://github.com/nirocfz/arabica/blob/master/LICENSE)|
+MIT
+|
+17
 |
 2019-10-12
 |
