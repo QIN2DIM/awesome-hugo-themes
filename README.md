@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-18 20:42:21 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-18 22:24:15 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -104,17 +104,6 @@ MIT
 2022-01-13
 |
 |[
-Hugo Profile
-](https://themes.gohugo.io/themes/hugo-profile/)|[
-Gurusabarish
-](https://github.com/gurusabarish/hugo-profile/issues)|
-MIT
-|
-64
-|
-2022-01-13
-|
-|[
 Binario
 ](https://themes.gohugo.io/themes/binario/)|[
 Vimux
@@ -122,6 +111,17 @@ Vimux
 MIT
 |
 66
+|
+2022-01-13
+|
+|[
+Hugo Profile
+](https://themes.gohugo.io/themes/hugo-profile/)|[
+Gurusabarish
+](https://github.com/gurusabarish/hugo-profile/issues)|
+MIT
+|
+64
 |
 2022-01-13
 |
@@ -454,17 +454,6 @@ MIT
 2022-01-01
 |
 |[
-Bootstrap-BP
-](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
-Sebastian Pech
-](https://github.com/spech66/bootstrap-bp-hugo-theme)|
-MIT
-|
-38
-|
-2022-01-01
-|
-|[
 Bootstrap-BP-Startpage
 ](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
 Sebastian Pech
@@ -472,6 +461,17 @@ Sebastian Pech
 MIT
 |
 42
+|
+2022-01-01
+|
+|[
+Bootstrap-BP
+](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
+Sebastian Pech
+](https://github.com/spech66/bootstrap-bp-hugo-theme)|
+MIT
+|
+38
 |
 2022-01-01
 |
@@ -587,7 +587,7 @@ MIT
 |
 |[
 pixyll
-](https://themes.gohugo.io/themes/hugo-theme-pixyll/)|[nil](#)|
+](https://themes.gohugo.io/themes/hugo-theme-pixyll/)|[nil](https://github.com/johnotander/pixyll)|
 MIT
 |
 141
@@ -1093,7 +1093,7 @@ MIT
 Techdoc
 ](https://themes.gohugo.io/themes/hugo-theme-techdoc/)|[
 thingsym
-](#)|
+](https://github.com/iamkun/dayjs)|
 MIT
 |
 135
@@ -1431,17 +1431,6 @@ MIT
 2021-09-08
 |
 |[
-Infinity Hugo
-](https://themes.gohugo.io/themes/infinity-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
-MIT
-|
-36
-|
-2021-09-08
-|
-|[
 Restaurant Hugo
 ](https://themes.gohugo.io/themes/restaurant-hugo/)|[
 Themefisher
@@ -1449,6 +1438,17 @@ Themefisher
 MIT
 |
 35
+|
+2021-09-08
+|
+|[
+Infinity Hugo
+](https://themes.gohugo.io/themes/infinity-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
+MIT
+|
+36
 |
 2021-09-08
 |
@@ -1737,6 +1737,17 @@ MIT
 3
 |
 2021-08-02
+|
+|[
+prastoot
+](https://themes.gohugo.io/themes/prastoot/)|[
+Darshan Baral
+](https://github.com/darshanbaral/prastoot)|
+MIT
+|
+0
+|
+2021-07-31
 |
 |[
 Monochrome
@@ -2376,7 +2387,7 @@ GPLv3
 harbor
 ](https://themes.gohugo.io/themes/harbor/)|[
 matsuyoshi30
-](#)|
+](https://github.com/matsuyoshi30/harbor)|
 MIT
 |
 164
@@ -2866,17 +2877,6 @@ MIT
 2020-11-05
 |
 |[
-Swift
-](https://themes.gohugo.io/themes/hugo-swift-theme/)|[
-weru
-](https://github.com/onweru/hugo-swift-theme/blob/master/LICENSE.md)|
-MIT
-|
-97
-|
-2020-11-01
-|
-|[
 pulp
 ](https://themes.gohugo.io/themes/pulp/)|[
 koirand
@@ -2884,6 +2884,17 @@ koirand
 MIT
 |
 102
+|
+2020-11-01
+|
+|[
+Swift
+](https://themes.gohugo.io/themes/hugo-swift-theme/)|[
+weru
+](https://github.com/onweru/hugo-swift-theme/blob/master/LICENSE.md)|
+MIT
+|
+97
 |
 2020-11-01
 |
@@ -3401,22 +3412,22 @@ MIT
 2020-05-28
 |
 |[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)|[
+Resto Hugo
+](https://themes.gohugo.io/themes/resto-hugo/)|[
 Karthik
 ](#)|
-MIT
+CC-BY-3.0
 |
 0
 |
 2020-05-26
 |
 |[
-Resto Hugo
-](https://themes.gohugo.io/themes/resto-hugo/)|[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)|[
 Karthik
 ](#)|
-CC-BY-3.0
+MIT
 |
 0
 |
