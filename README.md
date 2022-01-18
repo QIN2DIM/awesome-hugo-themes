@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-18 09:25:06 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-18 10:44:39 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -104,17 +104,6 @@ MIT
 2022-01-13
 |
 |[
-Binario
-](https://themes.gohugo.io/themes/binario/)|[
-Vimux
-](https://github.com/twbs/bootstrap/blob/v4-dev/dist/css/bootstrap-reboot.css)|
-MIT
-|
-66
-|
-2022-01-13
-|
-|[
 Hugo Profile
 ](https://themes.gohugo.io/themes/hugo-profile/)|[
 Gurusabarish
@@ -126,6 +115,17 @@ MIT
 2022-01-13
 |
 |[
+Binario
+](https://themes.gohugo.io/themes/binario/)|[
+Vimux
+](https://github.com/twbs/bootstrap/blob/v4-dev/dist/css/bootstrap-reboot.css)|
+MIT
+|
+66
+|
+2022-01-13
+|
+|[
 Materialize-BP
 ](https://themes.gohugo.io/themes/materialize-bp-hugo-theme/)|[
 Sebastian Pech
@@ -133,17 +133,6 @@ Sebastian Pech
 MIT
 |
 14
-|
-2022-01-13
-|
-|[
-TechFeed
-](https://themes.gohugo.io/themes/techfeed-hugo/)|[
-gethugothemes
-](https://github.com/gethugothemes/techfeed-hugo/graphs/contributors)|
-MIT
-|
-7
 |
 2022-01-13
 |
@@ -166,6 +155,17 @@ Sebastian Pech
 MIT
 |
 5
+|
+2022-01-13
+|
+|[
+TechFeed
+](https://themes.gohugo.io/themes/techfeed-hugo/)|[
+gethugothemes
+](https://github.com/gethugothemes/techfeed-hugo/graphs/contributors)|
+MIT
+|
+7
 |
 2022-01-13
 |
@@ -399,6 +399,17 @@ MIT
 2022-01-04
 |
 |[
+Whisper
+](https://themes.gohugo.io/themes/hugo-whisper-theme/)|[
+Robert Austin
+](https://github.com/zerostaticthemes/hugo-winston-theme)|
+MIT
+|
+175
+|
+2022-01-03
+|
+|[
 Air
 ](https://themes.gohugo.io/themes/hugo-theme-air/)|[
 syui
@@ -417,17 +428,6 @@ Robert Austin
 MIT
 |
 18
-|
-2022-01-03
-|
-|[
-Whisper
-](https://themes.gohugo.io/themes/hugo-whisper-theme/)|[
-Robert Austin
-](https://github.com/zerostaticthemes/hugo-winston-theme)|
-MIT
-|
-175
 |
 2022-01-03
 |
@@ -835,6 +835,17 @@ MIT
 5
 |
 2021-11-28
+|
+|[
+Relearn
+](https://themes.gohugo.io/themes/hugo-theme-relearn/)|[
+Sören Weber
+](https://github.com/matcornic/hugo-theme-learn)|
+MIT
+|
+25
+|
+2021-11-26
 |
 |[
 XMag
@@ -1420,17 +1431,6 @@ MIT
 2021-09-08
 |
 |[
-Infinity Hugo
-](https://themes.gohugo.io/themes/infinity-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
-MIT
-|
-36
-|
-2021-09-08
-|
-|[
 Restaurant Hugo
 ](https://themes.gohugo.io/themes/restaurant-hugo/)|[
 Themefisher
@@ -1438,6 +1438,17 @@ Themefisher
 MIT
 |
 35
+|
+2021-09-08
+|
+|[
+Infinity Hugo
+](https://themes.gohugo.io/themes/infinity-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
+MIT
+|
+36
 |
 2021-09-08
 |
@@ -1882,17 +1893,6 @@ MIT
 2021-07-08
 |
 |[
-Venture
-](https://themes.gohugo.io/themes/venture/)|[
-William Toll
-](https://github.com/Wtoll/venture)|
-MIT
-|
-1
-|
-2021-07-08
-|
-|[
 Split Landing
 ](https://themes.gohugo.io/themes/split-landing/)|[
 Katajun
@@ -1900,6 +1900,17 @@ Katajun
 MIT
 |
 0
+|
+2021-07-08
+|
+|[
+Venture
+](https://themes.gohugo.io/themes/venture/)|[
+William Toll
+](https://github.com/Wtoll/venture)|
+MIT
+|
+1
 |
 2021-07-08
 |
@@ -3379,17 +3390,6 @@ Creative Commons
 2020-05-29
 |
 |[
-Jeffprod
-](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
-@JeffProd
-](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
-MIT
-|
-51
-|
-2020-05-28
-|
-|[
 Erblog
 ](https://themes.gohugo.io/themes/erblog/)|[
 Ertuil
@@ -3401,15 +3401,15 @@ MIT
 2020-05-28
 |
 |[
-Resto Hugo
-](https://themes.gohugo.io/themes/resto-hugo/)|[
-Karthik
-](#)|
-CC-BY-3.0
+Jeffprod
+](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
+@JeffProd
+](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
+MIT
 |
-0
+51
 |
-2020-05-26
+2020-05-28
 |
 |[
 monopriv
@@ -3417,6 +3417,17 @@ monopriv
 Karthik
 ](#)|
 MIT
+|
+0
+|
+2020-05-26
+|
+|[
+Resto Hugo
+](https://themes.gohugo.io/themes/resto-hugo/)|[
+Karthik
+](#)|
+CC-BY-3.0
 |
 0
 |
@@ -3716,17 +3727,6 @@ MIT
 2019-10-27
 |
 |[
-Arabica
-](https://themes.gohugo.io/themes/arabica/)|[
-Chen Fangzhou
-](https://github.com/nirocfz/arabica/blob/master/LICENSE)|
-MIT
-|
-17
-|
-2019-10-12
-|
-|[
 Spectre Pixel Theme
 ](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
 Shin Tatt
@@ -3734,6 +3734,17 @@ Shin Tatt
 MIT
 |
 16
+|
+2019-10-12
+|
+|[
+Arabica
+](https://themes.gohugo.io/themes/arabica/)|[
+Chen Fangzhou
+](https://github.com/nirocfz/arabica/blob/master/LICENSE)|
+MIT
+|
+17
 |
 2019-10-12
 |
