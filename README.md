@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-18 18:28:57 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-18 20:42:21 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -104,17 +104,6 @@ MIT
 2022-01-13
 |
 |[
-Binario
-](https://themes.gohugo.io/themes/binario/)|[
-Vimux
-](https://github.com/twbs/bootstrap/blob/v4-dev/dist/css/bootstrap-reboot.css)|
-MIT
-|
-66
-|
-2022-01-13
-|
-|[
 Hugo Profile
 ](https://themes.gohugo.io/themes/hugo-profile/)|[
 Gurusabarish
@@ -122,6 +111,17 @@ Gurusabarish
 MIT
 |
 64
+|
+2022-01-13
+|
+|[
+Binario
+](https://themes.gohugo.io/themes/binario/)|[
+Vimux
+](https://github.com/twbs/bootstrap/blob/v4-dev/dist/css/bootstrap-reboot.css)|
+MIT
+|
+66
 |
 2022-01-13
 |
@@ -454,17 +454,6 @@ MIT
 2022-01-01
 |
 |[
-Bootstrap-BP-Startpage
-](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
-Sebastian Pech
-](https://github.com/ViktorKare/startpage)|
-MIT
-|
-42
-|
-2022-01-01
-|
-|[
 Bootstrap-BP
 ](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
 Sebastian Pech
@@ -472,6 +461,17 @@ Sebastian Pech
 MIT
 |
 38
+|
+2022-01-01
+|
+|[
+Bootstrap-BP-Startpage
+](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
+Sebastian Pech
+](https://github.com/ViktorKare/startpage)|
+MIT
+|
+42
 |
 2022-01-01
 |
@@ -587,7 +587,7 @@ MIT
 |
 |[
 pixyll
-](https://themes.gohugo.io/themes/hugo-theme-pixyll/)|[nil](https://github.com/johnotander/pixyll)|
+](https://themes.gohugo.io/themes/hugo-theme-pixyll/)|[nil](#)|
 MIT
 |
 141
@@ -1093,7 +1093,7 @@ MIT
 Techdoc
 ](https://themes.gohugo.io/themes/hugo-theme-techdoc/)|[
 thingsym
-](https://github.com/iamkun/dayjs)|
+](#)|
 MIT
 |
 135
@@ -1739,17 +1739,6 @@ MIT
 2021-08-02
 |
 |[
-prastoot
-](https://themes.gohugo.io/themes/prastoot/)|[
-Darshan Baral
-](https://github.com/darshanbaral/prastoot)|
-MIT
-|
-0
-|
-2021-07-31
-|
-|[
 Monochrome
 ](https://themes.gohugo.io/themes/hugo-theme-monochrome/)|[
 You-Kai Zheng
@@ -2387,7 +2376,7 @@ GPLv3
 harbor
 ](https://themes.gohugo.io/themes/harbor/)|[
 matsuyoshi30
-](https://github.com/matsuyoshi30/harbor)|
+](#)|
 MIT
 |
 164
@@ -2877,17 +2866,6 @@ MIT
 2020-11-05
 |
 |[
-pulp
-](https://themes.gohugo.io/themes/pulp/)|[
-koirand
-](https://github.com/koirand/pulp)|
-MIT
-|
-102
-|
-2020-11-01
-|
-|[
 Swift
 ](https://themes.gohugo.io/themes/hugo-swift-theme/)|[
 weru
@@ -2895,6 +2873,17 @@ weru
 MIT
 |
 97
+|
+2020-11-01
+|
+|[
+pulp
+](https://themes.gohugo.io/themes/pulp/)|[
+koirand
+](https://github.com/koirand/pulp)|
+MIT
+|
+102
 |
 2020-11-01
 |
@@ -3412,22 +3401,22 @@ MIT
 2020-05-28
 |
 |[
-Resto Hugo
-](https://themes.gohugo.io/themes/resto-hugo/)|[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)|[
 Karthik
 ](#)|
-CC-BY-3.0
+MIT
 |
 0
 |
 2020-05-26
 |
 |[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)|[
+Resto Hugo
+](https://themes.gohugo.io/themes/resto-hugo/)|[
 Karthik
 ](#)|
-MIT
+CC-BY-3.0
 |
 0
 |
