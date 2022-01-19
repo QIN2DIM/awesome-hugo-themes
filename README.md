@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-19 20:37:19 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-19 22:21:22 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -71,17 +71,6 @@ MIT
 2022-01-13
 |
 |[
-Mainroad
-](https://themes.gohugo.io/themes/mainroad/)|[
-Vimux
-](https://github.com/Vimux/mainroad/blob/master/LICENSE.md)|
-GPLv2
-|
-594
-|
-2022-01-13
-|
-|[
 Toha
 ](https://themes.gohugo.io/themes/toha/)|[
 Emruz Hossain
@@ -89,6 +78,17 @@ Emruz Hossain
 MIT
 |
 416
+|
+2022-01-13
+|
+|[
+Mainroad
+](https://themes.gohugo.io/themes/mainroad/)|[
+Vimux
+](https://github.com/Vimux/mainroad/blob/master/LICENSE.md)|
+GPLv2
+|
+594
 |
 2022-01-13
 |
@@ -137,6 +137,17 @@ MIT
 2022-01-13
 |
 |[
+Flex-BP-CV
+](https://themes.gohugo.io/themes/flex-bp-hugo-cv/)|[
+Sebastian Pech
+](https://github.com/spech66/flex-bp-hugo-cv)|
+MIT
+|
+5
+|
+2022-01-13
+|
+|[
 Tella
 ](https://themes.gohugo.io/themes/tella/)|[
 wamo
@@ -155,17 +166,6 @@ gethugothemes
 MIT
 |
 7
-|
-2022-01-13
-|
-|[
-Flex-BP-CV
-](https://themes.gohugo.io/themes/flex-bp-hugo-cv/)|[
-Sebastian Pech
-](https://github.com/spech66/flex-bp-hugo-cv)|
-MIT
-|
-5
 |
 2022-01-13
 |
@@ -454,17 +454,6 @@ MIT
 2022-01-01
 |
 |[
-Bootstrap-BP-Startpage
-](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
-Sebastian Pech
-](https://github.com/ViktorKare/startpage)|
-MIT
-|
-42
-|
-2022-01-01
-|
-|[
 Bootstrap-BP
 ](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
 Sebastian Pech
@@ -472,6 +461,17 @@ Sebastian Pech
 MIT
 |
 38
+|
+2022-01-01
+|
+|[
+Bootstrap-BP-Startpage
+](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
+Sebastian Pech
+](https://github.com/ViktorKare/startpage)|
+MIT
+|
+42
 |
 2022-01-01
 |
@@ -1046,22 +1046,22 @@ MIT
 2021-10-26
 |
 |[
-Tokiwa
-](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
-He Yeshuang
-](https://github.com/Remix-Design/remixicon)|
-MIT
+Alpha Church
+](https://themes.gohugo.io/themes/alpha-church/)|[
+Daniel Saunders
+](https://github.com/funkydan2/alpha-church)|
+Creative Commons Attribution 3.0
 |
 46
 |
 2021-10-26
 |
 |[
-Alpha Church
-](https://themes.gohugo.io/themes/alpha-church/)|[
-Daniel Saunders
-](https://github.com/funkydan2/alpha-church)|
-Creative Commons Attribution 3.0
+Tokiwa
+](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
+He Yeshuang
+](https://github.com/Remix-Design/remixicon)|
+MIT
 |
 46
 |
@@ -1431,17 +1431,6 @@ MIT
 2021-09-08
 |
 |[
-Infinity Hugo
-](https://themes.gohugo.io/themes/infinity-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
-MIT
-|
-36
-|
-2021-09-08
-|
-|[
 Restaurant Hugo
 ](https://themes.gohugo.io/themes/restaurant-hugo/)|[
 Themefisher
@@ -1449,6 +1438,17 @@ Themefisher
 MIT
 |
 35
+|
+2021-09-08
+|
+|[
+Infinity Hugo
+](https://themes.gohugo.io/themes/infinity-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
+MIT
+|
+36
 |
 2021-09-08
 |
@@ -3163,17 +3163,6 @@ MIT
 2020-07-12
 |
 |[
-Vex
-](https://themes.gohugo.io/themes/vex-hugo/)|[
-Themefisher
-](https://github.com/themefisher/vex-hugo/issues)|
-CC-BY-3.0
-|
-123
-|
-2020-07-05
-|
-|[
 Academia Hugo
 ](https://themes.gohugo.io/themes/academia-hugo/)|[
 Themefisher
@@ -3181,6 +3170,17 @@ Themefisher
 MIT
 |
 121
+|
+2020-07-05
+|
+|[
+Vex
+](https://themes.gohugo.io/themes/vex-hugo/)|[
+Themefisher
+](https://github.com/themefisher/vex-hugo/issues)|
+CC-BY-3.0
+|
+123
 |
 2020-07-05
 |
@@ -3390,17 +3390,6 @@ Creative Commons
 2020-05-29
 |
 |[
-Jeffprod
-](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
-@JeffProd
-](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
-MIT
-|
-51
-|
-2020-05-28
-|
-|[
 Erblog
 ](https://themes.gohugo.io/themes/erblog/)|[
 Ertuil
@@ -3408,6 +3397,17 @@ Ertuil
 MIT
 |
 52
+|
+2020-05-28
+|
+|[
+Jeffprod
+](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
+@JeffProd
+](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
+MIT
+|
+51
 |
 2020-05-28
 |
