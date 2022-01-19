@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-20 04:24:32 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-20 06:23:49 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -104,17 +104,6 @@ MIT
 2022-01-13
 |
 |[
-Hugo Profile
-](https://themes.gohugo.io/themes/hugo-profile/)|[
-Gurusabarish
-](https://github.com/gurusabarish/hugo-profile/issues)|
-MIT
-|
-64
-|
-2022-01-13
-|
-|[
 Binario
 ](https://themes.gohugo.io/themes/binario/)|[
 Vimux
@@ -126,6 +115,17 @@ MIT
 2022-01-13
 |
 |[
+Hugo Profile
+](https://themes.gohugo.io/themes/hugo-profile/)|[
+Gurusabarish
+](https://github.com/gurusabarish/hugo-profile/issues)|
+MIT
+|
+64
+|
+2022-01-13
+|
+|[
 Materialize-BP
 ](https://themes.gohugo.io/themes/materialize-bp-hugo-theme/)|[
 Sebastian Pech
@@ -133,17 +133,6 @@ Sebastian Pech
 MIT
 |
 14
-|
-2022-01-13
-|
-|[
-Flex-BP-CV
-](https://themes.gohugo.io/themes/flex-bp-hugo-cv/)|[
-Sebastian Pech
-](https://github.com/spech66/flex-bp-hugo-cv)|
-MIT
-|
-5
 |
 2022-01-13
 |
@@ -166,6 +155,17 @@ gethugothemes
 MIT
 |
 7
+|
+2022-01-13
+|
+|[
+Flex-BP-CV
+](https://themes.gohugo.io/themes/flex-bp-hugo-cv/)|[
+Sebastian Pech
+](https://github.com/spech66/flex-bp-hugo-cv)|
+MIT
+|
+5
 |
 2022-01-13
 |
@@ -369,7 +369,7 @@ MIT
 ghostwriter
 ](https://themes.gohugo.io/themes/ghostwriter/)|[
 Juraj Bubniak
-](#)|
+](https://github.com/roryg/ghostwriter)|
 MIT
 |
 163
@@ -1046,22 +1046,22 @@ MIT
 2021-10-26
 |
 |[
-Alpha Church
-](https://themes.gohugo.io/themes/alpha-church/)|[
-Daniel Saunders
-](https://github.com/funkydan2/alpha-church)|
-Creative Commons Attribution 3.0
+Tokiwa
+](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
+He Yeshuang
+](https://github.com/Remix-Design/remixicon)|
+MIT
 |
 46
 |
 2021-10-26
 |
 |[
-Tokiwa
-](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
-He Yeshuang
-](https://github.com/Remix-Design/remixicon)|
-MIT
+Alpha Church
+](https://themes.gohugo.io/themes/alpha-church/)|[
+Daniel Saunders
+](https://github.com/funkydan2/alpha-church)|
+Creative Commons Attribution 3.0
 |
 46
 |
@@ -1893,17 +1893,6 @@ MIT
 2021-07-08
 |
 |[
-Venture
-](https://themes.gohugo.io/themes/venture/)|[
-William Toll
-](https://github.com/Wtoll/venture)|
-MIT
-|
-1
-|
-2021-07-08
-|
-|[
 Split Landing
 ](https://themes.gohugo.io/themes/split-landing/)|[
 Katajun
@@ -1911,6 +1900,17 @@ Katajun
 MIT
 |
 0
+|
+2021-07-08
+|
+|[
+Venture
+](https://themes.gohugo.io/themes/venture/)|[
+William Toll
+](https://github.com/Wtoll/venture)|
+MIT
+|
+1
 |
 2021-07-08
 |
@@ -3282,17 +3282,6 @@ MIT
 2020-06-22
 |
 |[
-Notrack
-](https://themes.gohugo.io/themes/hugo-theme-notrack/)|[
-Simon Bengtsson
-](https://github.com/dillonzq/LoveIt/blob/master/assets/data/social.yml)|
-GPLv3
-|
-9
-|
-2020-06-16
-|
-|[
 simple-blog
 ](https://themes.gohugo.io/themes/hugo-theme-simple-blog/)|[
 10mohi6
@@ -3300,6 +3289,17 @@ simple-blog
 MIT
 |
 8
+|
+2020-06-16
+|
+|[
+Notrack
+](https://themes.gohugo.io/themes/hugo-theme-notrack/)|[
+Simon Bengtsson
+](https://github.com/dillonzq/LoveIt/blob/master/assets/data/social.yml)|
+GPLv3
+|
+9
 |
 2020-06-16
 |
@@ -3390,17 +3390,6 @@ Creative Commons
 2020-05-29
 |
 |[
-Jeffprod
-](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
-@JeffProd
-](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
-MIT
-|
-51
-|
-2020-05-28
-|
-|[
 Erblog
 ](https://themes.gohugo.io/themes/erblog/)|[
 Ertuil
@@ -3412,15 +3401,15 @@ MIT
 2020-05-28
 |
 |[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)|[
-Karthik
-](#)|
+Jeffprod
+](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
+@JeffProd
+](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
 MIT
 |
-0
+51
 |
-2020-05-26
+2020-05-28
 |
 |[
 Resto Hugo
@@ -3428,6 +3417,17 @@ Resto Hugo
 Karthik
 ](#)|
 CC-BY-3.0
+|
+0
+|
+2020-05-26
+|
+|[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)|[
+Karthik
+](#)|
+MIT
 |
 0
 |
@@ -3564,15 +3564,6 @@ MIT
 2020-02-17
 |
 |[
-OneDly Project
-](https://themes.gohugo.io/themes/onedly-theme/)|[nil](https://github.com/cdeck3r/OneDly-Theme/blob/master/exampleSite/config.toml)|
-MIT
-|
-11
-|
-2020-01-27
-|
-|[
 Papaya
 ](https://themes.gohugo.io/themes/papaya/)|[
 Pedro Lopez
@@ -3580,6 +3571,15 @@ Pedro Lopez
 MIT
 |
 15
+|
+2020-01-27
+|
+|[
+OneDly Project
+](https://themes.gohugo.io/themes/onedly-theme/)|[nil](https://github.com/cdeck3r/OneDly-Theme/blob/master/exampleSite/config.toml)|
+MIT
+|
+11
 |
 2020-01-27
 |
@@ -3593,6 +3593,17 @@ MIT
 11
 |
 2020-01-24
+|
+|[
+Business Frontpage
+](https://themes.gohugo.io/themes/hugo-business-frontpage-theme/)|[
+Jerry Kiely
+](https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/gh-pages/LICENSE)|
+MIT
+|
+15
+|
+2020-01-13
 |
 |[
 Hugo frais
@@ -3716,17 +3727,6 @@ MIT
 2019-10-27
 |
 |[
-Arabica
-](https://themes.gohugo.io/themes/arabica/)|[
-Chen Fangzhou
-](https://github.com/nirocfz/arabica/blob/master/LICENSE)|
-MIT
-|
-17
-|
-2019-10-12
-|
-|[
 Spectre Pixel Theme
 ](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
 Shin Tatt
@@ -3734,6 +3734,17 @@ Shin Tatt
 MIT
 |
 16
+|
+2019-10-12
+|
+|[
+Arabica
+](https://themes.gohugo.io/themes/arabica/)|[
+Chen Fangzhou
+](https://github.com/nirocfz/arabica/blob/master/LICENSE)|
+MIT
+|
+17
 |
 2019-10-12
 |
