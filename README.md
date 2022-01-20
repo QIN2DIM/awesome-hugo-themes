@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-20 18:26:07 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-20 20:38:16 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -71,17 +71,6 @@ MIT
 2022-01-13
 |
 |[
-Toha
-](https://themes.gohugo.io/themes/toha/)|[
-Emruz Hossain
-](https://github.com/hugo-toha/toha)|
-MIT
-|
-416
-|
-2022-01-13
-|
-|[
 Mainroad
 ](https://themes.gohugo.io/themes/mainroad/)|[
 Vimux
@@ -89,6 +78,17 @@ Vimux
 GPLv2
 |
 594
+|
+2022-01-13
+|
+|[
+Toha
+](https://themes.gohugo.io/themes/toha/)|[
+Emruz Hossain
+](https://github.com/hugo-toha/toha)|
+MIT
+|
+416
 |
 2022-01-13
 |
@@ -104,17 +104,6 @@ MIT
 2022-01-13
 |
 |[
-Hugo Profile
-](https://themes.gohugo.io/themes/hugo-profile/)|[
-Gurusabarish
-](https://github.com/gurusabarish/hugo-profile/issues)|
-MIT
-|
-64
-|
-2022-01-13
-|
-|[
 Binario
 ](https://themes.gohugo.io/themes/binario/)|[
 Vimux
@@ -122,6 +111,17 @@ Vimux
 MIT
 |
 66
+|
+2022-01-13
+|
+|[
+Hugo Profile
+](https://themes.gohugo.io/themes/hugo-profile/)|[
+Gurusabarish
+](https://github.com/gurusabarish/hugo-profile/issues)|
+MIT
+|
+64
 |
 2022-01-13
 |
@@ -148,17 +148,6 @@ MIT
 2022-01-13
 |
 |[
-Flex-BP-CV
-](https://themes.gohugo.io/themes/flex-bp-hugo-cv/)|[
-Sebastian Pech
-](https://github.com/spech66/flex-bp-hugo-cv)|
-MIT
-|
-5
-|
-2022-01-13
-|
-|[
 Tella
 ](https://themes.gohugo.io/themes/tella/)|[
 wamo
@@ -166,6 +155,17 @@ wamo
 MIT
 |
 7
+|
+2022-01-13
+|
+|[
+Flex-BP-CV
+](https://themes.gohugo.io/themes/flex-bp-hugo-cv/)|[
+Sebastian Pech
+](https://github.com/spech66/flex-bp-hugo-cv)|
+MIT
+|
+5
 |
 2022-01-13
 |
@@ -454,17 +454,6 @@ MIT
 2022-01-01
 |
 |[
-Bootstrap-BP-Startpage
-](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
-Sebastian Pech
-](https://github.com/ViktorKare/startpage)|
-MIT
-|
-42
-|
-2022-01-01
-|
-|[
 Bootstrap-BP
 ](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
 Sebastian Pech
@@ -472,6 +461,17 @@ Sebastian Pech
 MIT
 |
 38
+|
+2022-01-01
+|
+|[
+Bootstrap-BP-Startpage
+](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
+Sebastian Pech
+](https://github.com/ViktorKare/startpage)|
+MIT
+|
+42
 |
 2022-01-01
 |
@@ -1046,22 +1046,22 @@ MIT
 2021-10-26
 |
 |[
-Tokiwa
-](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
-He Yeshuang
-](https://github.com/Remix-Design/remixicon)|
-MIT
+Alpha Church
+](https://themes.gohugo.io/themes/alpha-church/)|[
+Daniel Saunders
+](https://github.com/funkydan2/alpha-church)|
+Creative Commons Attribution 3.0
 |
 46
 |
 2021-10-26
 |
 |[
-Alpha Church
-](https://themes.gohugo.io/themes/alpha-church/)|[
-Daniel Saunders
-](https://github.com/funkydan2/alpha-church)|
-Creative Commons Attribution 3.0
+Tokiwa
+](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
+He Yeshuang
+](https://github.com/Remix-Design/remixicon)|
+MIT
 |
 46
 |
@@ -1431,17 +1431,6 @@ MIT
 2021-09-08
 |
 |[
-Restaurant Hugo
-](https://themes.gohugo.io/themes/restaurant-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
-MIT
-|
-35
-|
-2021-09-08
-|
-|[
 Infinity Hugo
 ](https://themes.gohugo.io/themes/infinity-hugo/)|[
 Themefisher
@@ -1449,6 +1438,17 @@ Themefisher
 MIT
 |
 36
+|
+2021-09-08
+|
+|[
+Restaurant Hugo
+](https://themes.gohugo.io/themes/restaurant-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)|
+MIT
+|
+35
 |
 2021-09-08
 |
@@ -1581,17 +1581,6 @@ setsevireon
 MIT
 |
 8
-|
-2021-08-18
-|
-|[
-redgood
-](https://themes.gohugo.io/themes/redgood/)|[
-Urja Acharya
-](https://github.com/urjaacharya/redgood)|
-MIT
-|
-1
 |
 2021-08-18
 |
@@ -2770,7 +2759,7 @@ CC-BY-SA-4.0
 Tikva
 ](https://themes.gohugo.io/themes/hugo-tikva/)|[
 Ralf Geschke
-](https://github.com/geschke/hugo-tikva/issues)|
+](#)|
 MIT
 |
 7
@@ -2877,17 +2866,6 @@ MIT
 2020-11-05
 |
 |[
-pulp
-](https://themes.gohugo.io/themes/pulp/)|[
-koirand
-](https://github.com/koirand/pulp)|
-MIT
-|
-102
-|
-2020-11-01
-|
-|[
 Swift
 ](https://themes.gohugo.io/themes/hugo-swift-theme/)|[
 weru
@@ -2895,6 +2873,17 @@ weru
 MIT
 |
 97
+|
+2020-11-01
+|
+|[
+pulp
+](https://themes.gohugo.io/themes/pulp/)|[
+koirand
+](https://github.com/koirand/pulp)|
+MIT
+|
+102
 |
 2020-11-01
 |
@@ -3992,7 +3981,7 @@ MIT
 sky
 ](https://themes.gohugo.io/themes/hugo-theme-sky/)|[
 Chris Frome
-](https://github.com/cfrome77/hugo-theme-sky)|
+](#)|
 MIT
 |
 2
