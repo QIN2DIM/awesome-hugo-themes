@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-20 14:28:09 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-20 16:28:15 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -71,17 +71,6 @@ MIT
 2022-01-13
 |
 |[
-Mainroad
-](https://themes.gohugo.io/themes/mainroad/)|[
-Vimux
-](https://github.com/Vimux/mainroad/blob/master/LICENSE.md)|
-GPLv2
-|
-594
-|
-2022-01-13
-|
-|[
 Toha
 ](https://themes.gohugo.io/themes/toha/)|[
 Emruz Hossain
@@ -89,6 +78,17 @@ Emruz Hossain
 MIT
 |
 416
+|
+2022-01-13
+|
+|[
+Mainroad
+](https://themes.gohugo.io/themes/mainroad/)|[
+Vimux
+](https://github.com/Vimux/mainroad/blob/master/LICENSE.md)|
+GPLv2
+|
+594
 |
 2022-01-13
 |
@@ -137,10 +137,10 @@ MIT
 2022-01-13
 |
 |[
-Tella
-](https://themes.gohugo.io/themes/tella/)|[
-wamo
-](https://github.com/opera7133/tella/blob/master/LICENSE)|
+TechFeed
+](https://themes.gohugo.io/themes/techfeed-hugo/)|[
+gethugothemes
+](https://github.com/gethugothemes/techfeed-hugo/graphs/contributors)|
 MIT
 |
 7
@@ -148,10 +148,10 @@ MIT
 2022-01-13
 |
 |[
-TechFeed
-](https://themes.gohugo.io/themes/techfeed-hugo/)|[
-gethugothemes
-](https://github.com/gethugothemes/techfeed-hugo/graphs/contributors)|
+Tella
+](https://themes.gohugo.io/themes/tella/)|[
+wamo
+](https://github.com/opera7133/tella/blob/master/LICENSE)|
 MIT
 |
 7
@@ -454,17 +454,6 @@ MIT
 2022-01-01
 |
 |[
-Bootstrap-BP-Startpage
-](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
-Sebastian Pech
-](https://github.com/ViktorKare/startpage)|
-MIT
-|
-42
-|
-2022-01-01
-|
-|[
 Bootstrap-BP
 ](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[
 Sebastian Pech
@@ -472,6 +461,17 @@ Sebastian Pech
 MIT
 |
 38
+|
+2022-01-01
+|
+|[
+Bootstrap-BP-Startpage
+](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
+Sebastian Pech
+](https://github.com/ViktorKare/startpage)|
+MIT
+|
+42
 |
 2022-01-01
 |
@@ -1046,22 +1046,22 @@ MIT
 2021-10-26
 |
 |[
-Tokiwa
-](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
-He Yeshuang
-](https://github.com/Remix-Design/remixicon)|
-MIT
+Alpha Church
+](https://themes.gohugo.io/themes/alpha-church/)|[
+Daniel Saunders
+](https://github.com/funkydan2/alpha-church)|
+Creative Commons Attribution 3.0
 |
 46
 |
 2021-10-26
 |
 |[
-Alpha Church
-](https://themes.gohugo.io/themes/alpha-church/)|[
-Daniel Saunders
-](https://github.com/funkydan2/alpha-church)|
-Creative Commons Attribution 3.0
+Tokiwa
+](https://themes.gohugo.io/themes/hugo-theme-tokiwa/)|[
+He Yeshuang
+](https://github.com/Remix-Design/remixicon)|
+MIT
 |
 46
 |
@@ -1431,17 +1431,6 @@ MIT
 2021-09-08
 |
 |[
-Infinity Hugo
-](https://themes.gohugo.io/themes/infinity-hugo/)|[
-Themefisher
-](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
-MIT
-|
-36
-|
-2021-09-08
-|
-|[
 Restaurant Hugo
 ](https://themes.gohugo.io/themes/restaurant-hugo/)|[
 Themefisher
@@ -1449,6 +1438,17 @@ Themefisher
 MIT
 |
 35
+|
+2021-09-08
+|
+|[
+Infinity Hugo
+](https://themes.gohugo.io/themes/infinity-hugo/)|[
+Themefisher
+](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)|
+MIT
+|
+36
 |
 2021-09-08
 |
@@ -3282,17 +3282,6 @@ MIT
 2020-06-22
 |
 |[
-Notrack
-](https://themes.gohugo.io/themes/hugo-theme-notrack/)|[
-Simon Bengtsson
-](https://github.com/dillonzq/LoveIt/blob/master/assets/data/social.yml)|
-GPLv3
-|
-9
-|
-2020-06-16
-|
-|[
 simple-blog
 ](https://themes.gohugo.io/themes/hugo-theme-simple-blog/)|[
 10mohi6
@@ -3300,6 +3289,17 @@ simple-blog
 MIT
 |
 8
+|
+2020-06-16
+|
+|[
+Notrack
+](https://themes.gohugo.io/themes/hugo-theme-notrack/)|[
+Simon Bengtsson
+](https://github.com/dillonzq/LoveIt/blob/master/assets/data/social.yml)|
+GPLv3
+|
+9
 |
 2020-06-16
 |
