@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-22 04:23:21 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-22 06:23:39 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -71,17 +71,6 @@ MIT
 2022-01-13
 |
 |[
-Mainroad
-](https://themes.gohugo.io/themes/mainroad/)|[
-Vimux
-](https://github.com/Vimux/mainroad/blob/master/LICENSE.md)|
-GPLv2
-|
-594
-|
-2022-01-13
-|
-|[
 Toha
 ](https://themes.gohugo.io/themes/toha/)|[
 Emruz Hossain
@@ -93,13 +82,13 @@ MIT
 2022-01-13
 |
 |[
-Binario
-](https://themes.gohugo.io/themes/binario/)|[
+Mainroad
+](https://themes.gohugo.io/themes/mainroad/)|[
 Vimux
-](https://github.com/twbs/bootstrap/blob/v4-dev/dist/css/bootstrap-reboot.css)|
-MIT
+](https://github.com/Vimux/mainroad/blob/master/LICENSE.md)|
+GPLv2
 |
-66
+594
 |
 2022-01-13
 |
@@ -111,6 +100,17 @@ Zachary Betz
 MIT
 |
 74
+|
+2022-01-13
+|
+|[
+Binario
+](https://themes.gohugo.io/themes/binario/)|[
+Vimux
+](https://github.com/twbs/bootstrap/blob/v4-dev/dist/css/bootstrap-reboot.css)|
+MIT
+|
+66
 |
 2022-01-13
 |
@@ -137,10 +137,10 @@ MIT
 2022-01-13
 |
 |[
-Tella
-](https://themes.gohugo.io/themes/tella/)|[
-wamo
-](https://github.com/opera7133/tella/blob/master/LICENSE)|
+TechFeed
+](https://themes.gohugo.io/themes/techfeed-hugo/)|[
+gethugothemes
+](https://github.com/gethugothemes/techfeed-hugo/graphs/contributors)|
 MIT
 |
 7
@@ -148,10 +148,10 @@ MIT
 2022-01-13
 |
 |[
-TechFeed
-](https://themes.gohugo.io/themes/techfeed-hugo/)|[
-gethugothemes
-](https://github.com/gethugothemes/techfeed-hugo/graphs/contributors)|
+Tella
+](https://themes.gohugo.io/themes/tella/)|[
+wamo
+](https://github.com/opera7133/tella/blob/master/LICENSE)|
 MIT
 |
 7
@@ -170,17 +170,6 @@ MIT
 2022-01-13
 |
 |[
-Clarity
-](https://themes.gohugo.io/themes/hugo-clarity/)|[
-Chip Zoller
-](https://github.com/KaTeX/KaTeX/tree/master/contrib/mhchem)|
-MIT
-|
-276
-|
-2022-01-12
-|
-|[
 Ananke Gohugo Theme
 ](https://themes.gohugo.io/themes/gohugo-theme-ananke/)|[
 theNewDynamic
@@ -188,6 +177,17 @@ theNewDynamic
 MIT
 |
 678
+|
+2022-01-12
+|
+|[
+Clarity
+](https://themes.gohugo.io/themes/hugo-clarity/)|[
+Chip Zoller
+](https://github.com/KaTeX/KaTeX/tree/master/contrib/mhchem)|
+MIT
+|
+276
 |
 2022-01-12
 |
@@ -1893,17 +1893,6 @@ MIT
 2021-07-08
 |
 |[
-Split Landing
-](https://themes.gohugo.io/themes/split-landing/)|[
-Katajun
-](https://github.com/KatamariJr/split-landing)|
-MIT
-|
-0
-|
-2021-07-08
-|
-|[
 Venture
 ](https://themes.gohugo.io/themes/venture/)|[
 William Toll
@@ -1911,6 +1900,17 @@ William Toll
 MIT
 |
 1
+|
+2021-07-08
+|
+|[
+Split Landing
+](https://themes.gohugo.io/themes/split-landing/)|[
+Katajun
+](https://github.com/KatamariJr/split-landing)|
+MIT
+|
+0
 |
 2021-07-08
 |
@@ -3390,17 +3390,6 @@ Creative Commons
 2020-05-29
 |
 |[
-Erblog
-](https://themes.gohugo.io/themes/erblog/)|[
-Ertuil
-](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
-MIT
-|
-52
-|
-2020-05-28
-|
-|[
 Jeffprod
 ](https://themes.gohugo.io/themes/hugo-blog-jeffprod/)|[
 @JeffProd
@@ -3412,15 +3401,15 @@ MIT
 2020-05-28
 |
 |[
-Resto Hugo
-](https://themes.gohugo.io/themes/resto-hugo/)|[
-Karthik
-](#)|
-CC-BY-3.0
+Erblog
+](https://themes.gohugo.io/themes/erblog/)|[
+Ertuil
+](https://github.com/ertuil/erblog/tree/styled-scrollbar)|
+MIT
 |
-0
+52
 |
-2020-05-26
+2020-05-28
 |
 |[
 monopriv
@@ -3428,6 +3417,17 @@ monopriv
 Karthik
 ](#)|
 MIT
+|
+0
+|
+2020-05-26
+|
+|[
+Resto Hugo
+](https://themes.gohugo.io/themes/resto-hugo/)|[
+Karthik
+](#)|
+CC-BY-3.0
 |
 0
 |
@@ -3727,17 +3727,6 @@ MIT
 2019-10-27
 |
 |[
-Spectre Pixel Theme
-](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
-Shin Tatt
-](https://github.com/digitalcraftsman/hugo-cactus-theme)|
-MIT
-|
-16
-|
-2019-10-12
-|
-|[
 Arabica
 ](https://themes.gohugo.io/themes/arabica/)|[
 Chen Fangzhou
@@ -3745,6 +3734,17 @@ Chen Fangzhou
 MIT
 |
 17
+|
+2019-10-12
+|
+|[
+Spectre Pixel Theme
+](https://themes.gohugo.io/themes/hugo-spectre-pixel-theme/)|[
+Shin Tatt
+](https://github.com/digitalcraftsman/hugo-cactus-theme)|
+MIT
+|
+16
 |
 2019-10-12
 |
@@ -4108,6 +4108,17 @@ MIT
 63
 |
 2019-01-23
+|
+|[
+Hugo Conference
+](https://themes.gohugo.io/themes/hugo-conference/)|[
+jweslley
+](https://github.com/jweslley/hugo-conference/blob/master/LICENSE)|
+MIT
+|
+30
+|
+2019-01-16
 |
 |[
 Elate
