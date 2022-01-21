@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2022-01-21 20:37:23 Asia/Shanghai &sorted=updated 
+> Automated deployment @ 2022-01-21 22:21:22 Asia/Shanghai &sorted=updated 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -71,17 +71,6 @@ MIT
 2022-01-13
 |
 |[
-Mainroad
-](https://themes.gohugo.io/themes/mainroad/)|[
-Vimux
-](https://github.com/Vimux/mainroad/blob/master/LICENSE.md)|
-GPLv2
-|
-594
-|
-2022-01-13
-|
-|[
 Toha
 ](https://themes.gohugo.io/themes/toha/)|[
 Emruz Hossain
@@ -89,6 +78,17 @@ Emruz Hossain
 MIT
 |
 416
+|
+2022-01-13
+|
+|[
+Mainroad
+](https://themes.gohugo.io/themes/mainroad/)|[
+Vimux
+](https://github.com/Vimux/mainroad/blob/master/LICENSE.md)|
+GPLv2
+|
+594
 |
 2022-01-13
 |
@@ -104,17 +104,6 @@ MIT
 2022-01-13
 |
 |[
-Hugo Profile
-](https://themes.gohugo.io/themes/hugo-profile/)|[
-Gurusabarish
-](https://github.com/gurusabarish/hugo-profile/issues)|
-MIT
-|
-64
-|
-2022-01-13
-|
-|[
 Binario
 ](https://themes.gohugo.io/themes/binario/)|[
 Vimux
@@ -122,6 +111,17 @@ Vimux
 MIT
 |
 66
+|
+2022-01-13
+|
+|[
+Hugo Profile
+](https://themes.gohugo.io/themes/hugo-profile/)|[
+Gurusabarish
+](https://github.com/gurusabarish/hugo-profile/issues)|
+MIT
+|
+64
 |
 2022-01-13
 |
@@ -443,17 +443,6 @@ MIT
 2022-01-01
 |
 |[
-Winning
-](https://themes.gohugo.io/themes/hugo-theme-winning/)|[
-Tim Clulow
-](https://github.com/cssandstuff/hugo-theme-winning/blob/master/LICENSE.md)|
-MIT
-|
-50
-|
-2022-01-01
-|
-|[
 Bootstrap-BP-Startpage
 ](https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage/)|[
 Sebastian Pech
@@ -461,6 +450,17 @@ Sebastian Pech
 MIT
 |
 42
+|
+2022-01-01
+|
+|[
+Winning
+](https://themes.gohugo.io/themes/hugo-theme-winning/)|[
+Tim Clulow
+](https://github.com/cssandstuff/hugo-theme-winning/blob/master/LICENSE.md)|
+MIT
+|
+50
 |
 2022-01-01
 |
@@ -3412,22 +3412,22 @@ MIT
 2020-05-28
 |
 |[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)|[
+Resto Hugo
+](https://themes.gohugo.io/themes/resto-hugo/)|[
 Karthik
 ](#)|
-MIT
+CC-BY-3.0
 |
 0
 |
 2020-05-26
 |
 |[
-Resto Hugo
-](https://themes.gohugo.io/themes/resto-hugo/)|[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)|[
 Karthik
 ](#)|
-CC-BY-3.0
+MIT
 |
 0
 |
