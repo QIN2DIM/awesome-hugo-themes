@@ -66,17 +66,6 @@ MIT
 2022-01-13
 "
 "[
-Toha
-](https://themes.gohugo.io/themes/toha/)","[
-Emruz Hossain
-](https://github.com/hugo-toha/toha)","
-MIT
-","
-416
-","
-2022-01-13
-"
-"[
 Mainroad
 ](https://themes.gohugo.io/themes/mainroad/)","[
 Vimux
@@ -84,6 +73,17 @@ Vimux
 GPLv2
 ","
 594
+","
+2022-01-13
+"
+"[
+Toha
+](https://themes.gohugo.io/themes/toha/)","[
+Emruz Hossain
+](https://github.com/hugo-toha/toha)","
+MIT
+","
+416
 ","
 2022-01-13
 "
@@ -1426,17 +1426,6 @@ MIT
 2021-09-08
 "
 "[
-Restaurant Hugo
-](https://themes.gohugo.io/themes/restaurant-hugo/)","[
-Themefisher
-](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)","
-MIT
-","
-35
-","
-2021-09-08
-"
-"[
 Infinity Hugo
 ](https://themes.gohugo.io/themes/infinity-hugo/)","[
 Themefisher
@@ -1444,6 +1433,17 @@ Themefisher
 MIT
 ","
 36
+","
+2021-09-08
+"
+"[
+Restaurant Hugo
+](https://themes.gohugo.io/themes/restaurant-hugo/)","[
+Themefisher
+](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)","
+MIT
+","
+35
 ","
 2021-09-08
 "
@@ -3158,17 +3158,6 @@ MIT
 2020-07-12
 "
 "[
-Academia Hugo
-](https://themes.gohugo.io/themes/academia-hugo/)","[
-Themefisher
-](https://github.com/themefisher/academia-hugo/issues)","
-MIT
-","
-121
-","
-2020-07-05
-"
-"[
 Vex
 ](https://themes.gohugo.io/themes/vex-hugo/)","[
 Themefisher
@@ -3176,6 +3165,17 @@ Themefisher
 CC-BY-3.0
 ","
 123
+","
+2020-07-05
+"
+"[
+Academia Hugo
+](https://themes.gohugo.io/themes/academia-hugo/)","[
+Themefisher
+](https://github.com/themefisher/academia-hugo/issues)","
+MIT
+","
+121
 ","
 2020-07-05
 "
@@ -3407,22 +3407,22 @@ MIT
 2020-05-28
 "
 "[
-monopriv
-](https://themes.gohugo.io/themes/monopriv/)","[
+Resto Hugo
+](https://themes.gohugo.io/themes/resto-hugo/)","[
 Karthik
 ](#)","
-MIT
+CC-BY-3.0
 ","
 0
 ","
 2020-05-26
 "
 "[
-Resto Hugo
-](https://themes.gohugo.io/themes/resto-hugo/)","[
+monopriv
+](https://themes.gohugo.io/themes/monopriv/)","[
 Karthik
 ](#)","
-CC-BY-3.0
+MIT
 ","
 0
 ","
