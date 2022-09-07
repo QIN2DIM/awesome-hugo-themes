@@ -35,6 +35,6 @@ jobs:
 
       - name: Push done work
         run: |
-          git add --all
+          git add .
           git commit -m "Automated deployment @ $(date '+%Y-%m-%d %H:%M:%S') ${{ env.TZ }} &sorted=${{ env.SORTED }}"
-          git push --u origin main
+          git push -f
