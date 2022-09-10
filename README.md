@@ -334,3 +334,4 @@
 |[Brutalist-Minimalist](https://themes.gohugo.io/themes/brutalist-minimalist-gohugo-theme/)|[M E Leypold](#)|MIT|0|2022-04-03|
 |[Up Business Theme](https://themes.gohugo.io/themes/up-business-theme/)|[Iago Bozza](#)|MIT|0|2022-03-09|
 |[Hugo Creator](https://themes.gohugo.io/themes/hugo-creator/)|[Chris Reddington](https://github.com/CloudWithChris/hugo-creator)|MIT|0|2022-02-28|
+|[Free Hugo Themes](https://hugo-templates.netlify.app/)|[fabform.io](https://hugo-templates.netlify.app)|MIT|0|2022-02-28|
