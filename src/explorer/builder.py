@@ -102,7 +102,7 @@ class AwesomeThemesBuilder(CoroutineSpeedup):
         #     end="",
         # )
 
-    def __del__(self):
+    def offload(self):
         items = []
         while not self.done_q.empty():
             items.append(self.done_q.get())

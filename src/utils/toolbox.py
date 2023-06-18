@@ -5,6 +5,7 @@
 # Description:
 import sys
 import typing
+import urllib.request
 from datetime import datetime, timezone, timedelta
 
 import requests
@@ -14,11 +15,11 @@ from loguru import logger
 def handle_html(url: str):
     headers = {
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
-                      "Chrome/99.0.4606.61 Safari/537.36 Edg/94.0.992.31"
+        "Chrome/99.0.4606.61 Safari/537.36 Edg/94.0.992.31"
     }
-
+    proxies = urllib.request.getproxies()
     session = requests.session()
-    response = session.get(url, headers=headers)
+    response = session.get(url, headers=headers, proxies=proxies)
     response.encoding = response.apparent_encoding
 
     return response

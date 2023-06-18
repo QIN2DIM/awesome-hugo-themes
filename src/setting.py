@@ -33,8 +33,8 @@ class Project:
 
     logs = project_root.joinpath("logs")
 
-    BUILDER_POWER: int = 32
-    FINDER_POWER: int = 32
+    BUILDER_POWER: int = 64
+    FINDER_POWER: int = 64
 
     def __post_init__(self):
         for k in [self.cache]:
@@ -45,7 +45,7 @@ class Project:
     ) -> typing.Optional[str]:
         env2readmd = {
             Env.PRODUCTION: self.project_root.joinpath("README.md"),
-            Env.DEVELOPMENT: self.src_root.joinpath("README.dev.md")
+            Env.DEVELOPMENT: self.src_root.joinpath("README.dev.md"),
         }
         return str(env2readmd[_env])
 

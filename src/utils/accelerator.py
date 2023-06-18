@@ -25,15 +25,12 @@ class CoroutineSpeedup(ABC):
         # 任务队列满载时刻长度
         self.max_queue_size: int = 0
 
-    def __del__(self):
-        """缓存回收"""
-
     def _launch(self):
         while not self.work_q.empty():
             task = self.work_q.get_nowait()
             self.control_driver(task)
 
-    def _offload_task(self):
+    def _overload(self):
         if self.docker:
             for task in self.docker:
                 self.work_q.put_nowait(task)
@@ -43,16 +40,21 @@ class CoroutineSpeedup(ABC):
     def preload(self):
         """数据加载"""
 
+    def offload(self):
+        """数据卸载"""
+
     @abstractmethod
     def control_driver(self, context: typing.Any):
         """并发函数"""
 
     def fire(self, power: int | None = 8) -> None:
         self.preload()
-        self._offload_task()
+        self._overload()
 
         if self.max_queue_size != 0:
             self.power = min(power, self.max_queue_size)
 
         task_list = [gevent.spawn(self._launch) for _ in range(self.power)]
         gevent.joinall(task_list)
+
+        self.offload()

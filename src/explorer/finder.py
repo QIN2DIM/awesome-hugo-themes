@@ -26,15 +26,17 @@ class LinkFinder(CoroutineSpeedup):
     runtime_cache: Path = project.cache.joinpath("github_urls.txt")
 
     # ::from_hugo_urls::input_path_csv::
-    path_hugo_urls = str(project.path_hugo_urls)
+    path_hugo_urls: str = ""
 
     @classmethod
     def from_hugo_urls(cls):
-        input_path_csv = LinkFinder.path_hugo_urls
+        input_path_csv = str(project.path_hugo_urls)
         try:
             with open(input_path_csv, "r", encoding="utf8") as f:
                 urls = [i[-1] for i in list(csv.reader(f))[1:]]
-            return cls(docker=urls)
+            instance = cls(docker=urls)
+            instance.path_hugo_urls = input_path_csv
+            return instance
         except FileNotFoundError as err:
             logger.error(f"<{LinkFinder.name}> 数据集预导入失败", input=input_path_csv, err=err)
 
