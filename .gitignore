@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 tests
-src/README.md
+src/README.dev.md
 .idea
-src/database
-src/logs
+**/database/**
+**/logs/**

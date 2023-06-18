@@ -5,7 +5,7 @@
 # Description:
 import fire
 
-from services.scaffold import Scaffold
+from scaffold import Scaffold
 
 if __name__ == "__main__":
     fire.Fire(Scaffold)

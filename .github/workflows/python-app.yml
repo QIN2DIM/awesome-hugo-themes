@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-   - cron: '17 */12 * * *'
+   - cron: '0 8 * * 3'
 
 jobs:
   build:
@@ -28,7 +28,7 @@ jobs:
       - name: Run Scaffold
         run: |
           sudo timedatectl set-timezone "Asia/Shanghai"
-          cd src && python main.py build --env=production --sort=${{ env.SORTED }} --force
+          cd src && python main.py build --force --sort ${{ env.SORTED }} --prod
 
       - name: Setup GIT user
         uses: fregante/setup-git-user@v1

@@ -4,48 +4,47 @@
 # Github     : https://github.com/QIN2DIM
 # Description: 初始化数据库
 import csv
+import typing
 
 import bs4.element
 import requests.exceptions
 from bs4 import BeautifulSoup
+from loguru import logger
 
-from services.setting import logger
-from services.utils import ToolBox
-from services.utils.accelerator.core import CoroutineSpeedup
+from utils import handle_html
+from utils.accelerator import CoroutineSpeedup
 
 BASE_URL = "https://themes.gohugo.io"
 
 
-def preload() -> list:
-    """获取 hugo themes 展示页的所有主题链接"""
-    response = ToolBox.handle_html(BASE_URL)
-    soup = BeautifulSoup(response.text, "html.parser")
-    section = soup.find("section")
-    tags = section.find_all("a")
-
-    urls = [tag["href"] for tag in tags]
-
-    logger.info(">>> PRELOAD AwesomeThemesBuilder.")
-    return urls
-
-
 class AwesomeThemesBuilder(CoroutineSpeedup):
-    def __init__(self, urls: list, output_path_csv: str):
-        super().__init__(docker=urls)
-
+    def __init__(self, output_path_csv: str):
+        super().__init__()
         self.output_path_csv = output_path_csv
 
         self.alias = "nil"
         self.session = requests.session()
 
+    def preload(self):
+        """获取 hugo themes 展示页的所有主题链接"""
+        response = handle_html(BASE_URL)
+        soup = BeautifulSoup(response.text, "html.parser")
+        section = soup.find("section")
+        tags = section.find_all("a")
+
+        urls = [tag["href"] for tag in tags]
+        self.docker = urls
+
     @logger.catch()
-    def control_driver(self, task):
+    def control_driver(self, context: typing.Any):
         response = None
 
         try:
-            response = ToolBox.handle_html(task)
+            response = handle_html(context)
+            if not response:
+                self.work_q.put(context)
         except requests.exceptions.ConnectionError:
-            self.work_q.put_nowait(task)
+            self.work_q.put(context)
 
         soup = BeautifulSoup(response.text, "html.parser")
 
@@ -93,31 +92,23 @@ class AwesomeThemesBuilder(CoroutineSpeedup):
                 "license": license_.text.strip() if license_ else self.alias,
                 "theme_tags": theme_tags,
                 "theme-repo": self.alias,
-                "theme-ref": task,
+                "theme-ref": context,
             }
         )
 
-        print(
-            f">>> [{self.max_queue_size - self.work_q.qsize()}/{self.max_queue_size}] "
-            f"GET 『{theme.text.strip() if theme else self.alias}』 {task}"
-        )
+        # print(
+        #     f"\r>>> [{self.max_queue_size - self.work_q.qsize()}/{self.max_queue_size}] "
+        #     f"GET 『{theme.text.strip() if theme else self.alias}』 {task}\n",
+        #     end="",
+        # )
 
-    def killer(self):
+    def __del__(self):
         items = []
         while not self.done_q.empty():
             items.append(self.done_q.get())
 
-        logger.info(f">>> [Builder] Capture Flow to {self.output_path_csv}.")
         with open(self.output_path_csv, "w", encoding="utf8", newline="") as f:
             writer = csv.writer(f)
             writer.writerow(list(items[0].keys()))
             for item in items:
                 writer.writerow(list(item.values()))
-
-
-if __name__ == "__main__":
-    rs = preload()
-    print(rs)
-    atb = AwesomeThemesBuilder(rs, "1.csv")
-    atb.control_driver(rs[0])
-    atb.killer()
