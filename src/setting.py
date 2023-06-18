@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import os
 import typing
 from dataclasses import dataclass
@@ -32,9 +34,6 @@ class Project:
     path_hugo_urls_plus = cache.joinpath(f"hugo_urls_plus.csv")
 
     logs = project_root.joinpath("logs")
-
-    BUILDER_POWER: int = 64
-    FINDER_POWER: int = 64
 
     def __post_init__(self):
         for k in [self.cache]:

@@ -5,30 +5,41 @@
 # Description:
 from __future__ import annotations
 
+import asyncio
+import sys
 import typing
 from abc import ABC, abstractmethod
+from asyncio import create_task
 from typing import Iterable
 
-import gevent
+import aiohttp
+from aiohttp import ClientSession
 from gevent.queue import Queue
 
 
-class CoroutineSpeedup(ABC):
+class AshFramework(ABC):
     def __init__(self, work_q: Queue = None, docker: Iterable = None):
+        if sys.platform.startswith("win") or "cygwin" in sys.platform:
+            asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+        else:
+            asyncio.set_event_loop(asyncio.new_event_loop())
+
         # 任务容器：queue
         self.work_q = work_q or Queue()
         self.done_q = Queue()
         # 任务容器：迭代器
         self.docker = docker
-        # 协程数
-        self.power: int = 1
         # 任务队列满载时刻长度
         self.max_queue_size: int = 0
 
-    def _launch(self):
+    async def _launch(self, session: aiohttp.ClientSession = None):
         while not self.work_q.empty():
-            task = self.work_q.get_nowait()
-            self.control_driver(task)
+            context = self.work_q.get_nowait()
+            await self._control_driver(context, session=session)
+
+    @abstractmethod
+    async def _control_driver(self, context: typing.Any, session: ClientSession):
+        """并发函数"""
 
     def _overload(self):
         if self.docker:
@@ -43,18 +54,23 @@ class CoroutineSpeedup(ABC):
     def offload(self):
         """数据卸载"""
 
-    @abstractmethod
-    def control_driver(self, context: typing.Any):
-        """并发函数"""
-
-    def fire(self, power: int | None = 8) -> None:
+    async def async_fire(self):
         self.preload()
         self._overload()
 
-        if self.max_queue_size != 0:
-            self.power = min(power, self.max_queue_size)
-
-        task_list = [gevent.spawn(self._launch) for _ in range(self.power)]
-        gevent.joinall(task_list)
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51"
+        }
+        conn = aiohttp.TCPConnector()
+        async with aiohttp.ClientSession(connector=conn, headers=headers) as session:
+            task_list = []
+            for _ in range(64):
+                task = create_task(self._launch(session))
+                task_list.append(task)
+            await asyncio.wait(task_list)
 
         self.offload()
+
+    def perform(self):
+        asyncio.run(self.async_fire())

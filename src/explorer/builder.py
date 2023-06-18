@@ -8,16 +8,15 @@ import typing
 
 import bs4.element
 import requests.exceptions
+from aiohttp import ClientSession
 from bs4 import BeautifulSoup
-from loguru import logger
 
-from utils import handle_html
-from utils.accelerator import CoroutineSpeedup
+from utils.accelerator import AshFramework
 
 BASE_URL = "https://themes.gohugo.io"
 
 
-class AwesomeThemesBuilder(CoroutineSpeedup):
+class AwesomeThemesBuilder(AshFramework):
     def __init__(self, output_path_csv: str):
         super().__init__()
         self.output_path_csv = output_path_csv
@@ -27,7 +26,14 @@ class AwesomeThemesBuilder(CoroutineSpeedup):
 
     def preload(self):
         """获取 hugo themes 展示页的所有主题链接"""
-        response = handle_html(BASE_URL)
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51"
+        }
+
+        session = requests.session()
+        response = session.get(BASE_URL, headers=headers)
+        response.encoding = response.apparent_encoding
         soup = BeautifulSoup(response.text, "html.parser")
         section = soup.find("section")
         tags = section.find_all("a")
@@ -35,18 +41,9 @@ class AwesomeThemesBuilder(CoroutineSpeedup):
         urls = [tag["href"] for tag in tags]
         self.docker = urls
 
-    @logger.catch()
-    def control_driver(self, context: typing.Any):
-        response = None
-
-        try:
-            response = handle_html(context)
-            if not response:
-                self.work_q.put(context)
-        except requests.exceptions.ConnectionError:
-            self.work_q.put(context)
-
-        soup = BeautifulSoup(response.text, "html.parser")
+    async def _control_driver(self, context: typing.Any, session: ClientSession):
+        async with session.get(context) as response:
+            soup = BeautifulSoup(await response.text(), "html.parser")
 
         section = soup.find("div", class_="flex-l bg-light-gray")
         subsection: bs4.element.ResultSet = section.find("ul").find_all("li")
@@ -95,12 +92,6 @@ class AwesomeThemesBuilder(CoroutineSpeedup):
                 "theme-ref": context,
             }
         )
-
-        # print(
-        #     f"\r>>> [{self.max_queue_size - self.work_q.qsize()}/{self.max_queue_size}] "
-        #     f"GET 『{theme.text.strip() if theme else self.alias}』 {task}\n",
-        #     end="",
-        # )
 
     def offload(self):
         items = []

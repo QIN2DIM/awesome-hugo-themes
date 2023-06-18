@@ -5,16 +5,14 @@
 # Description:
 from __future__ import annotations
 
-from gevent import monkey
-
-monkey.patch_all()
 import os
 import typing
+
+from loguru import logger
 
 from explorer.builder import AwesomeThemesBuilder
 from explorer.finder import LinkFinder
 from explorer.render import MarkdownRender
-from loguru import logger
 from setting import project, Env, SortMethod
 
 
@@ -78,14 +76,14 @@ class Scaffold:
         logger.info(f"[1/{_steps}] >>> RUN the AwesomeThemesBuilder")
         if not project.path_hugo_urls.exists() or force:
             builder = AwesomeThemesBuilder(output_path_csv=str(project.path_hugo_urls))
-            builder.fire(power=project.BUILDER_POWER)
+            builder.perform()
         else:
             logger.warning(f"任务已完成，如有需要请添加参数 `build --force` 强制运行")
 
         logger.info(f"[2/{_steps}] >>> RUN the LinkFinder")
         if not project.path_hugo_urls_plus.exists() or force:
             finder = LinkFinder.from_hugo_urls()
-            finder.fire(power=project.FINDER_POWER)
+            finder.perform()
             finder.merge(to=str(project.path_hugo_urls_plus))
         else:
             logger.warning(f"任务已完成，如有需要请添加参数 `build --force` 强制运行")

@@ -9,15 +9,16 @@ import typing
 from pathlib import Path
 from urllib.parse import urlparse
 
+import aiohttp.client_exceptions
+from aiohttp import ClientSession
 from bs4 import BeautifulSoup
 from loguru import logger
 
 from setting import project
-from utils import handle_html
-from utils.accelerator import CoroutineSpeedup
+from utils.accelerator import AshFramework
 
 
-class LinkFinder(CoroutineSpeedup):
+class LinkFinder(AshFramework):
     sep = ","
 
     name = "LinkFinder"
@@ -45,10 +46,14 @@ class LinkFinder(CoroutineSpeedup):
         if self.runtime_cache.exists():
             self.runtime_cache.write_text("", encoding="utf8")
 
-    @logger.catch()
-    def control_driver(self, context: typing.Any):
-        response = handle_html(context)
-        soup = BeautifulSoup(response.text, "html.parser")
+    async def _control_driver(self, context: typing.Any, session: ClientSession):
+        try:
+            async with session.get(context) as response:
+                soup = BeautifulSoup(await response.text(), "html.parser")
+        except aiohttp.client_exceptions.ClientConnectionError:
+            logger.error(f"drop task - {context=}")
+            return self.work_q.put(context)
+
         tag_a = soup.find_all("a")
         repo_urls = []
 
@@ -71,12 +76,6 @@ class LinkFinder(CoroutineSpeedup):
                 f.write(f"{context}{self.sep}nil\n")
             else:
                 f.write(f"{context}{self.sep}{repo_urls[0]}\n")
-
-        # print(
-        #     f"\r>>> [{self.max_queue_size - self.work_q.qsize()}/{self.max_queue_size}] "
-        #     f"{str(datetime.now()).split('.')[0]} GET {task}",
-        #     end="",
-        # )
 
     def merge(self, to: str):
         # 读取第一轮采集的缺少属性的表
