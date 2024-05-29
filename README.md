@@ -1,6 +1,6 @@
 # awesome-hugo-themes
 
-> Automated deployment @ 2024-05-22 16:21:47 Asia/Shanghai &sorted=stars 
+> Automated deployment @ 2024-05-29 16:22:17 Asia/Shanghai &sorted=stars 
 
 |Theme|Author|License|GitHub Stars|Updated|
 | :---: | :---: | :---: | :---: | :---: |
@@ -26,8 +26,8 @@
 |[Universal](https://themes.gohugo.io/themes/hugo-universal-theme/)|[devcows](https://github.com/devcows/hugo-universal-theme)|MIT|755|2024-03-12|
 |[DocuAPI](https://themes.gohugo.io/themes/docuapi/)|[Bjørn Erik Pedersen](https://github.com/bep/docuapi)|Apache-2.0|729|2023-09-24|
 |[DoIt](https://themes.gohugo.io/themes/doit/)|[PCloud](https://github.com/HEIGE-PCloud/)|MIT|718|2023-04-14|
-|[mini](https://themes.gohugo.io/themes/hugo-theme-cactus-plus/)|[nodejh](https://github.com/nodejh/hugo-theme-mini)|MIT|703|2024-03-22|
 |[XMin](https://themes.gohugo.io/themes/hugo-xmin/)|[Yihui Xie](https://github.com/yihui/hugo-xmin)|MIT|703|2024-03-04|
+|[mini](https://themes.gohugo.io/themes/hugo-theme-cactus-plus/)|[nodejh](https://github.com/nodejh/hugo-theme-mini)|MIT|703|2024-03-22|
 |[Clean White](https://themes.gohugo.io/themes/hugo-theme-cleanwhite/)|[Huabing Zhao](https://github.com/zhaohuabing/hugo-theme-cleanwhite)|Apache|667|2024-05-12|
 |[Hugo Profile](https://themes.gohugo.io/themes/hugo-profile/)|[Gurusabarish](https://github.com/gurusabarish/hugo-profile)|MIT|666|2024-03-09|
 |[reveal-hugo](https://themes.gohugo.io/themes/reveal-hugo/)|[Josh Dzielak](https://github.com/joshed-io/reveal-hugo)|MIT|655|2024-01-21|
@@ -71,8 +71,8 @@
 |[Techdoc](https://themes.gohugo.io/themes/hugo-theme-techdoc/)|[thingsym](https://github.com/thingsym/hugo-theme-techdoc)|MIT|201|2023-08-22|
 |[Black & Light](https://themes.gohugo.io/themes/hugo-black-and-light-theme/)|[David Hamp-Gonsalves](https://github.com/davidhampgonsalves/hugo-black-and-light-theme)|GNU3.0|186|2023-12-09|
 |[Hugo Story](https://themes.gohugo.io/themes/hugo-story/)|[caressofsteel](https://github.com/caressofsteel/hugo-story)|Creative Commons|182|2024-04-28|
-|[Paige](https://themes.gohugo.io/themes/paige/)|[Will Faught](https://github.com/willfaught/paige)|MIT|179|2024-04-09|
 |[pixyll](https://themes.gohugo.io/themes/hugo-theme-pixyll/)|[nil](https://github.com/azmelanar/hugo-theme-pixyll)|MIT|179|2024-04-30|
+|[Paige](https://themes.gohugo.io/themes/paige/)|[Will Faught](https://github.com/willfaught/paige)|MIT|179|2024-04-09|
 |[Roxo Hugo](https://themes.gohugo.io/themes/roxo-hugo/)|[Static Mania](https://github.com/StaticMania/roxo-hugo)|MIT|172|2023-09-12|
 |[Almeida CV](https://themes.gohugo.io/themes/almeida-cv/)|[Inês Almeida](https://github.com/ineesalmeida/almeida-cv)|MIT|170|2024-03-05|
 |[Monochrome](https://themes.gohugo.io/themes/hugo-theme-monochrome/)|[You-Kai Zheng](https://github.com/kaiiiz/)|MIT|164|2023-07-23|
@@ -120,9 +120,9 @@
 |[HB Starter Theme Template](https://themes.gohugo.io/themes/theme/)|[HB Framework Authors](https://github.com/hbstack/theme)|MIT|72|2023-11-27|
 |[Bare](https://themes.gohugo.io/themes/bare-hugo-theme/)|[Tom Forbes](https://github.com/orf/bare-hugo-theme)|MIT|70|2023-04-01|
 |[Kiera](https://themes.gohugo.io/themes/hugo-kiera/)|[Daniel Saunders](https://github.com/funkydan2/hugo-kiera)|MIT|69|2023-07-12|
-|[Soho](https://themes.gohugo.io/themes/soho/)|[alexandrevicenzi](https://github.com/alexandrevicenzi/soho)|MIT|67|2024-02-15|
 |[Iris](https://themes.gohugo.io/themes/hugo-theme-iris/)|[peaceiris](https://github.com/peaceiris/hugo-theme-iris)|MIT|67|2024-04-10|
 |[Split](https://themes.gohugo.io/themes/hugo-split-theme/)|[Christian Mendoza](https://github.com/escalate/hugo-split-theme)|Creative Commons Attribution 3.0 Unported|67|2024-04-05|
+|[Soho](https://themes.gohugo.io/themes/soho/)|[alexandrevicenzi](https://github.com/alexandrevicenzi/soho)|MIT|67|2024-02-15|
 |[Nightfall](https://themes.gohugo.io/themes/hugo-theme-nightfall/)|[Matúš Námešný](https://github.com/LordMathis/hugo-theme-nightfall)|MIT|66|2024-04-26|
 |[Hermit-V2](https://themes.gohugo.io/themes/hermit-v2/)|[1BL4Z3R](https://github.com/1bl4z3r/hermit-V2)|MIT|65|2024-04-24|
 |[Alpha Church](https://themes.gohugo.io/themes/alpha-church/)|[Daniel Saunders](https://github.com/funkydan2/alpha-church)|Creative Commons Attribution 3.0|64|2024-03-18|
@@ -136,8 +136,8 @@
 |[Docura](https://themes.gohugo.io/themes/docura/)|[Dumindu Madunuwan](https://github.com/docura/docura)|MIT|58|2024-02-12|
 |[fluency](https://themes.gohugo.io/themes/hugo-theme-fluency/)|[WayJam So](https://github.com/wayjam/hugo-theme-fluency)|MIT|55|2023-07-15|
 |[Adritian-Free-Hugo-Theme](https://themes.gohugo.io/themes/adritian-free-hugo-theme/)|[Adrián Moreno Peña](https://github.com/zetxek/adritian-free-hugo-theme)|MIT|54|2024-05-10|
-|[Slick](https://themes.gohugo.io/themes/slick/)|[Frieder Grießhammer](https://github.com/spookey/slick)|MIT|53|2024-01-29|
 |[Holy](https://themes.gohugo.io/themes/holy/)|[SerKo](https://github.com/serkodev/holy)|MIT|53|2023-06-19|
+|[Slick](https://themes.gohugo.io/themes/slick/)|[Frieder Grießhammer](https://github.com/spookey/slick)|MIT|53|2024-01-29|
 |[Bootstrap-BP](https://themes.gohugo.io/themes/bootstrap-bp-hugo-theme/)|[Sebastian Pech](https://github.com/spech66/bootstrap-bp-hugo-theme)|MIT|51|2024-03-23|
 |[Paperesque](https://themes.gohugo.io/themes/paperesque/)|[Fabian Tamp](https://github.com/capnfabs/paperesque)|MIT|49|2024-05-18|
 |[Henry Hugo Theme](https://themes.gohugo.io/themes/henry-hugo/)|[Kaushik Gopal](https://github.com/kaushikgopal/henry-hugo)|nil|49|2024-04-03|
@@ -154,29 +154,29 @@
 |[Internet Weblog](https://themes.gohugo.io/themes/internet-weblog/)|[Josh Johnson](https://github.com/jnjosh/internet-weblog)|MIT|40|2024-02-25|
 |[TeXify3](https://themes.gohugo.io/themes/hugo-texify3/)|[Michael Neuper](https://github.com/michaelneuper/hugo-texify3)|MIT|37|2023-11-16|
 |[Notrack](https://themes.gohugo.io/themes/hugo-theme-notrack/)|[Simon Bengtsson](https://github.com/gevhaz/hugo-theme-notrack)|GPLv3|37|2024-01-21|
-|[Maverick](https://themes.gohugo.io/themes/maverick/)|[Tran Duy Canh, Calvin](https://github.com/canhtran/maverick)|MIT|36|2024-03-31|
 |[Bridget](https://themes.gohugo.io/themes/bridget/)|[sped0n](https://github.com/Sped0n/bridget)|MIT|36|2024-02-20|
+|[Maverick](https://themes.gohugo.io/themes/maverick/)|[Tran Duy Canh, Calvin](https://github.com/canhtran/maverick)|MIT|36|2024-03-31|
 |[Dot-Org](https://themes.gohugo.io/themes/dot-org-hugo-theme/)|[CNCF](https://github.com/cncf/dot-org-hugo-theme)|MIT|33|2024-01-24|
 |[Lean Launch Page](https://themes.gohugo.io/themes/hugo-theme-lean-launch-page/)|[Ricardo N Feliciano](https://github.com/felicianotech/hugo-theme-lean-launch-page)|MIT|32|2023-01-05|
 |[Coyote](https://themes.gohugo.io/themes/hugo-theme-coyote/)|[nightswinger](https://github.com/nightswinger/hugo-theme-coyote)|MIT|31|2023-02-26|
 |[Qubt](https://themes.gohugo.io/themes/qubt/)|[Christian Olsen](https://github.com/chrede88/qubt)|MIT|30|2024-05-18|
 |[xterm](https://themes.gohugo.io/themes/hugo-xterm/)|[Mani Kumar](https://github.com/manid2/hugo-xterm)|GPL-3.0|30|2024-05-06|
+|[Salinger](https://themes.gohugo.io/themes/salinger-theme/)|[Jack Salici](https://github.com/jacksalici/salinger-theme)|MIT|30|2023-09-15|
 |[Simple Style](https://themes.gohugo.io/themes/simple-style/)|[Linlin Yan](https://github.com/yanlinlin82/simple-style)|MIT|30|2024-03-20|
 |[Potato Dark](https://themes.gohugo.io/themes/potato-dark/)|[Potato Dark](https://github.com/surajmandalcell/potato-dark)|MIT|30|2023-05-14|
-|[Salinger](https://themes.gohugo.io/themes/salinger-theme/)|[Jack Salici](https://github.com/jacksalici/salinger-theme)|MIT|30|2023-09-15|
 |[Lekh](https://themes.gohugo.io/themes/lekh/)|[Rahul Tiwari](https://github.com/ba11b0y/lekh)|MIT|29|2023-05-06|
 |[npq hugo](https://themes.gohugo.io/themes/npq-hugo/)|[saadnpq](https://github.com/saadjsct/npqhugo)|GPLv3|27|2023-03-27|
 |[Arcana](https://themes.gohugo.io/themes/hugo-arcana/)|[Trevor Bergeron](https://github.com/half-duplex/hugo-arcana)|Creative Commons Attribution 3.0 Unported|26|2024-05-07|
 |[ink-free](https://themes.gohugo.io/themes/ink-free/)|[Christian Hollinger](https://github.com/chollinger93/ink-free)|MIT|26|2023-06-20|
 |[Graysx](https://themes.gohugo.io/themes/graysx-hugo/)|[akatiggerx04](https://github.com/akatiggerx04/graysx-hugo)|GPLv3|26|2023-01-20|
-|[Galleries Deluxe](https://themes.gohugo.io/themes/galleriesdeluxe/)|[Bjørn Erik Pedersen](https://github.com/bep/galleriesdeluxe)|MIT|25|2024-01-15|
 |[SK1](https://themes.gohugo.io/themes/hugo-theme-sk1/)|[John Siu](https://github.com/J-Siu/hugo-theme-sk1)|MIT|25|2023-03-22|
+|[Galleries Deluxe](https://themes.gohugo.io/themes/galleriesdeluxe/)|[Bjørn Erik Pedersen](https://github.com/bep/galleriesdeluxe)|MIT|25|2024-01-15|
 |[Flat](https://themes.gohugo.io/themes/hugo-theme-flat/)|[leafee98](https://github.com/leafee98/hugo-theme-flat)|MIT|24|2024-01-23|
 |[Silhouette Hugo](https://themes.gohugo.io/themes/silhouette-hugo/)|[Matt Button](https://github.com/mattbutton/silhouette-hugo)|MIT|23|2023-08-23|
 |[Seven](https://themes.gohugo.io/themes/seven/)|[mrhelloboy](https://github.com/mrhelloboy/seven)|MIT|22|2024-05-16|
 |[Starter Theme](https://themes.gohugo.io/themes/hugo-starter/)|[Jim Frenette](https://github.com/jimfrenette/hugo-starter)|MIT|22|2024-03-18|
-|[Perplex](https://themes.gohugo.io/themes/perplex/)|[Georg Makowski](https://github.com/bowman2001/perplex)|Apache 2.0|22|2024-02-28|
 |[TeXify2](https://themes.gohugo.io/themes/hugo-texify2/)|[weastur](https://github.com/weastur/)|MIT|22|2023-07-04|
+|[Perplex](https://themes.gohugo.io/themes/perplex/)|[Georg Makowski](https://github.com/bowman2001/perplex)|Apache 2.0|22|2024-02-28|
 |[Index](https://themes.gohugo.io/themes/hugo-index/)|[Aditya Telange](https://github.com/adityatelange/hugo-index)|MIT|22|2023-06-07|
 |[ColorDrop](https://themes.gohugo.io/themes/colordrop/)|[Humberto Rocha](https://github.com/humrochagf/colordrop)|MIT|21|2024-05-13|
 |[Photophobia](https://themes.gohugo.io/themes/photophobia/)|[setsevireon](https://github.com/setsevireon/photophobia)|MIT|21|2024-05-01|
@@ -185,28 +185,28 @@
 |[hello-4s3ti](https://themes.gohugo.io/themes/hugo-theme-hello-4s3ti/)|[4s3ti](https://github.com/coolapso/hugo-theme-hello-4s3ti)|MIT|21|2023-08-26|
 |[Typo](https://themes.gohugo.io/themes/typo/)|[Francesco Tomaselli](https://github.com/tomfran/typo)|MIT|20|2024-05-16|
 |[capsule](https://themes.gohugo.io/themes/capsule/)|[nil](https://github.com/sudorook/capsule)|GPL-2.0|19|2024-04-04|
-|[hulga](https://themes.gohugo.io/themes/hugo-theme-hulga/)|[wlh](https://github.com/wlh320/hugo-theme-hulga)|MIT|19|2024-04-02|
 |[Materialize-BP](https://themes.gohugo.io/themes/materialize-bp-hugo-theme/)|[Sebastian Pech](https://github.com/spech66/materialize-bp-hugo-theme)|MIT|19|2024-04-03|
 |[kitab](https://themes.gohugo.io/themes/kitab/)|[Darshan Baral](https://github.com/darshanbaral/kitab)|MIT|19|2024-02-13|
+|[hulga](https://themes.gohugo.io/themes/hugo-theme-hulga/)|[wlh](https://github.com/wlh320/hugo-theme-hulga)|MIT|19|2024-04-02|
 |[simplog](https://themes.gohugo.io/themes/simplog/)|[michimani](https://github.com/michimani/simplog)|MIT|19|2023-05-26|
 |[Hugo Simple](https://themes.gohugo.io/themes/hugo-simple/)|[Shaolong Chen](https://github.com/maolonglong/hugo-simple)|MIT|18|2024-05-13|
 |[Anubis2](https://themes.gohugo.io/themes/hugo-theme-anubis2/)|[Junyi](https://github.com/Junyi-99/hugo-theme-anubis2)|MIT|18|2024-04-27|
-|[Dark Theme Editor](https://themes.gohugo.io/themes/dark-theme-editor/)|[Jing Wang](https://github.com/JingWangTW/dark-theme-editor)|Apache-2.0|18|2024-04-05|
 |[Port Hugo](https://themes.gohugo.io/themes/port-hugo/)|[tylerjlawson](https://github.com/tylerlaws0n/port-hugo)|MIT|18|2024-03-30|
-|[Adam & Eve](https://themes.gohugo.io/themes/hugo_theme_adam_eve/)|[Olivier DOSSMANN](https://github.com/blankoworld/hugo_theme_adam_eve)|MIT|18|2023-08-31|
 |[VNovel](https://themes.gohugo.io/themes/vnovel/)|[wamo](https://github.com/opera7133/vnovel)|MIT|18|2023-12-06|
+|[Dark Theme Editor](https://themes.gohugo.io/themes/dark-theme-editor/)|[Jing Wang](https://github.com/JingWangTW/dark-theme-editor)|Apache-2.0|18|2024-04-05|
+|[Adam & Eve](https://themes.gohugo.io/themes/hugo_theme_adam_eve/)|[Olivier DOSSMANN](https://github.com/blankoworld/hugo_theme_adam_eve)|MIT|18|2023-08-31|
 |[Hugo Cat](https://themes.gohugo.io/themes/hugo-cat/)|[Aziz N](https://github.com/httpsecure/hugo-cat)|BSD 2-Clause License|18|2023-04-15|
-|[heyo](https://themes.gohugo.io/themes/heyo-hugo-theme/)|[Lucas David Vadilho](https://github.com/LucasVadilho/heyo-hugo-theme)|MIT|17|2024-03-19|
 |[Kaslaanka](https://themes.gohugo.io/themes/kaslaanka/)|[Youssef Hesham](https://github.com/M1cR0xf7/kaslaanka)|GPL-v3|17|2024-04-09|
-|[SimpleIT](https://themes.gohugo.io/themes/simpleit-hugo-theme/)|[Marcelo Canina](https://github.com/marcanuy/simpleit-hugo-theme)|MIT|17|2023-10-12|
+|[heyo](https://themes.gohugo.io/themes/heyo-hugo-theme/)|[Lucas David Vadilho](https://github.com/LucasVadilho/heyo-hugo-theme)|MIT|17|2024-03-19|
 |[JuiceBar](https://themes.gohugo.io/themes/hugo-juicebar/)|[Hotjuice](https://github.com/hotjuicew/hugo-JuiceBar)|MIT|17|2023-07-18|
+|[SimpleIT](https://themes.gohugo.io/themes/simpleit-hugo-theme/)|[Marcelo Canina](https://github.com/marcanuy/simpleit-hugo-theme)|MIT|17|2023-10-12|
 |[linkshrubbery](https://themes.gohugo.io/themes/linkshrubbery/)|[Yannic Haupenthal](https://github.com/tohn/linkshrubbery)|MIT|17|2023-06-23|
 |[Pehtheme Hugo](https://themes.gohugo.io/themes/pehtheme-hugo/)|[Fauzan My](https://github.com/fauzanmy/pehtheme-hugo)|MIT|16|2023-12-10|
 |[Doors](https://themes.gohugo.io/themes/hugo-theme-doors/)|[zzzmisa](https://github.com/zzzmisa/hugo-theme-doors)|MIT|16|2023-11-24|
 |[Arberia Theme For Hugo](https://themes.gohugo.io/themes/arberia/)|[antedoro](https://github.com/antedoro/arberia)|MIT|15|2024-03-03|
-|[Corporio](https://themes.gohugo.io/themes/corporio/)|[nil](https://github.com/AminZibayi/Corporio)|nil|15|2023-07-12|
 |[hamburg](https://themes.gohugo.io/themes/hugo-theme-hamburg/)|[Hauke Stieler](https://github.com/hauke96/hugo-theme-hamburg)|MIT|15|2023-07-29|
 |[Niello](https://themes.gohugo.io/themes/niello/)|[guangmean](https://github.com/guangmean/Niello)|MIT|15|2023-04-05|
+|[Corporio](https://themes.gohugo.io/themes/corporio/)|[nil](https://github.com/AminZibayi/Corporio)|nil|15|2023-07-12|
 |[Agnes](https://themes.gohugo.io/themes/agnes-hugo-theme/)|[Debashish Chakrabarty](https://github.com/dchucks/agnes-hugo-theme)|GPL-3.0|14|2024-03-19|
 |[Zahi](https://themes.gohugo.io/themes/zahi/)|[Mohamed Elhefni](https://github.com/mohamedelhefni/)|MIT|13|2024-04-28|
 |[Ava](https://themes.gohugo.io/themes/hugo-theme-ava/)|[Julien Maury](https://github.com/jmau111/hugo-theme-ava)|MIT|13|2023-01-16|
@@ -214,45 +214,46 @@
 |[Prav](https://themes.gohugo.io/themes/hugo-theme-prav/)|[Pravin Paratey](https://github.com/pravin/hugo-theme-prav)|MIT|12|2022-12-11|
 |[hugo-theme-walden](https://themes.gohugo.io/themes/hugo-theme-walden/)|[Homecat](https://github.com/Homecat805/hugo-theme-walden)|MIT|11|2024-05-06|
 |[Minimal Marketing](https://themes.gohugo.io/themes/minimal_marketing/)|[Roland Lopez](https://github.com/letItCurl/minimal_marketing)|MIT|11|2023-12-21|
-|[BlogRa](https://themes.gohugo.io/themes/blogra/)|[Rafed Muhammad Yasir](https://github.com/rafed/BlogRa)|GPL|11|2023-06-23|
 |[Tikva](https://themes.gohugo.io/themes/hugo-tikva/)|[Ralf Geschke](https://github.com/geschke/hugo-tikva)|MIT|11|2023-02-16|
+|[BlogRa](https://themes.gohugo.io/themes/blogra/)|[Rafed Muhammad Yasir](https://github.com/rafed/BlogRa)|GPL|11|2023-06-23|
 |[L1nkr](https://themes.gohugo.io/themes/l1nkr/)|[Christian Olsen](https://github.com/chrede88/L1nkr)|MIT|10|2024-03-19|
-|[HB Start Theme](https://themes.gohugo.io/themes/theme-start/)|[HB Framework](https://github.com/hbstack/theme-start)|MIT|10|2024-01-08|
 |[cyberscape](https://themes.gohugo.io/themes/cyberscape/)|[Isak Solheim](https://github.com/isaksolheim/cyberscape)|MIT|10|2023-12-15|
+|[HB Start Theme](https://themes.gohugo.io/themes/theme-start/)|[HB Framework](https://github.com/hbstack/theme-start)|MIT|10|2024-01-08|
 |[Red Rose](https://themes.gohugo.io/themes/hugo-theme-red-rose/)|[Aziz](https://github.com/httpsecure/hugo-theme-red-rose)|MIT|10|2023-04-14|
 |[Quint](https://themes.gohugo.io/themes/hugo-theme-quint/)|[Victoria Drake](https://github.com/victoriadrake/hugo-theme-quint)|MIT|9|2024-05-04|
 |[Flex-BP-CV](https://themes.gohugo.io/themes/flex-bp-hugo-cv/)|[Sebastian Pech](https://github.com/spech66/flex-bp-hugo-cv)|MIT|8|2024-03-23|
 |[TopHat](https://themes.gohugo.io/themes/tophat-theme/)|[Sergio Barriel](https://github.com/sergiobarriel/tophat-theme)|MIT|8|2023-11-05|
 |[Terminal](https://themes.gohugo.io/themes/terminal-hugo-theme/)|[Nayan Seth](https://github.com/techbarrack/terminal-hugo-theme)|MPL-2.0|7|2024-04-24|
 |[Coming Soon](https://themes.gohugo.io/themes/coming-soon/)|[Mansoor Barri](https://github.com/mansoorbarri/coming-soon)|GNU GPLv3|7|2024-04-17|
-|[Kembang](https://themes.gohugo.io/themes/kembang/)|[Aziz](https://github.com/httpsecure/kembang)|MIT|5|2023-04-14|
-|[Hugo Creator](https://themes.gohugo.io/themes/hugo-creator/)|[Chris Reddington](https://github.com/CloudWithChris/hugo-creator)|MIT|5|2024-01-28|
 |[Huey](https://themes.gohugo.io/themes/huey/)|[Adam Whitlock](https://github.com/alloydwhitlock/huey)|MIT|5|2024-01-28|
 |[triple-hyde](https://themes.gohugo.io/themes/triple-hyde/)|[derme302](https://github.com/derme302/triple-hyde)|MIT|5|2023-10-07|
+|[Kembang](https://themes.gohugo.io/themes/kembang/)|[Aziz](https://github.com/httpsecure/kembang)|MIT|5|2023-04-14|
+|[Hugo Creator](https://themes.gohugo.io/themes/hugo-creator/)|[Chris Reddington](https://github.com/CloudWithChris/hugo-creator)|MIT|5|2024-01-28|
+|[Vinyl Records Collection](https://themes.gohugo.io/themes/vinyl-records-collection-theme/)|[Seb](https://github.com/Wivik/vinyl-records-collection-theme)|MIT|4|2023-08-26|
 |[Saral](https://themes.gohugo.io/themes/saral/)|[Dipesh Singh](https://github.com/dipeshsingh253/saral)|MIT|4|2024-03-21|
 |[Huguette](https://themes.gohugo.io/themes/hugo-theme-huguette/)|[nil](https://github.com/cathelijne/hugo-theme-huguette)|MIT|4|2023-09-26|
-|[Vinyl Records Collection](https://themes.gohugo.io/themes/vinyl-records-collection-theme/)|[Seb](https://github.com/Wivik/vinyl-records-collection-theme)|MIT|4|2023-08-26|
 |[hugo-pure](https://themes.gohugo.io/themes/hugo-pure/)|[Undus](https://github.com/undus5/hugo-pure)|MIT|3|2024-04-29|
-|[Frühling](https://themes.gohugo.io/themes/fruhling/)|[Roman Arkharov](https://github.com/romka/fruhling)|MIT|2|2024-01-24|
 |[Simple Dark](https://themes.gohugo.io/themes/simple-dark/)|[Michael Schächer](https://github.com/MichaelSchaecher/simple-dark)|MIT|2|2024-04-06|
 |[Spaced Blog](https://themes.gohugo.io/themes/hugo-theme-spaced-blog/)|[Luke Morgan](https://github.com/Morgscode/hugo-theme-spaced-blog)|MIT|2|2024-02-02|
+|[Frühling](https://themes.gohugo.io/themes/fruhling/)|[Roman Arkharov](https://github.com/romka/fruhling)|MIT|2|2024-01-24|
 |[Yuan](https://themes.gohugo.io/themes/yuan/)|[17ms](https://github.com/17ms/yuan)|MIT|2|2023-11-07|
+|[Recover](https://themes.gohugo.io/themes/re-cover/)|[Eamonn Cottrell](https://github.com/sieis/re-cover)|MIT|1|2023-09-06|
 |[plague](https://themes.gohugo.io/themes/plague/)|[Brian Reumere](https://github.com/brianreumere/plague)|MIT|1|2024-04-19|
 |[Am Writing](https://themes.gohugo.io/themes/am-writing-hugo-theme/)|[Seb](https://github.com/Wivik/am-writing-hugo-theme)|MIT|1|2024-04-05|
-|[Recover](https://themes.gohugo.io/themes/re-cover/)|[Eamonn Cottrell](https://github.com/sieis/re-cover)|MIT|1|2023-09-06|
-|[hugo-theme-comic](https://themes.gohugo.io/themes/hugo-theme-comic/)|[Martin Rubli](#)|MIT|0|2024-05-19|
+|[Quiet Foodie](https://themes.gohugo.io/themes/quietfoodie/)|[Fabi](https://github.com/paposeco/quietfoodie)|MIT|0|2024-05-22|
+|[Comic](https://themes.gohugo.io/themes/hugo-theme-comic/)|[Martin Rubli](#)|MIT|0|2024-05-22|
 |[Write-Only Hugo Theme](https://themes.gohugo.io/themes/writeonlyhugo-theme/)|[Iago Bozza](#)|MIT|0|2024-05-02|
-|[Hugo Ficurinia](https://themes.gohugo.io/themes/hugo-ficurinia/)|[Gabriele Musco](#)|AGPL3|0|2024-04-11|
 |[FreshPink](https://themes.gohugo.io/themes/freshpink/)|[nil](https://github.com/ElecBrandy/freshpink)|MIT|0|2024-03-20|
+|[Hugo Ficurinia](https://themes.gohugo.io/themes/hugo-ficurinia/)|[Gabriele Musco](#)|AGPL3|0|2024-04-11|
 |[Kidlat](https://themes.gohugo.io/themes/kidlat/)|[Leon Kidlat](https://github.com/kidlat2024/kidlat)|Apache 2.0|0|2024-03-09|
 |[Resume A4](https://themes.gohugo.io/themes/resume-a4/)|[MERT BAKIR](#)|MIT|0|2023-12-24|
-|[Up Business Theme](https://themes.gohugo.io/themes/up-business-theme/)|[Iago Bozza](#)|MIT|0|2023-08-08|
 |[TatBanTheme2.0](https://themes.gohugo.io/themes/tatbantheme2.0/)|[Tatsat Banerjee](https://github.com/tatsatb/TatBanTheme2.0)|GNU General Public License Version 3|0|2023-12-11|
-|[Axile](https://themes.gohugo.io/themes/axile-hugo/)|[Axorax](https://github.com/Axorax/axile-hugo)|MIT|0|2023-06-04|
-|[Glim Midnight](https://themes.gohugo.io/themes/glim-midnight/)|[Maheen Waris](https://github.com/mansoorbarri/glim-midnight)|MIT|0|2023-11-27|
-|[smigle](https://themes.gohugo.io/themes/smigle-hugo-theme/)|[Ian S. McBride](#)|MIT|0|2023-11-09|
-|[Hugo Split Gallery](https://themes.gohugo.io/themes/hugo-split-gallery/)|[Thomas Muguet](#)|GPL-3.0-or-later|0|2023-08-24|
 |[Color Your World](https://themes.gohugo.io/themes/hugo-theme-color-your-world/)|[rmaguiar](#)|MIT|0|2023-12-18|
+|[smigle](https://themes.gohugo.io/themes/smigle-hugo-theme/)|[Ian S. McBride](#)|MIT|0|2023-11-09|
+|[Glim Midnight](https://themes.gohugo.io/themes/glim-midnight/)|[Maheen Waris](https://github.com/mansoorbarri/glim-midnight)|MIT|0|2023-11-27|
 |[Gruvhugo](https://themes.gohugo.io/themes/gruvhugo/)|[Abraham Raji](#)|GPL-3.0|0|2023-05-15|
+|[Hugo Split Gallery](https://themes.gohugo.io/themes/hugo-split-gallery/)|[Thomas Muguet](#)|GPL-3.0-or-later|0|2023-08-24|
 |[Hugo.386](https://themes.gohugo.io/themes/hugo.386/)|[JM Fergeau](#)|Apache 2|0|2023-04-15|
 |[Classless Blog](https://themes.gohugo.io/themes/classless-blog/)|[Johannes Lippmann](#)|GPLv3|0|2023-01-27|
+|[Up Business Theme](https://themes.gohugo.io/themes/up-business-theme/)|[Iago Bozza](#)|MIT|0|2023-08-08|
+|[Axile](https://themes.gohugo.io/themes/axile-hugo/)|[Axorax](https://github.com/Axorax/axile-hugo)|MIT|0|2023-06-04|
