@@ -1,8 +1,8 @@
-loguru~=0.7.0
-asyncio~=3.4.3
-aiohttp~=3.8.4
-gevent~=22.10.2
-fire~=0.5.0
-bs4~=0.0.1
-beautifulsoup4~=4.12.2
-requests~=2.31.0
+loguru
+asyncio
+aiohttp
+gevent
+fire
+bs4
+beautifulsoup4
+requests
