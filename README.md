@@ -75,9 +75,11 @@
 |[Hugo NexT](https://themes.gohugo.io/themes/hugo-theme-next/)|[lisenhui](https://github.com/hugo-next/hugo-theme-next)|MIT|240|2025-01-31|
 |[Blank](https://themes.gohugo.io/themes/blank/)|[Vimux](https://github.com/Vimux/blank)|MIT|236|2023-11-25|
 |[Hugo Story](https://themes.gohugo.io/themes/hugo-story/)|[caressofsteel](https://github.com/caressofsteel/hugo-story)|Creative Commons|226|2024-07-23|
+|[Bigspring Light](https://gethugothemes.com/products/bigspring-light)|[Gethugothemes](https://github.com/gethugothemes/bigspring-light-hugo)|MIT|226|2026-04-19|
 |[Techdoc](https://themes.gohugo.io/themes/hugo-theme-techdoc/)|[thingsym](https://github.com/thingsym/hugo-theme-techdoc)|MIT|224|2025-01-30|
 |[Pickles](https://themes.gohugo.io/themes/hugo_theme_pickles/)|[nil](https://github.com/mismith0227/hugo_theme_pickles)|MIT|223|2024-11-07|
 |[Gruvbox](https://themes.gohugo.io/themes/hugo-theme-gruvbox/)|[Michael Schnerring](https://github.com/schnerring/hugo-theme-gruvbox)|MIT|219|2025-03-11|
+|[Roxo](https://themes.gohugo.io/themes/roxo-hugo/)|[Sitepins](https://github.com/sitepins/roxo-hugo)|MIT|214|2026-05-21|
 |[Monochrome](https://themes.gohugo.io/themes/hugo-theme-monochrome/)|[You-Kai Zheng](https://github.com/kaiiiz/)|MIT|209|2024-11-27|
 |[Almeida CV](https://themes.gohugo.io/themes/almeida-cv/)|[Inês Almeida](https://github.com/ineesalmeida/almeida-cv)|MIT|206|2024-12-26|
 |[Black & Light](https://themes.gohugo.io/themes/hugo-black-and-light-theme/)|[David Hamp-Gonsalves](https://github.com/davidhampgonsalves/hugo-black-and-light-theme)|GNU3.0|194|2023-12-09|
