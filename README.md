@@ -75,6 +75,7 @@
 |[Hugo NexT](https://themes.gohugo.io/themes/hugo-theme-next/)|[lisenhui](https://github.com/hugo-next/hugo-theme-next)|MIT|240|2025-01-31|
 |[Blank](https://themes.gohugo.io/themes/blank/)|[Vimux](https://github.com/Vimux/blank)|MIT|236|2023-11-25|
 |[Hugo Story](https://themes.gohugo.io/themes/hugo-story/)|[caressofsteel](https://github.com/caressofsteel/hugo-story)|Creative Commons|226|2024-07-23|
+|[Bigspring Light](https://gethugothemes.com/products/bigspring-light)|[Gethugothemes](https://github.com/gethugothemes/bigspring-light-hugo)|MIT|226|2026-04-19|
 |[Techdoc](https://themes.gohugo.io/themes/hugo-theme-techdoc/)|[thingsym](https://github.com/thingsym/hugo-theme-techdoc)|MIT|224|2025-01-30|
 |[Pickles](https://themes.gohugo.io/themes/hugo_theme_pickles/)|[nil](https://github.com/mismith0227/hugo_theme_pickles)|MIT|223|2024-11-07|
 |[Gruvbox](https://themes.gohugo.io/themes/hugo-theme-gruvbox/)|[Michael Schnerring](https://github.com/schnerring/hugo-theme-gruvbox)|MIT|219|2025-03-11|
